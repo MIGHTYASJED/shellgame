@@ -180,22 +180,32 @@ def neighborhood(g, node_id: str, hops: int = 1, limit: int = 150) -> dict:
 
 # ------------------------------------------------------------------ 4. chokepoints
 NODES_BY_ID = "UNWIND $ids AS i MATCH (n:Node {id: i}) RETURN n"
+# FalkorDB's built-in PageRank over the whole leak graph (~0.6 s on 242k nodes): how central a candidate is in the
+# wider offshore network, not just on our paths. Reported as "top X%" and used to rank ties.
+PAGERANK = ("CALL algo.pageRank('Node', NULL) YIELD node, score WITH collect({id: node.id, s: score}) AS all "
+            "UNWIND [x IN all WHERE x.id IN $ids] AS c "
+            "RETURN c.id, size([y IN all WHERE y.s > c.s]) * 100.0 / size(all)")
 
 
 def chokepoints(g, paths: list) -> dict:
-    """Intermediate nodes ranked by how many sanction paths run through them (ties: closest to the subject).
-    betweenness = share of the paths that pass through the node (path betweenness on the evidence subgraph)."""
+    """Intermediate nodes ranked by how many sanction paths run through them, then closest to the subject, then by network PageRank.
+    betweenness = share of our paths through the node; pagerank_top_pct = FalkorDB algo.pageRank percentile."""
     count, first_pos = {}, {}
     for p in paths:
         for pos, nid in enumerate(p["nodes"][1:-1], 1):
             count[nid] = count.get(nid, 0) + 1
             first_pos[nid] = min(first_pos.get(nid, pos), pos)
     params = {"ids": list(count)}
-    out = [{"id": n.properties["id"], "name": n.properties.get("name"), "kind": _kind(n),
-            "paths_through": count[n.properties["id"]], "betweenness": round(count[n.properties["id"]] / len(paths), 3)}
-           for (n,) in (g.ro_query(NODES_BY_ID, params).result_set if count else [])]
-    out.sort(key=lambda c: (-c["paths_through"], first_pos[c["id"]]))
-    return {"cypher": NODES_BY_ID, "params": params, "chokepoints": out}
+    cypher = [NODES_BY_ID, PAGERANK]
+    if not count:
+        return {"cypher": cypher, "params": params, "chokepoints": []}
+    top = dict(g.ro_query(PAGERANK, params).result_set)
+    out = [{"id": (i := n.properties["id"]), "name": n.properties.get("name"), "kind": _kind(n),
+            "paths_through": count[i], "betweenness": round(count[i] / len(paths), 3),
+            "pagerank_top_pct": round(top.get(i, 100.0), 1)}
+           for (n,) in g.ro_query(NODES_BY_ID, params).result_set]
+    out.sort(key=lambda c: (-c["paths_through"], first_pos[c["id"]], c["pagerank_top_pct"]))
+    return {"cypher": cypher, "params": params, "chokepoints": out}
 
 
 # ------------------------------------------------------------------ 5. counterfactual

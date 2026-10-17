@@ -44,7 +44,7 @@ All reads go through `ro_query`. `{n}`, `{hops}` and `{label}` are integers or a
 | search | `CALL db.idx.fulltext.queryNodes('Node', $q) YIELD node, score RETURN node, score ORDER BY score DESC LIMIT $limit` |
 | sanction_paths, counterfactual | `MATCH (s:Node {id: $id}) RETURN ID(s)`; once per hop: `UNWIND $frontier AS i MATCH (n) WHERE ID(n) = i WITH n, i MATCH (n)-[r]-(m) WHERE r.w <= $max_w AND m.id <> $remove_id RETURN i, ID(m), m:Sanction`; read-back: `UNWIND $pairs AS p WITH p[0] AS x, p[1] AS y MATCH (a) WHERE ID(a) = x WITH a, x, y MATCH (b) WHERE ID(b) = y WITH a, b, x, y MATCH (a)-[r]-(b) RETURN x, y, a, r, b ORDER BY r.w` |
 | neighborhood | `MATCH (s:{label} {id: $id})-[*0..{hops}]-(n) WITH DISTINCT n LIMIT $limit WITH collect(n) AS ns UNWIND ns AS a OPTIONAL MATCH (a)-[r]->(b) WHERE b IN ns RETURN a, collect({source: a.id, target: b.id, type: type(r), link: r.link})` |
-| chokepoints | `UNWIND $ids AS i MATCH (n:Node {id: i}) RETURN n` |
+| chokepoints | `UNWIND $ids AS i MATCH (n:Node {id: i}) RETURN n`; network centrality: `CALL algo.pageRank('Node', NULL) YIELD node, score WITH collect({id: node.id, s: score}) AS all UNWIND [x IN all WHERE x.id IN $ids] AS c RETURN c.id, size([y IN all WHERE y.s > c.s]) * 100.0 / size(all)` |
 | shell_cluster | `MATCH (s:Node {id: $id}) OPTIONAL MATCH (s)-[:REGISTERED_ADDRESS*0..1]-(a:Address)-[:REGISTERED_ADDRESS]-(m:Entity) WITH s, count(DISTINCT a) AS addrs, collect(DISTINCT m) AS by_addr OPTIONAL MATCH (s)-[:INTERMEDIARY_OF*0..1]-(i:Intermediary)-[:INTERMEDIARY_OF]-(m2:Entity) RETURN addrs, size(by_addr), [x IN by_addr[..8] \| x.name], count(DISTINCT i), count(DISTINCT m2)` |
 | node_detail | `MATCH (n:{label} {id: $id}) RETURN n` |
 | stats | `CALL db.labels()`, `CALL db.relationshipTypes()`, then `MATCH (n:L) RETURN count(n)` and `MATCH ()-[r:T]->() RETURN count(r)` |
@@ -58,7 +58,7 @@ All reads go through `ro_query`. `{n}`, `{hops}` and `{label}` are integers or a
   - Paths are ranked by total `w`, then by hops. `hops` counts every edge up to and including `MATCHES`. The verdict gate counts ICIJ hops only, which is `hops` − 1.
   - Why not built-in procedures: on the 225k-node real graph, `allShortestPaths` and `algo.SPpaths` enumerate dead ends through hub nodes and sometimes ran longer than 60 s.
 - **counterfactual**: the same BFS with `$remove_id` skipped. It is exact: `still_exposed=false` means no path within `max_hops` avoids that node.
-- **chokepoints**: ranks nodes by how many sanction paths pass through them, with ties going to the node closest to the subject. `betweenness` is the share of paths that pass through the node.
+- **chokepoints**: ranks nodes by how many sanction paths pass through them, with ties going to the node closest to the subject, then by FalkorDB `algo.pageRank` over the whole graph (~0.6 s). `betweenness` is the share of paths that pass through the node; `pagerank_top_pct` places the node in the wider offshore network ("top 3%").
 - **shell_cluster**: `size` counts the entities that share the subject's registered address, including the subject. The mass-registration rule R4 uses this number. Sharing an intermediary is reported separately, because large formation agents serve thousands of companies.
 
 ## Real-data run (2026-10-17, ICIJ full-oldb + OpenSanctions `targets.simple.csv`)

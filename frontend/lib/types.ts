@@ -62,6 +62,7 @@ export interface Chokepoint {
   kind: string;
   paths_through: number;
   betweenness?: number;
+  pagerank_top_pct?: number;
 }
 
 export interface CaseRecord {

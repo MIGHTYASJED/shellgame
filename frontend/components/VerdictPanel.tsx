@@ -109,7 +109,7 @@ export function VerdictPanel({ st, subjectName, desk, onPickNode }: { st: InvSta
               <span className="font-serif text-[22px] leading-tight tracking-[-.01em] group-hover:text-green transition-colors">{choke.name}</span>
               <span className="block mt-1 text-[12.5px] text-ink-3">
                 {choke.kind} · on {choke.paths_through} of the paths found
-                {typeof choke.betweenness === "number" ? <> · betweenness <span className="num">{choke.betweenness.toFixed(2)}</span></> : null}
+                {typeof choke.pagerank_top_pct === "number" ? <> · PageRank top <span className="num">{choke.pagerank_top_pct}%</span> of the leak graph</> : null}
               </span>
             </button>
             {st.agentCf && (
