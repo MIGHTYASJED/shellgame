@@ -1,0 +1,2518 @@
+node_id_start,node_id_end,rel_type,link,status,start_date,end_date,sourceID
+12000166,10000001,officer_of,director of,,23-NOV-2004,,Panama Papers
+12000294,10000001,officer_of,beneficiary of,,16-SEP-2008,,Panama Papers
+12000488,10000001,officer_of,nominee director of,,06-OCT-2007,,Panama Papers
+11000012,10000001,intermediary_of,intermediary of,,,,Panama Papers
+12000255,10000002,officer_of,director of,,27-SEP-2004,,Panama Papers
+11000010,10000002,intermediary_of,intermediary of,,,,Panama Papers
+10000002,14000153,registered_address,registered address,,,,Panama Papers
+12000412,10000003,officer_of,director of,,23-OCT-2001,,Panama Papers
+12000116,10000003,officer_of,director of,,11-MAY-2000,,Panama Papers
+11000019,10000003,intermediary_of,intermediary of,,,,Panama Papers
+12000219,10000004,officer_of,director of,,21-MAY-2014,,Panama Papers
+12000108,10000004,officer_of,beneficiary of,,14-NOV-2015,,Panama Papers
+11000011,10000004,intermediary_of,intermediary of,,,,Panama Papers
+10000004,14000206,registered_address,registered address,,,,Panama Papers
+12000320,10000005,officer_of,director of,,06-JAN-2014,,Panama Papers
+12000264,10000005,officer_of,shareholder of,,19-AUG-2004,,Panama Papers
+11000022,10000005,intermediary_of,intermediary of,,,,Panama Papers
+12000138,10000006,officer_of,director of,,28-JUL-1999,,Panama Papers
+12000480,10000006,officer_of,director of,,07-JUN-2012,,Panama Papers
+11000005,10000006,intermediary_of,intermediary of,,,,Panama Papers
+10000006,14000154,registered_address,registered address,,,,Panama Papers
+12000211,10000007,officer_of,director of,,21-APR-2011,,Panama Papers
+12000164,10000007,officer_of,beneficiary of,,27-MAY-2003,,Panama Papers
+11000009,10000007,intermediary_of,intermediary of,,,,Panama Papers
+10000007,14000121,registered_address,registered address,,,,Panama Papers
+12000123,10000008,officer_of,shareholder of,,26-MAY-2012,,Panama Papers
+12000059,10000008,officer_of,secretary of,,18-JUL-2011,,Panama Papers
+12000481,10000008,officer_of,nominee director of,,21-JAN-2004,,Panama Papers
+11000006,10000008,intermediary_of,intermediary of,,,,Panama Papers
+10000008,14000015,registered_address,registered address,,,,Panama Papers
+12000405,10000009,officer_of,shareholder of,,28-JAN-2013,,Panama Papers
+12000412,10000009,officer_of,director of,,02-FEB-2008,,Panama Papers
+12000483,10000009,officer_of,nominee director of,,20-MAY-2000,,Panama Papers
+11000029,10000009,intermediary_of,intermediary of,,,,Panama Papers
+12000344,10000010,officer_of,secretary of,,27-DEC-2002,,Panama Papers
+12000337,10000010,officer_of,shareholder of,,04-OCT-2014,,Panama Papers
+11000030,10000010,intermediary_of,intermediary of,,,,Panama Papers
+10000010,14000269,registered_address,registered address,,,,Panama Papers
+12000255,10000011,officer_of,beneficiary of,,11-OCT-2010,,Panama Papers
+12000453,10000011,officer_of,shareholder of,,24-APR-2011,,Panama Papers
+12000482,10000011,officer_of,nominee director of,,07-MAR-2001,,Panama Papers
+11000006,10000011,intermediary_of,intermediary of,,,,Panama Papers
+10000011,14000141,registered_address,registered address,,,,Panama Papers
+12000210,10000012,officer_of,director of,,16-SEP-2009,,Panama Papers
+12000131,10000012,officer_of,shareholder of,,04-JUN-2015,,Panama Papers
+11000014,10000012,intermediary_of,intermediary of,,,,Panama Papers
+10000012,14000127,registered_address,registered address,,,,Panama Papers
+12000451,10000013,officer_of,beneficiary of,,16-DEC-2009,,Panama Papers
+12000402,10000013,officer_of,beneficiary of,,01-NOV-1999,,Panama Papers
+11000027,10000013,intermediary_of,intermediary of,,,,Panama Papers
+10000013,14000028,registered_address,registered address,,,,Panama Papers
+12000130,10000014,officer_of,beneficiary of,,21-DEC-2009,,Panama Papers
+11000029,10000014,intermediary_of,intermediary of,,,,Panama Papers
+12000274,10000015,officer_of,secretary of,,13-JAN-2010,,Panama Papers
+11000030,10000015,intermediary_of,intermediary of,,,,Panama Papers
+12000155,10000016,officer_of,shareholder of,,10-APR-2003,,Panama Papers
+12000047,10000016,officer_of,secretary of,,21-JUN-2011,,Panama Papers
+11000026,10000016,intermediary_of,intermediary of,,,,Panama Papers
+10000016,14000042,registered_address,registered address,,,,Panama Papers
+12000242,10000017,officer_of,beneficiary of,,23-JUL-2001,,Panama Papers
+12000378,10000017,officer_of,shareholder of,,23-MAY-2014,,Panama Papers
+11000003,10000017,intermediary_of,intermediary of,,,,Panama Papers
+10000017,14000168,registered_address,registered address,,,,Panama Papers
+12000356,10000018,officer_of,shareholder of,,21-MAR-2012,,Panama Papers
+12000015,10000018,officer_of,shareholder of,,05-JAN-2010,,Panama Papers
+11000007,10000018,intermediary_of,intermediary of,,,,Panama Papers
+10000018,14000161,registered_address,registered address,,,,Panama Papers
+12000057,10000019,officer_of,director of,,22-JUL-2008,,Panama Papers
+12000483,10000019,officer_of,nominee director of,,15-AUG-2002,,Panama Papers
+11000009,10000019,intermediary_of,intermediary of,,,,Panama Papers
+10000019,14000168,registered_address,registered address,,,,Panama Papers
+12000102,10000020,officer_of,shareholder of,,13-JUL-2005,,Panama Papers
+12000044,10000020,officer_of,director of,,01-SEP-2005,,Panama Papers
+11000030,10000020,intermediary_of,intermediary of,,,,Panama Papers
+10000020,14000237,registered_address,registered address,,,,Panama Papers
+12000135,10000021,officer_of,shareholder of,,02-JUL-2011,,Panama Papers
+11000020,10000021,intermediary_of,intermediary of,,,,Panama Papers
+10000021,14000046,registered_address,registered address,,,,Panama Papers
+12000088,10000022,officer_of,director of,,23-SEP-2011,,Panama Papers
+12000485,10000022,officer_of,nominee director of,,25-AUG-2013,,Panama Papers
+11000004,10000022,intermediary_of,intermediary of,,,,Panama Papers
+10000022,14000105,registered_address,registered address,,,,Panama Papers
+12000485,10000023,officer_of,nominee director of,,26-MAY-2007,,Panama Papers
+11000024,10000023,intermediary_of,intermediary of,,,,Panama Papers
+10000023,14000067,registered_address,registered address,,,,Panama Papers
+12000439,10000024,officer_of,beneficiary of,,24-NOV-2004,,Panama Papers
+12000106,10000024,officer_of,secretary of,,06-JUL-2002,,Panama Papers
+11000001,10000024,intermediary_of,intermediary of,,,,Panama Papers
+10000024,14000135,registered_address,registered address,,,,Panama Papers
+12000317,10000025,officer_of,shareholder of,,12-OCT-2012,,Panama Papers
+11000003,10000025,intermediary_of,intermediary of,,,,Panama Papers
+10000025,14000069,registered_address,registered address,,,,Panama Papers
+12000355,10000026,officer_of,shareholder of,,13-DEC-2011,,Panama Papers
+12000204,10000026,officer_of,shareholder of,,20-MAY-2000,,Panama Papers
+11000004,10000026,intermediary_of,intermediary of,,,,Panama Papers
+10000026,14000027,registered_address,registered address,,,,Panama Papers
+12000477,10000027,officer_of,beneficiary of,,20-NOV-1999,,Panama Papers
+12000121,10000027,officer_of,director of,,09-SEP-2010,,Panama Papers
+11000010,10000027,intermediary_of,intermediary of,,,,Panama Papers
+12000068,10000028,officer_of,director of,,06-MAY-2003,,Panama Papers
+12000457,10000028,officer_of,director of,,16-JUN-2012,,Panama Papers
+11000005,10000028,intermediary_of,intermediary of,,,,Panama Papers
+10000028,14000272,registered_address,registered address,,,,Panama Papers
+12000073,10000029,officer_of,shareholder of,,16-MAY-2009,,Panama Papers
+12000134,10000029,officer_of,secretary of,,10-MAY-2006,,Panama Papers
+12000481,10000029,officer_of,nominee director of,,17-JUN-2011,,Panama Papers
+11000029,10000029,intermediary_of,intermediary of,,,,Panama Papers
+10000029,14000252,registered_address,registered address,,,,Panama Papers
+12000285,10000030,officer_of,shareholder of,,21-AUG-1999,,Panama Papers
+11000007,10000030,intermediary_of,intermediary of,,,,Panama Papers
+10000030,14000118,registered_address,registered address,,,,Panama Papers
+12000019,10000031,officer_of,shareholder of,,23-AUG-2011,,Panama Papers
+11000004,10000031,intermediary_of,intermediary of,,,,Panama Papers
+12000021,10000032,officer_of,shareholder of,,18-AUG-2012,,Panama Papers
+12000227,10000032,officer_of,secretary of,,04-DEC-2002,,Panama Papers
+11000004,10000032,intermediary_of,intermediary of,,,,Panama Papers
+10000032,14000105,registered_address,registered address,,,,Panama Papers
+12000093,10000033,officer_of,director of,,22-OCT-2004,,Panama Papers
+12000428,10000033,officer_of,director of,,01-SEP-2003,,Panama Papers
+12000485,10000033,officer_of,nominee director of,,14-FEB-2005,,Panama Papers
+11000025,10000033,intermediary_of,intermediary of,,,,Panama Papers
+10000033,14000049,registered_address,registered address,,,,Panama Papers
+12000014,10000034,officer_of,shareholder of,,04-JUL-2009,,Panama Papers
+12000146,10000034,officer_of,director of,,04-JUN-2002,,Panama Papers
+11000001,10000034,intermediary_of,intermediary of,,,,Panama Papers
+10000034,14000246,registered_address,registered address,,,,Panama Papers
+12000322,10000035,officer_of,director of,,11-JAN-2012,,Panama Papers
+12000138,10000035,officer_of,beneficiary of,,24-DEC-2002,,Panama Papers
+11000007,10000035,intermediary_of,intermediary of,,,,Panama Papers
+12000166,10000036,officer_of,director of,,20-JUL-2000,,Panama Papers
+12000409,10000036,officer_of,secretary of,,09-MAR-2005,,Panama Papers
+12000482,10000036,officer_of,nominee director of,,25-JUL-2000,,Panama Papers
+11000001,10000036,intermediary_of,intermediary of,,,,Panama Papers
+12000199,10000037,officer_of,beneficiary of,,21-NOV-2002,,Panama Papers
+11000004,10000037,intermediary_of,intermediary of,,,,Panama Papers
+10000037,14000222,registered_address,registered address,,,,Panama Papers
+12000463,10000038,officer_of,beneficiary of,,22-FEB-2009,,Panama Papers
+12000351,10000038,officer_of,director of,,07-AUG-2012,,Panama Papers
+11000029,10000038,intermediary_of,intermediary of,,,,Panama Papers
+10000038,14000138,registered_address,registered address,,,,Panama Papers
+12000047,10000039,officer_of,beneficiary of,,20-MAR-2011,,Panama Papers
+12000388,10000039,officer_of,shareholder of,,14-FEB-1999,,Panama Papers
+11000017,10000039,intermediary_of,intermediary of,,,,Panama Papers
+10000039,14000238,registered_address,registered address,,,,Panama Papers
+12000332,10000040,officer_of,shareholder of,,16-SEP-2014,,Panama Papers
+11000003,10000040,intermediary_of,intermediary of,,,,Panama Papers
+10000040,14000224,registered_address,registered address,,,,Panama Papers
+12000465,10000041,officer_of,beneficiary of,,05-MAR-2007,,Panama Papers
+11000027,10000041,intermediary_of,intermediary of,,,,Panama Papers
+10000041,14000219,registered_address,registered address,,,,Panama Papers
+12000292,10000042,officer_of,director of,,17-FEB-2014,,Panama Papers
+12000025,10000042,officer_of,secretary of,,14-FEB-2012,,Panama Papers
+11000022,10000042,intermediary_of,intermediary of,,,,Panama Papers
+10000042,14000130,registered_address,registered address,,,,Panama Papers
+12000131,10000043,officer_of,director of,,24-NOV-2012,,Panama Papers
+12000300,10000043,officer_of,shareholder of,,26-MAR-2010,,Panama Papers
+12000481,10000043,officer_of,nominee director of,,02-FEB-2011,,Panama Papers
+11000029,10000043,intermediary_of,intermediary of,,,,Panama Papers
+10000043,14000161,registered_address,registered address,,,,Panama Papers
+12000388,10000044,officer_of,beneficiary of,,11-MAR-2004,,Panama Papers
+12000344,10000044,officer_of,shareholder of,,03-DEC-2006,,Panama Papers
+11000028,10000044,intermediary_of,intermediary of,,,,Panama Papers
+10000044,14000223,registered_address,registered address,,,,Panama Papers
+12000003,10000045,officer_of,director of,,06-NOV-2013,,Panama Papers
+11000015,10000045,intermediary_of,intermediary of,,,,Panama Papers
+10000045,14000250,registered_address,registered address,,,,Panama Papers
+12000317,10000046,officer_of,beneficiary of,,23-NOV-2010,,Panama Papers
+12000417,10000046,officer_of,beneficiary of,,03-MAR-2002,,Panama Papers
+11000001,10000046,intermediary_of,intermediary of,,,,Panama Papers
+10000046,14000009,registered_address,registered address,,,,Panama Papers
+12000440,10000047,officer_of,shareholder of,,05-NOV-2005,,Panama Papers
+12000488,10000047,officer_of,nominee director of,,14-NOV-2015,,Panama Papers
+11000007,10000047,intermediary_of,intermediary of,,,,Panama Papers
+10000047,14000238,registered_address,registered address,,,,Panama Papers
+12000243,10000048,officer_of,director of,,06-MAR-2012,,Panama Papers
+11000016,10000048,intermediary_of,intermediary of,,,,Panama Papers
+10000048,14000231,registered_address,registered address,,,,Panama Papers
+12000104,10000049,officer_of,director of,,11-JAN-2001,,Panama Papers
+12000487,10000049,officer_of,nominee director of,,21-DEC-2011,,Panama Papers
+11000014,10000049,intermediary_of,intermediary of,,,,Panama Papers
+12000019,10000050,officer_of,director of,,19-DEC-2013,,Panama Papers
+12000250,10000050,officer_of,shareholder of,,23-JAN-2014,,Panama Papers
+11000001,10000050,intermediary_of,intermediary of,,,,Panama Papers
+10000050,14000162,registered_address,registered address,,,,Panama Papers
+12000138,10000051,officer_of,secretary of,,16-FEB-2013,,Panama Papers
+11000020,10000051,intermediary_of,intermediary of,,,,Panama Papers
+12000230,10000052,officer_of,shareholder of,,10-DEC-2004,,Panama Papers
+12000358,10000052,officer_of,secretary of,,12-AUG-2005,,Panama Papers
+11000017,10000052,intermediary_of,intermediary of,,,,Panama Papers
+10000052,14000174,registered_address,registered address,,,,Panama Papers
+12000068,10000053,officer_of,secretary of,,27-NOV-2009,,Panama Papers
+12000453,10000053,officer_of,secretary of,,26-MAR-2004,,Panama Papers
+12000487,10000053,officer_of,nominee director of,,10-DEC-2000,,Panama Papers
+11000022,10000053,intermediary_of,intermediary of,,,,Panama Papers
+10000053,14000089,registered_address,registered address,,,,Panama Papers
+12000081,10000054,officer_of,director of,,26-JUL-2013,,Panama Papers
+11000010,10000054,intermediary_of,intermediary of,,,,Panama Papers
+10000054,14000025,registered_address,registered address,,,,Panama Papers
+12000184,10000055,officer_of,beneficiary of,,22-MAR-2003,,Panama Papers
+11000027,10000055,intermediary_of,intermediary of,,,,Panama Papers
+12000414,10000056,officer_of,director of,,20-APR-2001,,Panama Papers
+12000487,10000056,officer_of,nominee director of,,18-APR-2013,,Panama Papers
+11000009,10000056,intermediary_of,intermediary of,,,,Panama Papers
+12000394,10000057,officer_of,director of,,09-MAR-2014,,Panama Papers
+12000024,10000057,officer_of,director of,,22-FEB-1999,,Panama Papers
+11000030,10000057,intermediary_of,intermediary of,,,,Panama Papers
+12000431,10000058,officer_of,director of,,20-FEB-2015,,Panama Papers
+12000387,10000058,officer_of,director of,,17-FEB-2003,,Panama Papers
+12000482,10000058,officer_of,nominee director of,,21-FEB-2004,,Panama Papers
+11000030,10000058,intermediary_of,intermediary of,,,,Panama Papers
+10000058,14000150,registered_address,registered address,,,,Panama Papers
+12000391,10000059,officer_of,director of,,05-NOV-2009,,Panama Papers
+12000260,10000059,officer_of,beneficiary of,,27-MAR-2001,,Panama Papers
+11000028,10000059,intermediary_of,intermediary of,,,,Panama Papers
+10000059,14000213,registered_address,registered address,,,,Panama Papers
+12000126,10000060,officer_of,secretary of,,11-MAY-2014,,Panama Papers
+11000006,10000060,intermediary_of,intermediary of,,,,Panama Papers
+10000060,14000191,registered_address,registered address,,,,Panama Papers
+12000185,10000061,officer_of,shareholder of,,25-SEP-2011,,Panama Papers
+12000323,10000061,officer_of,shareholder of,,05-JUL-2011,,Panama Papers
+11000030,10000061,intermediary_of,intermediary of,,,,Panama Papers
+10000061,14000235,registered_address,registered address,,,,Panama Papers
+12000484,10000062,officer_of,nominee director of,,25-JAN-2014,,Panama Papers
+12000016,10000062,officer_of,director of,,03-JUN-2008,,Panama Papers
+11000013,10000062,intermediary_of,intermediary of,,,,Panama Papers
+12000223,10000063,officer_of,shareholder of,,21-MAR-1999,,Panama Papers
+12000481,10000063,officer_of,nominee director of,,21-DEC-2014,,Panama Papers
+11000010,10000063,intermediary_of,intermediary of,,,,Panama Papers
+10000063,14000156,registered_address,registered address,,,,Panama Papers
+12000466,10000064,officer_of,director of,,20-MAR-2010,,Panama Papers
+12000177,10000064,officer_of,secretary of,,21-APR-2015,,Panama Papers
+12000485,10000064,officer_of,nominee director of,,20-OCT-2012,,Panama Papers
+11000023,10000064,intermediary_of,intermediary of,,,,Panama Papers
+10000064,14000208,registered_address,registered address,,,,Panama Papers
+12000452,10000065,officer_of,director of,,18-JUN-2010,,Panama Papers
+11000024,10000065,intermediary_of,intermediary of,,,,Panama Papers
+10000065,14000065,registered_address,registered address,,,,Panama Papers
+12000110,10000066,officer_of,beneficiary of,,17-JUN-2003,,Panama Papers
+12000048,10000066,officer_of,director of,,01-SEP-2006,,Panama Papers
+11000008,10000066,intermediary_of,intermediary of,,,,Panama Papers
+12000372,10000067,officer_of,director of,,24-JAN-2009,,Panama Papers
+12000217,10000067,officer_of,beneficiary of,,21-SEP-2009,,Panama Papers
+11000004,10000067,intermediary_of,intermediary of,,,,Panama Papers
+10000067,14000064,registered_address,registered address,,,,Panama Papers
+12000153,10000068,officer_of,secretary of,,11-APR-2015,,Panama Papers
+12000294,10000068,officer_of,director of,,08-JUN-2007,,Panama Papers
+11000010,10000068,intermediary_of,intermediary of,,,,Panama Papers
+10000068,14000072,registered_address,registered address,,,,Panama Papers
+12000267,10000069,officer_of,director of,,19-APR-2009,,Panama Papers
+12000378,10000069,officer_of,secretary of,,04-MAR-2011,,Panama Papers
+12000486,10000069,officer_of,nominee director of,,27-JUL-2000,,Panama Papers
+11000003,10000069,intermediary_of,intermediary of,,,,Panama Papers
+10000069,14000067,registered_address,registered address,,,,Panama Papers
+12000110,10000070,officer_of,director of,,18-SEP-2010,,Panama Papers
+12000229,10000070,officer_of,beneficiary of,,19-AUG-2011,,Panama Papers
+12000487,10000070,officer_of,nominee director of,,15-DEC-2013,,Panama Papers
+11000024,10000070,intermediary_of,intermediary of,,,,Panama Papers
+12000074,10000071,officer_of,secretary of,,23-AUG-2002,,Panama Papers
+11000023,10000071,intermediary_of,intermediary of,,,,Panama Papers
+10000071,14000271,registered_address,registered address,,,,Panama Papers
+12000356,10000072,officer_of,director of,,24-MAR-2015,,Panama Papers
+12000488,10000072,officer_of,nominee director of,,12-FEB-2011,,Panama Papers
+11000004,10000072,intermediary_of,intermediary of,,,,Panama Papers
+10000072,14000149,registered_address,registered address,,,,Panama Papers
+12000268,10000073,officer_of,beneficiary of,,12-MAY-2007,,Panama Papers
+12000486,10000073,officer_of,nominee director of,,16-JAN-2002,,Panama Papers
+11000005,10000073,intermediary_of,intermediary of,,,,Panama Papers
+10000073,14000216,registered_address,registered address,,,,Panama Papers
+12000480,10000074,officer_of,beneficiary of,,07-MAR-2013,,Panama Papers
+11000001,10000074,intermediary_of,intermediary of,,,,Panama Papers
+10000074,14000179,registered_address,registered address,,,,Panama Papers
+12000446,10000075,officer_of,director of,,10-OCT-2012,,Panama Papers
+12000488,10000075,officer_of,nominee director of,,11-JUL-2013,,Panama Papers
+11000027,10000075,intermediary_of,intermediary of,,,,Panama Papers
+10000075,14000068,registered_address,registered address,,,,Panama Papers
+12000259,10000076,officer_of,secretary of,,22-AUG-2002,,Panama Papers
+11000028,10000076,intermediary_of,intermediary of,,,,Panama Papers
+10000076,14000046,registered_address,registered address,,,,Panama Papers
+12000199,10000077,officer_of,beneficiary of,,18-JAN-2012,,Panama Papers
+12000120,10000077,officer_of,shareholder of,,09-NOV-2000,,Panama Papers
+11000028,10000077,intermediary_of,intermediary of,,,,Panama Papers
+10000077,14000013,registered_address,registered address,,,,Panama Papers
+12000288,10000078,officer_of,shareholder of,,20-SEP-1999,,Panama Papers
+12000331,10000078,officer_of,director of,,17-APR-2013,,Panama Papers
+12000482,10000078,officer_of,nominee director of,,17-JAN-2001,,Panama Papers
+11000022,10000078,intermediary_of,intermediary of,,,,Panama Papers
+12000010,10000079,officer_of,shareholder of,,27-DEC-2012,,Panama Papers
+12000484,10000079,officer_of,nominee director of,,03-SEP-2008,,Panama Papers
+11000013,10000079,intermediary_of,intermediary of,,,,Panama Papers
+10000079,14000252,registered_address,registered address,,,,Panama Papers
+12000175,10000080,officer_of,secretary of,,01-SEP-2008,,Panama Papers
+11000013,10000080,intermediary_of,intermediary of,,,,Panama Papers
+10000080,14000059,registered_address,registered address,,,,Panama Papers
+12000278,10000081,officer_of,shareholder of,,09-FEB-2002,,Panama Papers
+12000483,10000081,officer_of,nominee director of,,10-JUL-2003,,Panama Papers
+11000002,10000081,intermediary_of,intermediary of,,,,Panama Papers
+10000081,14000167,registered_address,registered address,,,,Panama Papers
+12000014,10000082,officer_of,beneficiary of,,13-FEB-2008,,Panama Papers
+11000005,10000082,intermediary_of,intermediary of,,,,Panama Papers
+10000082,14000166,registered_address,registered address,,,,Panama Papers
+12000193,10000083,officer_of,director of,,02-APR-2005,,Panama Papers
+12000483,10000083,officer_of,nominee director of,,25-OCT-2005,,Panama Papers
+11000016,10000083,intermediary_of,intermediary of,,,,Panama Papers
+10000083,14000259,registered_address,registered address,,,,Panama Papers
+12000487,10000084,officer_of,nominee director of,,15-SEP-2011,,Panama Papers
+12000059,10000084,officer_of,director of,,16-JAN-2011,,Panama Papers
+12000486,10000084,officer_of,nominee director of,,21-APR-1998,,Panama Papers
+11000009,10000084,intermediary_of,intermediary of,,,,Panama Papers
+10000084,14000052,registered_address,registered address,,,,Panama Papers
+12000391,10000085,officer_of,shareholder of,,10-OCT-2011,,Panama Papers
+11000015,10000085,intermediary_of,intermediary of,,,,Panama Papers
+10000085,14000257,registered_address,registered address,,,,Panama Papers
+12000401,10000086,officer_of,beneficiary of,,18-MAR-2005,,Panama Papers
+11000018,10000086,intermediary_of,intermediary of,,,,Panama Papers
+12000022,10000087,officer_of,director of,,10-NOV-2003,,Panama Papers
+12000001,10000087,officer_of,director of,,02-AUG-2006,,Panama Papers
+11000020,10000087,intermediary_of,intermediary of,,,,Panama Papers
+10000087,14000195,registered_address,registered address,,,,Panama Papers
+12000432,10000088,officer_of,director of,,06-DEC-2015,,Panama Papers
+12000324,10000088,officer_of,director of,,03-MAY-2000,,Panama Papers
+12000485,10000088,officer_of,nominee director of,,13-DEC-2001,,Panama Papers
+11000027,10000088,intermediary_of,intermediary of,,,,Panama Papers
+10000088,14000144,registered_address,registered address,,,,Panama Papers
+12000108,10000089,officer_of,beneficiary of,,22-JUN-2006,,Panama Papers
+12000313,10000089,officer_of,shareholder of,,15-MAY-2005,,Panama Papers
+11000022,10000089,intermediary_of,intermediary of,,,,Panama Papers
+12000108,10000090,officer_of,beneficiary of,,01-DEC-2002,,Panama Papers
+12000236,10000090,officer_of,shareholder of,,01-OCT-2013,,Panama Papers
+11000001,10000090,intermediary_of,intermediary of,,,,Panama Papers
+12000212,10000091,officer_of,shareholder of,,23-AUG-2010,,Panama Papers
+11000018,10000091,intermediary_of,intermediary of,,,,Panama Papers
+10000091,14000040,registered_address,registered address,,,,Panama Papers
+12000457,10000092,officer_of,shareholder of,,15-NOV-2001,,Panama Papers
+11000012,10000092,intermediary_of,intermediary of,,,,Panama Papers
+12000424,10000093,officer_of,shareholder of,,27-DEC-1998,,Panama Papers
+12000308,10000093,officer_of,director of,,15-JUN-2004,,Panama Papers
+11000015,10000093,intermediary_of,intermediary of,,,,Panama Papers
+10000093,14000011,registered_address,registered address,,,,Panama Papers
+12000349,10000094,officer_of,shareholder of,,03-OCT-2007,,Panama Papers
+12000472,10000094,officer_of,shareholder of,,08-APR-2013,,Panama Papers
+11000012,10000094,intermediary_of,intermediary of,,,,Panama Papers
+10000094,14000253,registered_address,registered address,,,,Panama Papers
+12000004,10000095,officer_of,director of,,28-MAY-2014,,Panama Papers
+12000487,10000095,officer_of,nominee director of,,16-MAR-2015,,Panama Papers
+11000007,10000095,intermediary_of,intermediary of,,,,Panama Papers
+10000095,14000090,registered_address,registered address,,,,Panama Papers
+12000302,10000096,officer_of,shareholder of,,09-OCT-2005,,Panama Papers
+12000482,10000096,officer_of,nominee director of,,17-DEC-2006,,Panama Papers
+11000007,10000096,intermediary_of,intermediary of,,,,Panama Papers
+12000355,10000097,officer_of,director of,,09-NOV-2015,,Panama Papers
+11000029,10000097,intermediary_of,intermediary of,,,,Panama Papers
+10000097,14000219,registered_address,registered address,,,,Panama Papers
+12000438,10000098,officer_of,secretary of,,28-JUL-2006,,Panama Papers
+11000004,10000098,intermediary_of,intermediary of,,,,Panama Papers
+10000098,14000239,registered_address,registered address,,,,Panama Papers
+12000186,10000099,officer_of,shareholder of,,08-JAN-2006,,Panama Papers
+12000265,10000099,officer_of,secretary of,,18-AUG-2008,,Panama Papers
+11000001,10000099,intermediary_of,intermediary of,,,,Panama Papers
+10000099,14000172,registered_address,registered address,,,,Panama Papers
+12000451,10000100,officer_of,director of,,24-APR-2011,,Panama Papers
+11000003,10000100,intermediary_of,intermediary of,,,,Panama Papers
+12000085,10000101,officer_of,director of,,21-NOV-2001,,Panama Papers
+11000001,10000101,intermediary_of,intermediary of,,,,Panama Papers
+10000101,14000013,registered_address,registered address,,,,Panama Papers
+12000431,10000102,officer_of,shareholder of,,11-JAN-2008,,Panama Papers
+12000129,10000102,officer_of,director of,,26-APR-2000,,Panama Papers
+12000488,10000102,officer_of,nominee director of,,25-OCT-2012,,Panama Papers
+11000025,10000102,intermediary_of,intermediary of,,,,Panama Papers
+10000102,14000229,registered_address,registered address,,,,Panama Papers
+12000044,10000103,officer_of,director of,,13-JUN-2000,,Panama Papers
+11000026,10000103,intermediary_of,intermediary of,,,,Panama Papers
+10000103,14000227,registered_address,registered address,,,,Panama Papers
+12000155,10000104,officer_of,secretary of,,03-FEB-1999,,Panama Papers
+11000018,10000104,intermediary_of,intermediary of,,,,Panama Papers
+10000104,14000196,registered_address,registered address,,,,Panama Papers
+12000050,10000105,officer_of,shareholder of,,28-OCT-1998,,Panama Papers
+12000317,10000105,officer_of,secretary of,,13-AUG-2011,,Panama Papers
+11000029,10000105,intermediary_of,intermediary of,,,,Panama Papers
+10000105,14000052,registered_address,registered address,,,,Panama Papers
+12000334,10000106,officer_of,director of,,15-SEP-2008,,Panama Papers
+12000481,10000106,officer_of,nominee director of,,19-APR-2001,,Panama Papers
+11000004,10000106,intermediary_of,intermediary of,,,,Panama Papers
+10000106,14000035,registered_address,registered address,,,,Panama Papers
+12000464,10000107,officer_of,shareholder of,,17-MAY-2009,,Panama Papers
+11000014,10000107,intermediary_of,intermediary of,,,,Panama Papers
+10000107,14000228,registered_address,registered address,,,,Panama Papers
+12000125,10000108,officer_of,director of,,05-MAY-2011,,Panama Papers
+12000481,10000108,officer_of,nominee director of,,17-NOV-2009,,Panama Papers
+11000010,10000108,intermediary_of,intermediary of,,,,Panama Papers
+10000108,14000278,registered_address,registered address,,,,Panama Papers
+12000076,10000109,officer_of,director of,,11-MAY-2009,,Panama Papers
+11000001,10000109,intermediary_of,intermediary of,,,,Panama Papers
+10000109,14000075,registered_address,registered address,,,,Panama Papers
+12000122,10000110,officer_of,director of,,28-JAN-2011,,Panama Papers
+11000012,10000110,intermediary_of,intermediary of,,,,Panama Papers
+10000110,14000103,registered_address,registered address,,,,Panama Papers
+12000403,10000111,officer_of,shareholder of,,16-DEC-2012,,Panama Papers
+12000484,10000111,officer_of,nominee director of,,20-DEC-2008,,Panama Papers
+11000028,10000111,intermediary_of,intermediary of,,,,Panama Papers
+10000111,14000172,registered_address,registered address,,,,Panama Papers
+12000215,10000112,officer_of,director of,,16-APR-1998,,Panama Papers
+12000169,10000112,officer_of,shareholder of,,08-DEC-2005,,Panama Papers
+12000488,10000112,officer_of,nominee director of,,15-OCT-2004,,Panama Papers
+11000008,10000112,intermediary_of,intermediary of,,,,Panama Papers
+10000112,14000170,registered_address,registered address,,,,Panama Papers
+12000106,10000113,officer_of,beneficiary of,,01-FEB-2009,,Panama Papers
+12000205,10000113,officer_of,director of,,18-FEB-2002,,Panama Papers
+12000481,10000113,officer_of,nominee director of,,10-AUG-2004,,Panama Papers
+11000021,10000113,intermediary_of,intermediary of,,,,Panama Papers
+10000113,14000185,registered_address,registered address,,,,Panama Papers
+12000016,10000114,officer_of,shareholder of,,08-MAY-2003,,Panama Papers
+12000485,10000114,officer_of,nominee director of,,11-SEP-2005,,Panama Papers
+11000006,10000114,intermediary_of,intermediary of,,,,Panama Papers
+10000114,14000091,registered_address,registered address,,,,Panama Papers
+12000467,10000115,officer_of,secretary of,,21-FEB-2008,,Panama Papers
+12000052,10000115,officer_of,shareholder of,,10-AUG-2005,,Panama Papers
+12000483,10000115,officer_of,nominee director of,,12-JUN-2003,,Panama Papers
+11000017,10000115,intermediary_of,intermediary of,,,,Panama Papers
+12000450,10000116,officer_of,shareholder of,,26-APR-2004,,Panama Papers
+12000365,10000116,officer_of,director of,,13-DEC-2009,,Panama Papers
+12000483,10000116,officer_of,nominee director of,,11-OCT-2011,,Panama Papers
+11000021,10000116,intermediary_of,intermediary of,,,,Panama Papers
+10000116,14000024,registered_address,registered address,,,,Panama Papers
+12000438,10000117,officer_of,shareholder of,,11-APR-1999,,Panama Papers
+11000021,10000117,intermediary_of,intermediary of,,,,Panama Papers
+10000117,14000065,registered_address,registered address,,,,Panama Papers
+12000108,10000118,officer_of,shareholder of,,20-FEB-2003,,Panama Papers
+12000373,10000118,officer_of,director of,,13-NOV-2014,,Panama Papers
+12000488,10000118,officer_of,nominee director of,,12-AUG-2014,,Panama Papers
+11000015,10000118,intermediary_of,intermediary of,,,,Panama Papers
+10000118,14000192,registered_address,registered address,,,,Panama Papers
+12000367,10000119,officer_of,director of,,13-NOV-1999,,Panama Papers
+12000254,10000119,officer_of,shareholder of,,08-APR-2012,,Panama Papers
+11000028,10000119,intermediary_of,intermediary of,,,,Panama Papers
+10000119,14000112,registered_address,registered address,,,,Panama Papers
+12000218,10000120,officer_of,shareholder of,,27-JUN-2006,,Panama Papers
+12000456,10000120,officer_of,director of,,03-MAR-2000,,Panama Papers
+11000010,10000120,intermediary_of,intermediary of,,,,Panama Papers
+10000120,14000181,registered_address,registered address,,,,Panama Papers
+12000299,10000121,officer_of,secretary of,,15-AUG-2011,,Panama Papers
+12000486,10000121,officer_of,nominee director of,,14-JUN-2013,,Panama Papers
+11000011,10000121,intermediary_of,intermediary of,,,,Panama Papers
+10000121,14000013,registered_address,registered address,,,,Panama Papers
+12000227,10000122,officer_of,beneficiary of,,03-MAY-2014,,Panama Papers
+12000482,10000122,officer_of,nominee director of,,17-SEP-2000,,Panama Papers
+11000026,10000122,intermediary_of,intermediary of,,,,Panama Papers
+10000122,14000117,registered_address,registered address,,,,Panama Papers
+12000061,10000123,officer_of,director of,,07-JUN-2004,,Panama Papers
+12000481,10000123,officer_of,nominee director of,,22-JUN-2006,,Panama Papers
+11000010,10000123,intermediary_of,intermediary of,,,,Panama Papers
+10000123,14000141,registered_address,registered address,,,,Panama Papers
+12000362,10000124,officer_of,shareholder of,,28-DEC-2015,,Panama Papers
+11000030,10000124,intermediary_of,intermediary of,,,,Panama Papers
+10000124,14000154,registered_address,registered address,,,,Panama Papers
+12000422,10000125,officer_of,secretary of,,13-OCT-1998,,Panama Papers
+12000178,10000125,officer_of,secretary of,,21-SEP-2002,,Panama Papers
+11000028,10000125,intermediary_of,intermediary of,,,,Panama Papers
+10000125,14000117,registered_address,registered address,,,,Panama Papers
+12000243,10000126,officer_of,shareholder of,,27-AUG-2008,,Panama Papers
+12000488,10000126,officer_of,nominee director of,,26-FEB-2008,,Panama Papers
+11000028,10000126,intermediary_of,intermediary of,,,,Panama Papers
+10000126,14000214,registered_address,registered address,,,,Panama Papers
+12000225,10000127,officer_of,director of,,01-JUN-2002,,Panama Papers
+11000019,10000127,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000128,officer_of,nominee director of,,11-APR-2011,,Panama Papers
+12000378,10000128,officer_of,secretary of,,22-JUL-2015,,Panama Papers
+12000486,10000128,officer_of,nominee director of,,10-JUN-1998,,Panama Papers
+11000019,10000128,intermediary_of,intermediary of,,,,Panama Papers
+10000128,14000072,registered_address,registered address,,,,Panama Papers
+12000488,10000129,officer_of,nominee director of,,19-NOV-2010,,Panama Papers
+11000013,10000129,intermediary_of,intermediary of,,,,Panama Papers
+10000129,14000201,registered_address,registered address,,,,Panama Papers
+12000274,10000130,officer_of,secretary of,,04-JUN-2012,,Panama Papers
+11000021,10000130,intermediary_of,intermediary of,,,,Panama Papers
+12000088,10000131,officer_of,director of,,27-DEC-2013,,Panama Papers
+12000483,10000131,officer_of,nominee director of,,01-MAR-2004,,Panama Papers
+11000003,10000131,intermediary_of,intermediary of,,,,Panama Papers
+12000146,10000132,officer_of,secretary of,,02-JUN-2014,,Panama Papers
+12000106,10000132,officer_of,director of,,06-JUN-2011,,Panama Papers
+12000482,10000132,officer_of,nominee director of,,13-MAR-2001,,Panama Papers
+11000005,10000132,intermediary_of,intermediary of,,,,Panama Papers
+10000132,14000245,registered_address,registered address,,,,Panama Papers
+12000200,10000133,officer_of,shareholder of,,05-APR-2007,,Panama Papers
+11000014,10000133,intermediary_of,intermediary of,,,,Panama Papers
+12000082,10000134,officer_of,beneficiary of,,19-APR-2014,,Panama Papers
+12000310,10000134,officer_of,shareholder of,,22-AUG-2006,,Panama Papers
+11000007,10000134,intermediary_of,intermediary of,,,,Panama Papers
+10000134,14000074,registered_address,registered address,,,,Panama Papers
+12000033,10000135,officer_of,shareholder of,,17-JUN-2013,,Panama Papers
+12000423,10000135,officer_of,secretary of,,15-OCT-1999,,Panama Papers
+11000024,10000135,intermediary_of,intermediary of,,,,Panama Papers
+10000135,14000234,registered_address,registered address,,,,Panama Papers
+12000359,10000136,officer_of,beneficiary of,,13-OCT-2003,,Panama Papers
+12000432,10000136,officer_of,secretary of,,08-MAR-2011,,Panama Papers
+11000015,10000136,intermediary_of,intermediary of,,,,Panama Papers
+10000136,14000094,registered_address,registered address,,,,Panama Papers
+12000202,10000137,officer_of,director of,,08-MAR-2006,,Panama Papers
+11000029,10000137,intermediary_of,intermediary of,,,,Panama Papers
+10000137,14000150,registered_address,registered address,,,,Panama Papers
+12000358,10000138,officer_of,shareholder of,,16-JUL-2015,,Panama Papers
+11000004,10000138,intermediary_of,intermediary of,,,,Panama Papers
+12000387,10000139,officer_of,secretary of,,15-MAR-2006,,Panama Papers
+12000486,10000139,officer_of,nominee director of,,07-SEP-1999,,Panama Papers
+11000015,10000139,intermediary_of,intermediary of,,,,Panama Papers
+10000139,14000237,registered_address,registered address,,,,Panama Papers
+12000176,10000140,officer_of,shareholder of,,13-JAN-1998,,Panama Papers
+12000382,10000140,officer_of,beneficiary of,,04-DEC-2002,,Panama Papers
+11000011,10000140,intermediary_of,intermediary of,,,,Panama Papers
+10000140,14000238,registered_address,registered address,,,,Panama Papers
+12000237,10000141,officer_of,shareholder of,,15-MAR-2013,,Panama Papers
+12000035,10000141,officer_of,beneficiary of,,27-MAR-2003,,Panama Papers
+12000484,10000141,officer_of,nominee director of,,27-JAN-2001,,Panama Papers
+11000006,10000141,intermediary_of,intermediary of,,,,Panama Papers
+10000141,14000274,registered_address,registered address,,,,Panama Papers
+12000087,10000142,officer_of,director of,,22-MAY-2002,,Panama Papers
+12000040,10000142,officer_of,secretary of,,12-MAR-2004,,Panama Papers
+11000023,10000142,intermediary_of,intermediary of,,,,Panama Papers
+10000142,14000273,registered_address,registered address,,,,Panama Papers
+12000227,10000143,officer_of,shareholder of,,26-SEP-2001,,Panama Papers
+11000013,10000143,intermediary_of,intermediary of,,,,Panama Papers
+10000143,14000228,registered_address,registered address,,,,Panama Papers
+12000307,10000144,officer_of,shareholder of,,08-JUN-2005,,Panama Papers
+12000487,10000144,officer_of,nominee director of,,07-FEB-1998,,Panama Papers
+11000014,10000144,intermediary_of,intermediary of,,,,Panama Papers
+10000144,14000008,registered_address,registered address,,,,Panama Papers
+12000421,10000145,officer_of,director of,,08-FEB-2003,,Panama Papers
+12000099,10000145,officer_of,shareholder of,,06-JAN-2011,,Panama Papers
+11000017,10000145,intermediary_of,intermediary of,,,,Panama Papers
+10000145,14000168,registered_address,registered address,,,,Panama Papers
+12000288,10000146,officer_of,director of,,13-JUL-2001,,Panama Papers
+12000321,10000146,officer_of,shareholder of,,07-FEB-2009,,Panama Papers
+12000484,10000146,officer_of,nominee director of,,11-MAR-1998,,Panama Papers
+11000013,10000146,intermediary_of,intermediary of,,,,Panama Papers
+10000146,14000007,registered_address,registered address,,,,Panama Papers
+12000109,10000147,officer_of,shareholder of,,20-JUN-1999,,Panama Papers
+12000235,10000147,officer_of,director of,,07-JUL-2007,,Panama Papers
+12000485,10000147,officer_of,nominee director of,,25-OCT-2013,,Panama Papers
+11000004,10000147,intermediary_of,intermediary of,,,,Panama Papers
+10000147,14000088,registered_address,registered address,,,,Panama Papers
+12000049,10000148,officer_of,shareholder of,,23-JUL-2002,,Panama Papers
+12000308,10000148,officer_of,beneficiary of,,06-NOV-2008,,Panama Papers
+11000028,10000148,intermediary_of,intermediary of,,,,Panama Papers
+10000148,14000035,registered_address,registered address,,,,Panama Papers
+12000010,10000149,officer_of,secretary of,,13-SEP-2005,,Panama Papers
+12000312,10000149,officer_of,director of,,19-DEC-1998,,Panama Papers
+11000008,10000149,intermediary_of,intermediary of,,,,Panama Papers
+10000149,14000064,registered_address,registered address,,,,Panama Papers
+12000122,10000150,officer_of,shareholder of,,20-FEB-1999,,Panama Papers
+12000378,10000150,officer_of,shareholder of,,12-AUG-2007,,Panama Papers
+11000007,10000150,intermediary_of,intermediary of,,,,Panama Papers
+10000150,14000105,registered_address,registered address,,,,Panama Papers
+12000122,10000151,officer_of,director of,,15-DEC-2008,,Panama Papers
+11000005,10000151,intermediary_of,intermediary of,,,,Panama Papers
+10000151,14000021,registered_address,registered address,,,,Panama Papers
+12000332,10000152,officer_of,shareholder of,,28-DEC-2008,,Panama Papers
+12000417,10000152,officer_of,beneficiary of,,08-APR-2015,,Panama Papers
+12000481,10000152,officer_of,nominee director of,,02-NOV-2005,,Panama Papers
+11000026,10000152,intermediary_of,intermediary of,,,,Panama Papers
+10000152,14000114,registered_address,registered address,,,,Panama Papers
+12000267,10000153,officer_of,director of,,28-AUG-2000,,Panama Papers
+12000165,10000153,officer_of,shareholder of,,02-NOV-2002,,Panama Papers
+12000481,10000153,officer_of,nominee director of,,07-MAR-2000,,Panama Papers
+11000006,10000153,intermediary_of,intermediary of,,,,Panama Papers
+10000153,14000105,registered_address,registered address,,,,Panama Papers
+12000260,10000154,officer_of,beneficiary of,,06-DEC-2004,,Panama Papers
+12000488,10000154,officer_of,nominee director of,,08-JUL-2003,,Panama Papers
+11000020,10000154,intermediary_of,intermediary of,,,,Panama Papers
+10000154,14000147,registered_address,registered address,,,,Panama Papers
+12000326,10000155,officer_of,director of,,12-JUL-2010,,Panama Papers
+12000104,10000155,officer_of,shareholder of,,16-AUG-2011,,Panama Papers
+12000488,10000155,officer_of,nominee director of,,17-OCT-2011,,Panama Papers
+11000025,10000155,intermediary_of,intermediary of,,,,Panama Papers
+10000155,14000247,registered_address,registered address,,,,Panama Papers
+12000391,10000156,officer_of,director of,,25-MAY-2015,,Panama Papers
+11000005,10000156,intermediary_of,intermediary of,,,,Panama Papers
+10000156,14000090,registered_address,registered address,,,,Panama Papers
+12000195,10000157,officer_of,beneficiary of,,13-SEP-2013,,Panama Papers
+12000238,10000157,officer_of,director of,,11-MAR-2013,,Panama Papers
+11000007,10000157,intermediary_of,intermediary of,,,,Panama Papers
+10000157,14000098,registered_address,registered address,,,,Panama Papers
+12000007,10000158,officer_of,shareholder of,,24-JUN-2013,,Panama Papers
+11000013,10000158,intermediary_of,intermediary of,,,,Panama Papers
+12000381,10000159,officer_of,beneficiary of,,21-OCT-2000,,Panama Papers
+12000192,10000159,officer_of,secretary of,,02-FEB-2010,,Panama Papers
+11000030,10000159,intermediary_of,intermediary of,,,,Panama Papers
+10000159,14000100,registered_address,registered address,,,,Panama Papers
+12000131,10000160,officer_of,shareholder of,,12-SEP-2013,,Panama Papers
+12000395,10000160,officer_of,shareholder of,,23-JUN-1999,,Panama Papers
+11000021,10000160,intermediary_of,intermediary of,,,,Panama Papers
+10000160,14000218,registered_address,registered address,,,,Panama Papers
+12000125,10000161,officer_of,beneficiary of,,21-DEC-1998,,Panama Papers
+11000023,10000161,intermediary_of,intermediary of,,,,Panama Papers
+10000161,14000076,registered_address,registered address,,,,Panama Papers
+12000310,10000162,officer_of,shareholder of,,09-APR-2003,,Panama Papers
+12000234,10000162,officer_of,director of,,04-FEB-2010,,Panama Papers
+11000013,10000162,intermediary_of,intermediary of,,,,Panama Papers
+10000162,14000042,registered_address,registered address,,,,Panama Papers
+12000449,10000163,officer_of,secretary of,,09-DEC-2007,,Panama Papers
+11000017,10000163,intermediary_of,intermediary of,,,,Panama Papers
+12000301,10000164,officer_of,shareholder of,,28-FEB-2001,,Panama Papers
+12000158,10000164,officer_of,shareholder of,,19-JUN-2002,,Panama Papers
+11000009,10000164,intermediary_of,intermediary of,,,,Panama Papers
+10000164,14000204,registered_address,registered address,,,,Panama Papers
+12000004,10000165,officer_of,director of,,04-FEB-2011,,Panama Papers
+12000087,10000165,officer_of,director of,,14-NOV-2007,,Panama Papers
+11000024,10000165,intermediary_of,intermediary of,,,,Panama Papers
+10000165,14000091,registered_address,registered address,,,,Panama Papers
+12000096,10000166,officer_of,shareholder of,,17-FEB-2012,,Panama Papers
+12000361,10000166,officer_of,director of,,27-APR-2003,,Panama Papers
+12000488,10000166,officer_of,nominee director of,,07-JAN-2003,,Panama Papers
+11000026,10000166,intermediary_of,intermediary of,,,,Panama Papers
+10000166,14000133,registered_address,registered address,,,,Panama Papers
+12000226,10000167,officer_of,director of,,28-NOV-2003,,Panama Papers
+12000321,10000167,officer_of,director of,,10-FEB-2010,,Panama Papers
+11000004,10000167,intermediary_of,intermediary of,,,,Panama Papers
+10000167,14000176,registered_address,registered address,,,,Panama Papers
+12000300,10000168,officer_of,shareholder of,,25-FEB-1998,,Panama Papers
+12000488,10000168,officer_of,nominee director of,,02-MAY-1998,,Panama Papers
+11000022,10000168,intermediary_of,intermediary of,,,,Panama Papers
+10000168,14000022,registered_address,registered address,,,,Panama Papers
+12000109,10000169,officer_of,director of,,13-OCT-2014,,Panama Papers
+11000025,10000169,intermediary_of,intermediary of,,,,Panama Papers
+10000169,14000249,registered_address,registered address,,,,Panama Papers
+12000388,10000170,officer_of,beneficiary of,,12-NOV-2008,,Panama Papers
+12000173,10000170,officer_of,beneficiary of,,27-APR-2009,,Panama Papers
+11000022,10000170,intermediary_of,intermediary of,,,,Panama Papers
+10000170,14000030,registered_address,registered address,,,,Panama Papers
+12000448,10000171,officer_of,director of,,15-DEC-2010,,Panama Papers
+12000170,10000171,officer_of,shareholder of,,27-MAR-1998,,Panama Papers
+11000020,10000171,intermediary_of,intermediary of,,,,Panama Papers
+10000171,14000272,registered_address,registered address,,,,Panama Papers
+12000487,10000172,officer_of,nominee director of,,08-JUN-2012,,Panama Papers
+12000359,10000172,officer_of,director of,,22-NOV-2013,,Panama Papers
+11000017,10000172,intermediary_of,intermediary of,,,,Panama Papers
+10000172,14000097,registered_address,registered address,,,,Panama Papers
+12000327,10000173,officer_of,beneficiary of,,01-NOV-2009,,Panama Papers
+11000028,10000173,intermediary_of,intermediary of,,,,Panama Papers
+10000173,14000167,registered_address,registered address,,,,Panama Papers
+12000120,10000174,officer_of,shareholder of,,20-FEB-2009,,Panama Papers
+12000311,10000174,officer_of,secretary of,,16-NOV-2001,,Panama Papers
+11000024,10000174,intermediary_of,intermediary of,,,,Panama Papers
+10000174,14000100,registered_address,registered address,,,,Panama Papers
+12000446,10000175,officer_of,director of,,26-DEC-2014,,Panama Papers
+11000002,10000175,intermediary_of,intermediary of,,,,Panama Papers
+10000175,14000045,registered_address,registered address,,,,Panama Papers
+12000427,10000176,officer_of,secretary of,,06-AUG-2001,,Panama Papers
+12000345,10000176,officer_of,secretary of,,22-SEP-2005,,Panama Papers
+11000008,10000176,intermediary_of,intermediary of,,,,Panama Papers
+10000176,14000046,registered_address,registered address,,,,Panama Papers
+12000223,10000177,officer_of,director of,,06-JUN-2010,,Panama Papers
+11000025,10000177,intermediary_of,intermediary of,,,,Panama Papers
+10000177,14000132,registered_address,registered address,,,,Panama Papers
+12000488,10000178,officer_of,nominee director of,,22-MAR-2015,,Panama Papers
+12000460,10000178,officer_of,shareholder of,,24-AUG-2000,,Panama Papers
+11000026,10000178,intermediary_of,intermediary of,,,,Panama Papers
+10000178,14000115,registered_address,registered address,,,,Panama Papers
+12000330,10000179,officer_of,shareholder of,,24-DEC-2010,,Panama Papers
+11000021,10000179,intermediary_of,intermediary of,,,,Panama Papers
+10000179,14000224,registered_address,registered address,,,,Panama Papers
+12000115,10000180,officer_of,director of,,04-FEB-2008,,Panama Papers
+12000485,10000180,officer_of,nominee director of,,24-OCT-2004,,Panama Papers
+11000024,10000180,intermediary_of,intermediary of,,,,Panama Papers
+12000066,10000181,officer_of,secretary of,,19-DEC-1998,,Panama Papers
+12000437,10000181,officer_of,beneficiary of,,02-OCT-2015,,Panama Papers
+11000007,10000181,intermediary_of,intermediary of,,,,Panama Papers
+12000164,10000182,officer_of,shareholder of,,26-MAR-2014,,Panama Papers
+12000395,10000182,officer_of,shareholder of,,20-OCT-2005,,Panama Papers
+11000004,10000182,intermediary_of,intermediary of,,,,Panama Papers
+10000182,14000276,registered_address,registered address,,,,Panama Papers
+12000162,10000183,officer_of,beneficiary of,,27-APR-2013,,Panama Papers
+12000075,10000183,officer_of,shareholder of,,15-MAR-2007,,Panama Papers
+11000005,10000183,intermediary_of,intermediary of,,,,Panama Papers
+10000183,14000018,registered_address,registered address,,,,Panama Papers
+12000159,10000184,officer_of,director of,,09-DEC-2013,,Panama Papers
+12000258,10000184,officer_of,shareholder of,,27-APR-2013,,Panama Papers
+11000010,10000184,intermediary_of,intermediary of,,,,Panama Papers
+10000184,14000193,registered_address,registered address,,,,Panama Papers
+12000415,10000185,officer_of,shareholder of,,07-DEC-2005,,Panama Papers
+11000023,10000185,intermediary_of,intermediary of,,,,Panama Papers
+10000185,14000092,registered_address,registered address,,,,Panama Papers
+12000373,10000186,officer_of,director of,,18-JUL-2008,,Panama Papers
+12000201,10000186,officer_of,secretary of,,22-AUG-2009,,Panama Papers
+12000483,10000186,officer_of,nominee director of,,25-JUL-2010,,Panama Papers
+11000003,10000186,intermediary_of,intermediary of,,,,Panama Papers
+10000186,14000145,registered_address,registered address,,,,Panama Papers
+12000357,10000187,officer_of,director of,,05-JUN-1999,,Panama Papers
+12000473,10000187,officer_of,shareholder of,,10-AUG-2003,,Panama Papers
+12000487,10000187,officer_of,nominee director of,,19-MAR-2012,,Panama Papers
+11000023,10000187,intermediary_of,intermediary of,,,,Panama Papers
+10000187,14000075,registered_address,registered address,,,,Panama Papers
+12000112,10000188,officer_of,shareholder of,,24-NOV-1998,,Panama Papers
+11000012,10000188,intermediary_of,intermediary of,,,,Panama Papers
+10000188,14000053,registered_address,registered address,,,,Panama Papers
+12000193,10000189,officer_of,secretary of,,22-MAR-1999,,Panama Papers
+11000004,10000189,intermediary_of,intermediary of,,,,Panama Papers
+10000189,14000243,registered_address,registered address,,,,Panama Papers
+12000484,10000190,officer_of,nominee director of,,19-JUL-2002,,Panama Papers
+12000486,10000190,officer_of,nominee director of,,21-DEC-2010,,Panama Papers
+11000008,10000190,intermediary_of,intermediary of,,,,Panama Papers
+10000190,14000124,registered_address,registered address,,,,Panama Papers
+12000251,10000191,officer_of,shareholder of,,21-DEC-2010,,Panama Papers
+12000155,10000191,officer_of,shareholder of,,26-NOV-2000,,Panama Papers
+11000025,10000191,intermediary_of,intermediary of,,,,Panama Papers
+10000191,14000196,registered_address,registered address,,,,Panama Papers
+12000324,10000192,officer_of,director of,,04-FEB-2000,,Panama Papers
+12000335,10000192,officer_of,director of,,16-NOV-2014,,Panama Papers
+11000008,10000192,intermediary_of,intermediary of,,,,Panama Papers
+10000192,14000246,registered_address,registered address,,,,Panama Papers
+12000356,10000193,officer_of,secretary of,,16-NOV-2011,,Panama Papers
+12000382,10000193,officer_of,beneficiary of,,19-MAR-2001,,Panama Papers
+12000483,10000193,officer_of,nominee director of,,11-FEB-2015,,Panama Papers
+11000006,10000193,intermediary_of,intermediary of,,,,Panama Papers
+10000193,14000011,registered_address,registered address,,,,Panama Papers
+12000285,10000194,officer_of,director of,,16-FEB-2014,,Panama Papers
+12000419,10000194,officer_of,director of,,18-DEC-2001,,Panama Papers
+11000025,10000194,intermediary_of,intermediary of,,,,Panama Papers
+10000194,14000061,registered_address,registered address,,,,Panama Papers
+12000442,10000195,officer_of,shareholder of,,01-SEP-2012,,Panama Papers
+11000026,10000195,intermediary_of,intermediary of,,,,Panama Papers
+10000195,14000021,registered_address,registered address,,,,Panama Papers
+12000295,10000196,officer_of,director of,,18-MAY-1999,,Panama Papers
+12000483,10000196,officer_of,nominee director of,,03-FEB-2014,,Panama Papers
+11000010,10000196,intermediary_of,intermediary of,,,,Panama Papers
+10000196,14000279,registered_address,registered address,,,,Panama Papers
+12000217,10000197,officer_of,shareholder of,,01-APR-2007,,Panama Papers
+11000002,10000197,intermediary_of,intermediary of,,,,Panama Papers
+12000338,10000198,officer_of,director of,,16-DEC-2008,,Panama Papers
+12000274,10000198,officer_of,director of,,12-OCT-2015,,Panama Papers
+11000017,10000198,intermediary_of,intermediary of,,,,Panama Papers
+10000198,14000051,registered_address,registered address,,,,Panama Papers
+12000122,10000199,officer_of,beneficiary of,,28-APR-2002,,Panama Papers
+12000483,10000199,officer_of,nominee director of,,20-SEP-2004,,Panama Papers
+11000019,10000199,intermediary_of,intermediary of,,,,Panama Papers
+10000199,14000066,registered_address,registered address,,,,Panama Papers
+12000039,10000200,officer_of,shareholder of,,06-JUL-2012,,Panama Papers
+12000282,10000200,officer_of,director of,,09-NOV-2011,,Panama Papers
+12000487,10000200,officer_of,nominee director of,,23-MAR-2015,,Panama Papers
+11000007,10000200,intermediary_of,intermediary of,,,,Panama Papers
+10000200,14000138,registered_address,registered address,,,,Panama Papers
+12000366,10000201,officer_of,shareholder of,,21-SEP-2003,,Panama Papers
+11000014,10000201,intermediary_of,intermediary of,,,,Panama Papers
+12000404,10000202,officer_of,director of,,08-FEB-2006,,Panama Papers
+12000223,10000202,officer_of,director of,,18-FEB-2015,,Panama Papers
+11000014,10000202,intermediary_of,intermediary of,,,,Panama Papers
+10000202,14000046,registered_address,registered address,,,,Panama Papers
+12000466,10000203,officer_of,shareholder of,,28-APR-2006,,Panama Papers
+12000171,10000203,officer_of,director of,,04-JUL-2005,,Panama Papers
+11000013,10000203,intermediary_of,intermediary of,,,,Panama Papers
+12000090,10000204,officer_of,beneficiary of,,19-AUG-2001,,Panama Papers
+11000017,10000204,intermediary_of,intermediary of,,,,Panama Papers
+10000204,14000145,registered_address,registered address,,,,Panama Papers
+12000312,10000205,officer_of,shareholder of,,11-JUL-2003,,Panama Papers
+12000051,10000205,officer_of,beneficiary of,,26-DEC-2015,,Panama Papers
+11000018,10000205,intermediary_of,intermediary of,,,,Panama Papers
+10000205,14000207,registered_address,registered address,,,,Panama Papers
+12000304,10000206,officer_of,shareholder of,,05-MAR-2010,,Panama Papers
+12000066,10000206,officer_of,director of,,24-MAY-1999,,Panama Papers
+12000483,10000206,officer_of,nominee director of,,24-NOV-2009,,Panama Papers
+11000023,10000206,intermediary_of,intermediary of,,,,Panama Papers
+10000206,14000215,registered_address,registered address,,,,Panama Papers
+12000094,10000207,officer_of,secretary of,,17-MAY-2006,,Panama Papers
+12000225,10000207,officer_of,secretary of,,17-DEC-2005,,Panama Papers
+11000010,10000207,intermediary_of,intermediary of,,,,Panama Papers
+10000207,14000045,registered_address,registered address,,,,Panama Papers
+12000209,10000208,officer_of,director of,,21-FEB-2000,,Panama Papers
+12000395,10000208,officer_of,shareholder of,,08-FEB-2003,,Panama Papers
+11000019,10000208,intermediary_of,intermediary of,,,,Panama Papers
+10000208,14000147,registered_address,registered address,,,,Panama Papers
+12000414,10000209,officer_of,shareholder of,,17-DEC-2002,,Panama Papers
+12000448,10000209,officer_of,secretary of,,16-SEP-2015,,Panama Papers
+12000487,10000209,officer_of,nominee director of,,23-FEB-2010,,Panama Papers
+11000001,10000209,intermediary_of,intermediary of,,,,Panama Papers
+10000209,14000004,registered_address,registered address,,,,Panama Papers
+12000360,10000210,officer_of,shareholder of,,24-NOV-2014,,Panama Papers
+12000274,10000210,officer_of,shareholder of,,20-JAN-2012,,Panama Papers
+11000006,10000210,intermediary_of,intermediary of,,,,Panama Papers
+10000210,14000269,registered_address,registered address,,,,Panama Papers
+12000090,10000211,officer_of,director of,,12-JAN-2011,,Panama Papers
+12000483,10000211,officer_of,nominee director of,,16-JUL-2003,,Panama Papers
+11000012,10000211,intermediary_of,intermediary of,,,,Panama Papers
+12000468,10000212,officer_of,beneficiary of,,10-AUG-2007,,Panama Papers
+12000348,10000212,officer_of,beneficiary of,,07-JAN-2010,,Panama Papers
+12000482,10000212,officer_of,nominee director of,,07-MAY-2014,,Panama Papers
+11000027,10000212,intermediary_of,intermediary of,,,,Panama Papers
+12000457,10000213,officer_of,director of,,12-JAN-2012,,Panama Papers
+12000317,10000213,officer_of,beneficiary of,,10-JUN-2001,,Panama Papers
+11000001,10000213,intermediary_of,intermediary of,,,,Panama Papers
+10000213,14000096,registered_address,registered address,,,,Panama Papers
+12000182,10000214,officer_of,shareholder of,,03-SEP-2014,,Panama Papers
+12000005,10000214,officer_of,shareholder of,,14-FEB-2013,,Panama Papers
+12000488,10000214,officer_of,nominee director of,,01-MAR-2006,,Panama Papers
+11000008,10000214,intermediary_of,intermediary of,,,,Panama Papers
+10000214,14000192,registered_address,registered address,,,,Panama Papers
+12000187,10000215,officer_of,director of,,26-MAY-2001,,Panama Papers
+12000220,10000215,officer_of,secretary of,,22-AUG-2003,,Panama Papers
+11000005,10000215,intermediary_of,intermediary of,,,,Panama Papers
+10000215,14000223,registered_address,registered address,,,,Panama Papers
+12000184,10000216,officer_of,shareholder of,,07-FEB-2004,,Panama Papers
+11000010,10000216,intermediary_of,intermediary of,,,,Panama Papers
+10000216,14000203,registered_address,registered address,,,,Panama Papers
+12000381,10000217,officer_of,shareholder of,,22-APR-2013,,Panama Papers
+12000170,10000217,officer_of,shareholder of,,09-FEB-2011,,Panama Papers
+11000016,10000217,intermediary_of,intermediary of,,,,Panama Papers
+10000217,14000066,registered_address,registered address,,,,Panama Papers
+12000385,10000218,officer_of,secretary of,,17-DEC-2010,,Panama Papers
+12000392,10000218,officer_of,shareholder of,,04-FEB-1998,,Panama Papers
+11000005,10000218,intermediary_of,intermediary of,,,,Panama Papers
+10000218,14000257,registered_address,registered address,,,,Panama Papers
+12000393,10000219,officer_of,director of,,22-JUN-2011,,Panama Papers
+11000020,10000219,intermediary_of,intermediary of,,,,Panama Papers
+10000219,14000223,registered_address,registered address,,,,Panama Papers
+12000149,10000220,officer_of,secretary of,,08-OCT-2002,,Panama Papers
+12000145,10000220,officer_of,shareholder of,,17-MAR-2005,,Panama Papers
+11000009,10000220,intermediary_of,intermediary of,,,,Panama Papers
+10000220,14000135,registered_address,registered address,,,,Panama Papers
+12000342,10000221,officer_of,shareholder of,,16-DEC-2001,,Panama Papers
+11000023,10000221,intermediary_of,intermediary of,,,,Panama Papers
+10000221,14000093,registered_address,registered address,,,,Panama Papers
+12000438,10000222,officer_of,shareholder of,,05-APR-2001,,Panama Papers
+11000005,10000222,intermediary_of,intermediary of,,,,Panama Papers
+10000222,14000141,registered_address,registered address,,,,Panama Papers
+12000476,10000223,officer_of,director of,,07-FEB-1999,,Panama Papers
+12000481,10000223,officer_of,nominee director of,,13-JUL-2014,,Panama Papers
+11000010,10000223,intermediary_of,intermediary of,,,,Panama Papers
+10000223,14000119,registered_address,registered address,,,,Panama Papers
+12000173,10000224,officer_of,director of,,17-JUL-1999,,Panama Papers
+11000010,10000224,intermediary_of,intermediary of,,,,Panama Papers
+10000224,14000187,registered_address,registered address,,,,Panama Papers
+12000483,10000225,officer_of,nominee director of,,08-JUN-1999,,Panama Papers
+12000180,10000225,officer_of,shareholder of,,02-JAN-1999,,Panama Papers
+11000022,10000225,intermediary_of,intermediary of,,,,Panama Papers
+10000225,14000109,registered_address,registered address,,,,Panama Papers
+12000242,10000226,officer_of,director of,,14-MAR-2006,,Panama Papers
+12000144,10000226,officer_of,secretary of,,12-JUN-2007,,Panama Papers
+11000004,10000226,intermediary_of,intermediary of,,,,Panama Papers
+10000226,14000007,registered_address,registered address,,,,Panama Papers
+12000170,10000227,officer_of,beneficiary of,,24-OCT-2014,,Panama Papers
+11000020,10000227,intermediary_of,intermediary of,,,,Panama Papers
+10000227,14000142,registered_address,registered address,,,,Panama Papers
+12000300,10000228,officer_of,director of,,05-NOV-2001,,Panama Papers
+11000002,10000228,intermediary_of,intermediary of,,,,Panama Papers
+10000228,14000098,registered_address,registered address,,,,Panama Papers
+12000361,10000229,officer_of,director of,,03-SEP-2008,,Panama Papers
+11000010,10000229,intermediary_of,intermediary of,,,,Panama Papers
+10000229,14000104,registered_address,registered address,,,,Panama Papers
+12000023,10000230,officer_of,director of,,23-MAY-2015,,Panama Papers
+12000487,10000230,officer_of,nominee director of,,12-JUN-2012,,Panama Papers
+11000021,10000230,intermediary_of,intermediary of,,,,Panama Papers
+10000230,14000224,registered_address,registered address,,,,Panama Papers
+12000248,10000231,officer_of,director of,,26-JAN-2003,,Panama Papers
+11000020,10000231,intermediary_of,intermediary of,,,,Panama Papers
+10000231,14000067,registered_address,registered address,,,,Panama Papers
+12000024,10000232,officer_of,shareholder of,,27-JUL-2013,,Panama Papers
+12000290,10000232,officer_of,shareholder of,,18-SEP-2000,,Panama Papers
+12000484,10000232,officer_of,nominee director of,,06-AUG-2014,,Panama Papers
+11000013,10000232,intermediary_of,intermediary of,,,,Panama Papers
+10000232,14000200,registered_address,registered address,,,,Panama Papers
+12000311,10000233,officer_of,shareholder of,,19-APR-1998,,Panama Papers
+12000140,10000233,officer_of,director of,,15-SEP-2014,,Panama Papers
+12000481,10000233,officer_of,nominee director of,,09-MAY-2005,,Panama Papers
+11000010,10000233,intermediary_of,intermediary of,,,,Panama Papers
+10000233,14000061,registered_address,registered address,,,,Panama Papers
+12000115,10000234,officer_of,beneficiary of,,02-NOV-2002,,Panama Papers
+12000484,10000234,officer_of,nominee director of,,09-MAR-2006,,Panama Papers
+11000028,10000234,intermediary_of,intermediary of,,,,Panama Papers
+10000234,14000128,registered_address,registered address,,,,Panama Papers
+12000274,10000235,officer_of,shareholder of,,20-JUN-2008,,Panama Papers
+12000486,10000235,officer_of,nominee director of,,03-DEC-2015,,Panama Papers
+11000009,10000235,intermediary_of,intermediary of,,,,Panama Papers
+10000235,14000210,registered_address,registered address,,,,Panama Papers
+12000167,10000236,officer_of,director of,,27-JUN-2005,,Panama Papers
+12000030,10000236,officer_of,shareholder of,,09-MAR-2006,,Panama Papers
+11000001,10000236,intermediary_of,intermediary of,,,,Panama Papers
+10000236,14000055,registered_address,registered address,,,,Panama Papers
+12000485,10000237,officer_of,nominee director of,,27-AUG-2005,,Panama Papers
+12000335,10000237,officer_of,beneficiary of,,09-APR-2010,,Panama Papers
+12000484,10000237,officer_of,nominee director of,,05-AUG-2005,,Panama Papers
+11000024,10000237,intermediary_of,intermediary of,,,,Panama Papers
+10000237,14000189,registered_address,registered address,,,,Panama Papers
+12000462,10000238,officer_of,secretary of,,06-AUG-2003,,Panama Papers
+11000027,10000238,intermediary_of,intermediary of,,,,Panama Papers
+12000292,10000239,officer_of,shareholder of,,06-NOV-2007,,Panama Papers
+11000001,10000239,intermediary_of,intermediary of,,,,Panama Papers
+10000239,14000091,registered_address,registered address,,,,Panama Papers
+12000352,10000240,officer_of,director of,,14-APR-2012,,Panama Papers
+12000312,10000240,officer_of,shareholder of,,13-FEB-2014,,Panama Papers
+12000483,10000240,officer_of,nominee director of,,05-DEC-1998,,Panama Papers
+11000020,10000240,intermediary_of,intermediary of,,,,Panama Papers
+10000240,14000197,registered_address,registered address,,,,Panama Papers
+12000057,10000241,officer_of,shareholder of,,02-MAR-2005,,Panama Papers
+11000025,10000241,intermediary_of,intermediary of,,,,Panama Papers
+10000241,14000074,registered_address,registered address,,,,Panama Papers
+12000406,10000242,officer_of,director of,,18-DEC-2008,,Panama Papers
+11000028,10000242,intermediary_of,intermediary of,,,,Panama Papers
+10000242,14000104,registered_address,registered address,,,,Panama Papers
+12000246,10000243,officer_of,secretary of,,27-MAR-2007,,Panama Papers
+11000011,10000243,intermediary_of,intermediary of,,,,Panama Papers
+10000243,14000125,registered_address,registered address,,,,Panama Papers
+12000279,10000244,officer_of,shareholder of,,18-FEB-1998,,Panama Papers
+11000027,10000244,intermediary_of,intermediary of,,,,Panama Papers
+10000244,14000279,registered_address,registered address,,,,Panama Papers
+12000053,10000245,officer_of,secretary of,,05-JAN-2005,,Panama Papers
+12000262,10000245,officer_of,director of,,08-JUL-2010,,Panama Papers
+11000005,10000245,intermediary_of,intermediary of,,,,Panama Papers
+10000245,14000147,registered_address,registered address,,,,Panama Papers
+12000472,10000246,officer_of,secretary of,,22-DEC-2001,,Panama Papers
+11000016,10000246,intermediary_of,intermediary of,,,,Panama Papers
+10000246,14000057,registered_address,registered address,,,,Panama Papers
+12000053,10000247,officer_of,beneficiary of,,12-FEB-2008,,Panama Papers
+11000004,10000247,intermediary_of,intermediary of,,,,Panama Papers
+10000247,14000044,registered_address,registered address,,,,Panama Papers
+12000310,10000248,officer_of,director of,,11-OCT-2003,,Panama Papers
+12000487,10000248,officer_of,nominee director of,,22-JUL-2002,,Panama Papers
+11000029,10000248,intermediary_of,intermediary of,,,,Panama Papers
+10000248,14000155,registered_address,registered address,,,,Panama Papers
+12000179,10000249,officer_of,shareholder of,,12-MAY-2000,,Panama Papers
+12000449,10000249,officer_of,director of,,28-MAR-2002,,Panama Papers
+12000488,10000249,officer_of,nominee director of,,11-MAR-2010,,Panama Papers
+11000015,10000249,intermediary_of,intermediary of,,,,Panama Papers
+10000249,14000245,registered_address,registered address,,,,Panama Papers
+12000058,10000250,officer_of,shareholder of,,09-MAR-2000,,Panama Papers
+11000011,10000250,intermediary_of,intermediary of,,,,Panama Papers
+12000393,10000251,officer_of,beneficiary of,,16-JUL-2013,,Panama Papers
+11000023,10000251,intermediary_of,intermediary of,,,,Panama Papers
+12000071,10000252,officer_of,shareholder of,,13-JUL-2015,,Panama Papers
+12000411,10000252,officer_of,secretary of,,18-SEP-2013,,Panama Papers
+11000018,10000252,intermediary_of,intermediary of,,,,Panama Papers
+10000252,14000118,registered_address,registered address,,,,Panama Papers
+12000043,10000253,officer_of,director of,,19-DEC-2005,,Panama Papers
+12000298,10000253,officer_of,shareholder of,,03-APR-2009,,Panama Papers
+11000001,10000253,intermediary_of,intermediary of,,,,Panama Papers
+10000253,14000009,registered_address,registered address,,,,Panama Papers
+12000286,10000254,officer_of,director of,,02-JUN-2009,,Panama Papers
+12000243,10000254,officer_of,shareholder of,,10-AUG-2002,,Panama Papers
+11000027,10000254,intermediary_of,intermediary of,,,,Panama Papers
+12000125,10000255,officer_of,director of,,24-MAR-2001,,Panama Papers
+12000108,10000255,officer_of,shareholder of,,23-MAR-2010,,Panama Papers
+11000024,10000255,intermediary_of,intermediary of,,,,Panama Papers
+10000255,14000218,registered_address,registered address,,,,Panama Papers
+12000028,10000256,officer_of,secretary of,,27-OCT-2003,,Panama Papers
+12000360,10000256,officer_of,director of,,05-JUN-2002,,Panama Papers
+12000482,10000256,officer_of,nominee director of,,03-APR-2000,,Panama Papers
+11000001,10000256,intermediary_of,intermediary of,,,,Panama Papers
+10000256,14000214,registered_address,registered address,,,,Panama Papers
+12000392,10000257,officer_of,shareholder of,,17-DEC-2007,,Panama Papers
+12000483,10000257,officer_of,nominee director of,,16-JUL-2008,,Panama Papers
+11000015,10000257,intermediary_of,intermediary of,,,,Panama Papers
+10000257,14000007,registered_address,registered address,,,,Panama Papers
+12000057,10000258,officer_of,director of,,25-MAR-2014,,Panama Papers
+12000080,10000258,officer_of,shareholder of,,01-JUL-2011,,Panama Papers
+12000481,10000258,officer_of,nominee director of,,22-AUG-2015,,Panama Papers
+11000023,10000258,intermediary_of,intermediary of,,,,Panama Papers
+12000364,10000259,officer_of,shareholder of,,09-FEB-2014,,Panama Papers
+12000117,10000259,officer_of,secretary of,,05-DEC-2004,,Panama Papers
+11000013,10000259,intermediary_of,intermediary of,,,,Panama Papers
+10000259,14000113,registered_address,registered address,,,,Panama Papers
+12000095,10000260,officer_of,director of,,20-FEB-2012,,Panama Papers
+12000422,10000260,officer_of,secretary of,,11-NOV-2010,,Panama Papers
+11000027,10000260,intermediary_of,intermediary of,,,,Panama Papers
+10000260,14000028,registered_address,registered address,,,,Panama Papers
+12000332,10000261,officer_of,director of,,03-JUN-2008,,Panama Papers
+12000218,10000261,officer_of,director of,,08-MAY-2003,,Panama Papers
+12000482,10000261,officer_of,nominee director of,,18-FEB-2000,,Panama Papers
+11000007,10000261,intermediary_of,intermediary of,,,,Panama Papers
+10000261,14000159,registered_address,registered address,,,,Panama Papers
+12000283,10000262,officer_of,shareholder of,,09-FEB-1999,,Panama Papers
+12000481,10000262,officer_of,nominee director of,,19-AUG-1999,,Panama Papers
+11000002,10000262,intermediary_of,intermediary of,,,,Panama Papers
+10000262,14000159,registered_address,registered address,,,,Panama Papers
+12000183,10000263,officer_of,secretary of,,17-APR-2008,,Panama Papers
+11000025,10000263,intermediary_of,intermediary of,,,,Panama Papers
+10000263,14000183,registered_address,registered address,,,,Panama Papers
+12000360,10000264,officer_of,beneficiary of,,14-DEC-2014,,Panama Papers
+11000004,10000264,intermediary_of,intermediary of,,,,Panama Papers
+10000264,14000077,registered_address,registered address,,,,Panama Papers
+12000301,10000265,officer_of,secretary of,,19-JAN-2007,,Panama Papers
+11000006,10000265,intermediary_of,intermediary of,,,,Panama Papers
+10000265,14000238,registered_address,registered address,,,,Panama Papers
+12000454,10000266,officer_of,shareholder of,,08-APR-2002,,Panama Papers
+11000025,10000266,intermediary_of,intermediary of,,,,Panama Papers
+10000266,14000257,registered_address,registered address,,,,Panama Papers
+12000230,10000267,officer_of,beneficiary of,,20-JUL-1999,,Panama Papers
+12000403,10000267,officer_of,shareholder of,,25-NOV-2010,,Panama Papers
+12000485,10000267,officer_of,nominee director of,,08-APR-2000,,Panama Papers
+11000005,10000267,intermediary_of,intermediary of,,,,Panama Papers
+10000267,14000255,registered_address,registered address,,,,Panama Papers
+12000413,10000268,officer_of,director of,,28-FEB-2013,,Panama Papers
+12000485,10000268,officer_of,nominee director of,,04-AUG-2008,,Panama Papers
+11000006,10000268,intermediary_of,intermediary of,,,,Panama Papers
+12000035,10000269,officer_of,beneficiary of,,03-FEB-2003,,Panama Papers
+12000486,10000269,officer_of,nominee director of,,23-AUG-2006,,Panama Papers
+11000016,10000269,intermediary_of,intermediary of,,,,Panama Papers
+12000333,10000270,officer_of,director of,,16-JAN-2009,,Panama Papers
+12000474,10000270,officer_of,beneficiary of,,13-JUL-2002,,Panama Papers
+12000482,10000270,officer_of,nominee director of,,15-JUN-2014,,Panama Papers
+11000028,10000270,intermediary_of,intermediary of,,,,Panama Papers
+10000270,14000161,registered_address,registered address,,,,Panama Papers
+12000043,10000271,officer_of,secretary of,,09-NOV-1999,,Panama Papers
+12000350,10000271,officer_of,director of,,21-JAN-2005,,Panama Papers
+11000023,10000271,intermediary_of,intermediary of,,,,Panama Papers
+12000080,10000272,officer_of,beneficiary of,,13-MAR-2010,,Panama Papers
+11000028,10000272,intermediary_of,intermediary of,,,,Panama Papers
+10000272,14000199,registered_address,registered address,,,,Panama Papers
+12000343,10000273,officer_of,secretary of,,21-SEP-2012,,Panama Papers
+12000048,10000273,officer_of,director of,,03-MAR-2001,,Panama Papers
+11000030,10000273,intermediary_of,intermediary of,,,,Panama Papers
+12000394,10000274,officer_of,director of,,11-JUN-2013,,Panama Papers
+12000222,10000274,officer_of,shareholder of,,23-DEC-2013,,Panama Papers
+12000486,10000274,officer_of,nominee director of,,04-MAY-2012,,Panama Papers
+11000002,10000274,intermediary_of,intermediary of,,,,Panama Papers
+10000274,14000241,registered_address,registered address,,,,Panama Papers
+12000328,10000275,officer_of,director of,,25-JUL-1999,,Panama Papers
+12000481,10000275,officer_of,nominee director of,,26-JUN-2011,,Panama Papers
+11000016,10000275,intermediary_of,intermediary of,,,,Panama Papers
+10000275,14000109,registered_address,registered address,,,,Panama Papers
+12000488,10000276,officer_of,nominee director of,,14-MAY-2006,,Panama Papers
+11000021,10000276,intermediary_of,intermediary of,,,,Panama Papers
+10000276,14000073,registered_address,registered address,,,,Panama Papers
+12000141,10000277,officer_of,beneficiary of,,28-DEC-2012,,Panama Papers
+11000028,10000277,intermediary_of,intermediary of,,,,Panama Papers
+10000277,14000110,registered_address,registered address,,,,Panama Papers
+12000095,10000278,officer_of,beneficiary of,,25-MAY-2003,,Panama Papers
+12000426,10000278,officer_of,shareholder of,,12-JUL-2013,,Panama Papers
+12000487,10000278,officer_of,nominee director of,,16-SEP-2003,,Panama Papers
+11000023,10000278,intermediary_of,intermediary of,,,,Panama Papers
+10000278,14000200,registered_address,registered address,,,,Panama Papers
+12000288,10000279,officer_of,director of,,07-FEB-2002,,Panama Papers
+11000011,10000279,intermediary_of,intermediary of,,,,Panama Papers
+10000279,14000163,registered_address,registered address,,,,Panama Papers
+12000078,10000280,officer_of,shareholder of,,16-JUN-2001,,Panama Papers
+11000026,10000280,intermediary_of,intermediary of,,,,Panama Papers
+12000135,10000281,officer_of,secretary of,,27-MAR-2012,,Panama Papers
+12000267,10000281,officer_of,shareholder of,,19-FEB-1999,,Panama Papers
+11000007,10000281,intermediary_of,intermediary of,,,,Panama Papers
+10000281,14000097,registered_address,registered address,,,,Panama Papers
+12000357,10000282,officer_of,director of,,13-APR-2009,,Panama Papers
+12000280,10000282,officer_of,shareholder of,,07-NOV-1998,,Panama Papers
+11000012,10000282,intermediary_of,intermediary of,,,,Panama Papers
+12000155,10000283,officer_of,director of,,27-FEB-2013,,Panama Papers
+11000021,10000283,intermediary_of,intermediary of,,,,Panama Papers
+12000211,10000284,officer_of,director of,,14-SEP-2008,,Panama Papers
+12000181,10000284,officer_of,director of,,06-AUG-2011,,Panama Papers
+11000012,10000284,intermediary_of,intermediary of,,,,Panama Papers
+10000284,14000084,registered_address,registered address,,,,Panama Papers
+12000196,10000285,officer_of,shareholder of,,22-JUL-2007,,Panama Papers
+12000146,10000285,officer_of,shareholder of,,20-FEB-2000,,Panama Papers
+11000026,10000285,intermediary_of,intermediary of,,,,Panama Papers
+12000333,10000286,officer_of,director of,,16-DEC-2015,,Panama Papers
+12000487,10000286,officer_of,nominee director of,,04-NOV-2012,,Panama Papers
+11000017,10000286,intermediary_of,intermediary of,,,,Panama Papers
+10000286,14000017,registered_address,registered address,,,,Panama Papers
+12000437,10000287,officer_of,director of,,13-FEB-2004,,Panama Papers
+12000216,10000287,officer_of,secretary of,,04-JUN-2012,,Panama Papers
+12000488,10000287,officer_of,nominee director of,,14-NOV-2010,,Panama Papers
+11000001,10000287,intermediary_of,intermediary of,,,,Panama Papers
+12000260,10000288,officer_of,beneficiary of,,27-JUL-2005,,Panama Papers
+12000485,10000288,officer_of,nominee director of,,01-JUL-1999,,Panama Papers
+11000001,10000288,intermediary_of,intermediary of,,,,Panama Papers
+10000288,14000192,registered_address,registered address,,,,Panama Papers
+12000172,10000289,officer_of,secretary of,,08-SEP-2010,,Panama Papers
+12000088,10000289,officer_of,shareholder of,,20-NOV-2010,,Panama Papers
+11000027,10000289,intermediary_of,intermediary of,,,,Panama Papers
+10000289,14000220,registered_address,registered address,,,,Panama Papers
+12000481,10000290,officer_of,nominee director of,,24-MAR-2010,,Panama Papers
+11000029,10000290,intermediary_of,intermediary of,,,,Panama Papers
+10000290,14000082,registered_address,registered address,,,,Panama Papers
+12000119,10000291,officer_of,shareholder of,,17-FEB-2010,,Panama Papers
+12000051,10000291,officer_of,shareholder of,,09-SEP-2003,,Panama Papers
+11000011,10000291,intermediary_of,intermediary of,,,,Panama Papers
+10000291,14000048,registered_address,registered address,,,,Panama Papers
+12000224,10000292,officer_of,director of,,20-DEC-2015,,Panama Papers
+12000483,10000292,officer_of,nominee director of,,03-OCT-2010,,Panama Papers
+11000001,10000292,intermediary_of,intermediary of,,,,Panama Papers
+10000292,14000067,registered_address,registered address,,,,Panama Papers
+12000325,10000293,officer_of,shareholder of,,08-NOV-2005,,Panama Papers
+12000324,10000293,officer_of,beneficiary of,,07-SEP-2005,,Panama Papers
+11000024,10000293,intermediary_of,intermediary of,,,,Panama Papers
+10000293,14000194,registered_address,registered address,,,,Panama Papers
+12000338,10000294,officer_of,shareholder of,,01-NOV-2001,,Panama Papers
+12000027,10000294,officer_of,director of,,15-OCT-2001,,Panama Papers
+12000483,10000294,officer_of,nominee director of,,04-MAR-2007,,Panama Papers
+11000009,10000294,intermediary_of,intermediary of,,,,Panama Papers
+12000040,10000295,officer_of,beneficiary of,,27-APR-2010,,Panama Papers
+11000004,10000295,intermediary_of,intermediary of,,,,Panama Papers
+10000295,14000012,registered_address,registered address,,,,Panama Papers
+12000038,10000296,officer_of,director of,,07-NOV-2011,,Panama Papers
+12000250,10000296,officer_of,secretary of,,11-NOV-2012,,Panama Papers
+11000026,10000296,intermediary_of,intermediary of,,,,Panama Papers
+10000296,14000153,registered_address,registered address,,,,Panama Papers
+12000463,10000297,officer_of,director of,,11-JUN-2013,,Panama Papers
+12000481,10000297,officer_of,nominee director of,,20-OCT-2015,,Panama Papers
+11000001,10000297,intermediary_of,intermediary of,,,,Panama Papers
+10000297,14000131,registered_address,registered address,,,,Panama Papers
+12000099,10000298,officer_of,director of,,01-SEP-2014,,Panama Papers
+11000025,10000298,intermediary_of,intermediary of,,,,Panama Papers
+10000298,14000187,registered_address,registered address,,,,Panama Papers
+12000461,10000299,officer_of,shareholder of,,08-FEB-2002,,Panama Papers
+12000486,10000299,officer_of,nominee director of,,09-MAY-2013,,Panama Papers
+11000007,10000299,intermediary_of,intermediary of,,,,Panama Papers
+12000363,10000300,officer_of,secretary of,,24-AUG-2011,,Panama Papers
+12000283,10000300,officer_of,director of,,13-APR-2006,,Panama Papers
+11000006,10000300,intermediary_of,intermediary of,,,,Panama Papers
+10000300,14000144,registered_address,registered address,,,,Panama Papers
+12000053,10000301,officer_of,director of,,10-MAR-2004,,Panama Papers
+12000299,10000301,officer_of,shareholder of,,16-JUL-2012,,Panama Papers
+11000014,10000301,intermediary_of,intermediary of,,,,Panama Papers
+10000301,14000140,registered_address,registered address,,,,Panama Papers
+12000319,10000302,officer_of,secretary of,,07-OCT-2009,,Panama Papers
+12000056,10000302,officer_of,beneficiary of,,21-FEB-2012,,Panama Papers
+11000006,10000302,intermediary_of,intermediary of,,,,Panama Papers
+12000301,10000303,officer_of,secretary of,,01-FEB-2003,,Panama Papers
+12000210,10000303,officer_of,beneficiary of,,14-MAR-2009,,Panama Papers
+12000486,10000303,officer_of,nominee director of,,08-FEB-2004,,Panama Papers
+11000022,10000303,intermediary_of,intermediary of,,,,Panama Papers
+10000303,14000075,registered_address,registered address,,,,Panama Papers
+12000063,10000304,officer_of,director of,,23-JUN-2004,,Panama Papers
+12000005,10000304,officer_of,secretary of,,19-JUN-2005,,Panama Papers
+11000018,10000304,intermediary_of,intermediary of,,,,Panama Papers
+10000304,14000146,registered_address,registered address,,,,Panama Papers
+12000270,10000305,officer_of,shareholder of,,20-NOV-2000,,Panama Papers
+12000485,10000305,officer_of,nominee director of,,19-NOV-2011,,Panama Papers
+11000022,10000305,intermediary_of,intermediary of,,,,Panama Papers
+10000305,14000163,registered_address,registered address,,,,Panama Papers
+12000102,10000306,officer_of,secretary of,,02-MAY-2011,,Panama Papers
+12000101,10000306,officer_of,director of,,04-AUG-2003,,Panama Papers
+12000488,10000306,officer_of,nominee director of,,20-JUN-2010,,Panama Papers
+11000008,10000306,intermediary_of,intermediary of,,,,Panama Papers
+10000306,14000146,registered_address,registered address,,,,Panama Papers
+12000330,10000307,officer_of,director of,,01-AUG-2007,,Panama Papers
+11000005,10000307,intermediary_of,intermediary of,,,,Panama Papers
+12000019,10000308,officer_of,director of,,02-JUN-1998,,Panama Papers
+12000459,10000308,officer_of,director of,,16-FEB-2011,,Panama Papers
+11000024,10000308,intermediary_of,intermediary of,,,,Panama Papers
+10000308,14000163,registered_address,registered address,,,,Panama Papers
+12000205,10000309,officer_of,beneficiary of,,16-OCT-1999,,Panama Papers
+12000041,10000309,officer_of,secretary of,,10-DEC-2012,,Panama Papers
+11000016,10000309,intermediary_of,intermediary of,,,,Panama Papers
+12000432,10000310,officer_of,director of,,04-JAN-2005,,Panama Papers
+11000002,10000310,intermediary_of,intermediary of,,,,Panama Papers
+12000054,10000311,officer_of,shareholder of,,24-JUL-2005,,Panama Papers
+11000006,10000311,intermediary_of,intermediary of,,,,Panama Papers
+10000311,14000189,registered_address,registered address,,,,Panama Papers
+12000479,10000312,officer_of,director of,,09-JAN-2001,,Panama Papers
+11000002,10000312,intermediary_of,intermediary of,,,,Panama Papers
+12000136,10000313,officer_of,director of,,26-JUL-2006,,Panama Papers
+11000023,10000313,intermediary_of,intermediary of,,,,Panama Papers
+10000313,14000071,registered_address,registered address,,,,Panama Papers
+12000062,10000314,officer_of,shareholder of,,25-OCT-2011,,Panama Papers
+12000065,10000314,officer_of,shareholder of,,15-NOV-2001,,Panama Papers
+11000017,10000314,intermediary_of,intermediary of,,,,Panama Papers
+10000314,14000245,registered_address,registered address,,,,Panama Papers
+12000144,10000315,officer_of,secretary of,,08-FEB-2006,,Panama Papers
+12000165,10000315,officer_of,beneficiary of,,23-FEB-2009,,Panama Papers
+11000018,10000315,intermediary_of,intermediary of,,,,Panama Papers
+12000338,10000316,officer_of,shareholder of,,23-FEB-2000,,Panama Papers
+11000016,10000316,intermediary_of,intermediary of,,,,Panama Papers
+10000316,14000007,registered_address,registered address,,,,Panama Papers
+12000240,10000317,officer_of,shareholder of,,16-FEB-2008,,Panama Papers
+11000007,10000317,intermediary_of,intermediary of,,,,Panama Papers
+12000390,10000318,officer_of,secretary of,,21-MAR-2014,,Panama Papers
+12000484,10000318,officer_of,nominee director of,,04-MAR-2005,,Panama Papers
+11000030,10000318,intermediary_of,intermediary of,,,,Panama Papers
+10000318,14000232,registered_address,registered address,,,,Panama Papers
+12000400,10000319,officer_of,director of,,09-JUL-2003,,Panama Papers
+11000022,10000319,intermediary_of,intermediary of,,,,Panama Papers
+10000319,14000053,registered_address,registered address,,,,Panama Papers
+12000237,10000320,officer_of,shareholder of,,04-APR-1998,,Panama Papers
+11000029,10000320,intermediary_of,intermediary of,,,,Panama Papers
+10000320,14000137,registered_address,registered address,,,,Panama Papers
+12000244,10000321,officer_of,secretary of,,12-MAY-2001,,Panama Papers
+11000030,10000321,intermediary_of,intermediary of,,,,Panama Papers
+10000321,14000182,registered_address,registered address,,,,Panama Papers
+12000109,10000322,officer_of,secretary of,,17-JUN-1999,,Panama Papers
+12000078,10000322,officer_of,secretary of,,09-JUN-2001,,Panama Papers
+11000002,10000322,intermediary_of,intermediary of,,,,Panama Papers
+10000322,14000217,registered_address,registered address,,,,Panama Papers
+12000151,10000323,officer_of,director of,,09-SEP-2013,,Panama Papers
+12000483,10000323,officer_of,nominee director of,,17-JUL-2001,,Panama Papers
+11000022,10000323,intermediary_of,intermediary of,,,,Panama Papers
+10000323,14000128,registered_address,registered address,,,,Panama Papers
+12000113,10000324,officer_of,director of,,09-APR-2000,,Panama Papers
+12000481,10000324,officer_of,nominee director of,,18-FEB-2006,,Panama Papers
+11000008,10000324,intermediary_of,intermediary of,,,,Panama Papers
+12000201,10000325,officer_of,secretary of,,07-MAR-2004,,Panama Papers
+12000202,10000325,officer_of,beneficiary of,,21-MAY-2007,,Panama Papers
+12000485,10000325,officer_of,nominee director of,,24-JAN-2001,,Panama Papers
+11000006,10000325,intermediary_of,intermediary of,,,,Panama Papers
+10000325,14000245,registered_address,registered address,,,,Panama Papers
+12000437,10000326,officer_of,shareholder of,,11-NOV-2000,,Panama Papers
+12000465,10000326,officer_of,shareholder of,,06-JUN-2012,,Panama Papers
+11000005,10000326,intermediary_of,intermediary of,,,,Panama Papers
+12000220,10000327,officer_of,director of,,06-NOV-1998,,Panama Papers
+12000172,10000327,officer_of,director of,,12-AUG-1998,,Panama Papers
+12000485,10000327,officer_of,nominee director of,,16-APR-2013,,Panama Papers
+11000004,10000327,intermediary_of,intermediary of,,,,Panama Papers
+10000327,14000009,registered_address,registered address,,,,Panama Papers
+12000428,10000328,officer_of,shareholder of,,25-MAR-2001,,Panama Papers
+12000117,10000328,officer_of,director of,,10-DEC-2008,,Panama Papers
+11000015,10000328,intermediary_of,intermediary of,,,,Panama Papers
+10000328,14000180,registered_address,registered address,,,,Panama Papers
+12000340,10000329,officer_of,director of,,27-JUN-2007,,Panama Papers
+12000250,10000329,officer_of,shareholder of,,11-SEP-2013,,Panama Papers
+12000488,10000329,officer_of,nominee director of,,04-MAY-2014,,Panama Papers
+11000024,10000329,intermediary_of,intermediary of,,,,Panama Papers
+10000329,14000076,registered_address,registered address,,,,Panama Papers
+12000439,10000330,officer_of,shareholder of,,12-AUG-1998,,Panama Papers
+12000113,10000330,officer_of,shareholder of,,19-DEC-2011,,Panama Papers
+11000012,10000330,intermediary_of,intermediary of,,,,Panama Papers
+10000330,14000046,registered_address,registered address,,,,Panama Papers
+12000472,10000331,officer_of,shareholder of,,04-MAY-2015,,Panama Papers
+11000029,10000331,intermediary_of,intermediary of,,,,Panama Papers
+12000136,10000332,officer_of,beneficiary of,,11-JUL-2011,,Panama Papers
+11000009,10000332,intermediary_of,intermediary of,,,,Panama Papers
+10000332,14000022,registered_address,registered address,,,,Panama Papers
+12000428,10000333,officer_of,director of,,26-JUN-2007,,Panama Papers
+12000314,10000333,officer_of,director of,,01-AUG-2002,,Panama Papers
+12000488,10000333,officer_of,nominee director of,,15-NOV-2002,,Panama Papers
+11000017,10000333,intermediary_of,intermediary of,,,,Panama Papers
+12000156,10000334,officer_of,director of,,26-MAY-1998,,Panama Papers
+11000015,10000334,intermediary_of,intermediary of,,,,Panama Papers
+10000334,14000145,registered_address,registered address,,,,Panama Papers
+12000028,10000335,officer_of,director of,,14-JUN-1998,,Panama Papers
+11000002,10000335,intermediary_of,intermediary of,,,,Panama Papers
+10000335,14000180,registered_address,registered address,,,,Panama Papers
+12000403,10000336,officer_of,director of,,05-FEB-2006,,Panama Papers
+12000440,10000336,officer_of,shareholder of,,24-APR-2011,,Panama Papers
+11000019,10000336,intermediary_of,intermediary of,,,,Panama Papers
+12000113,10000337,officer_of,beneficiary of,,08-NOV-2010,,Panama Papers
+12000017,10000337,officer_of,secretary of,,13-FEB-2006,,Panama Papers
+11000030,10000337,intermediary_of,intermediary of,,,,Panama Papers
+10000337,14000160,registered_address,registered address,,,,Panama Papers
+12000289,10000338,officer_of,beneficiary of,,26-OCT-2002,,Panama Papers
+11000022,10000338,intermediary_of,intermediary of,,,,Panama Papers
+10000338,14000129,registered_address,registered address,,,,Panama Papers
+12000214,10000339,officer_of,beneficiary of,,10-FEB-2007,,Panama Papers
+11000019,10000339,intermediary_of,intermediary of,,,,Panama Papers
+12000280,10000340,officer_of,secretary of,,04-MAR-2014,,Panama Papers
+12000094,10000340,officer_of,secretary of,,23-JUN-2014,,Panama Papers
+11000030,10000340,intermediary_of,intermediary of,,,,Panama Papers
+10000340,14000184,registered_address,registered address,,,,Panama Papers
+12000182,10000341,officer_of,secretary of,,15-JAN-2015,,Panama Papers
+12000219,10000341,officer_of,director of,,25-JUL-2000,,Panama Papers
+11000025,10000341,intermediary_of,intermediary of,,,,Panama Papers
+10000341,14000155,registered_address,registered address,,,,Panama Papers
+12000298,10000342,officer_of,shareholder of,,20-SEP-2007,,Panama Papers
+11000002,10000342,intermediary_of,intermediary of,,,,Panama Papers
+10000342,14000202,registered_address,registered address,,,,Panama Papers
+12000207,10000343,officer_of,secretary of,,26-SEP-2012,,Panama Papers
+11000027,10000343,intermediary_of,intermediary of,,,,Panama Papers
+10000343,14000029,registered_address,registered address,,,,Panama Papers
+12000425,10000344,officer_of,beneficiary of,,19-AUG-2008,,Panama Papers
+12000333,10000344,officer_of,director of,,04-DEC-2014,,Panama Papers
+12000482,10000344,officer_of,nominee director of,,24-DEC-1999,,Panama Papers
+11000023,10000344,intermediary_of,intermediary of,,,,Panama Papers
+10000344,14000074,registered_address,registered address,,,,Panama Papers
+12000070,10000345,officer_of,shareholder of,,28-MAR-2007,,Panama Papers
+12000115,10000345,officer_of,shareholder of,,10-DEC-1998,,Panama Papers
+11000026,10000345,intermediary_of,intermediary of,,,,Panama Papers
+10000345,14000103,registered_address,registered address,,,,Panama Papers
+12000035,10000346,officer_of,director of,,04-APR-2004,,Panama Papers
+12000482,10000346,officer_of,nominee director of,,04-AUG-1998,,Panama Papers
+11000027,10000346,intermediary_of,intermediary of,,,,Panama Papers
+10000346,14000201,registered_address,registered address,,,,Panama Papers
+12000475,10000347,officer_of,secretary of,,06-APR-2015,,Panama Papers
+12000487,10000347,officer_of,nominee director of,,09-OCT-2012,,Panama Papers
+11000028,10000347,intermediary_of,intermediary of,,,,Panama Papers
+10000347,14000064,registered_address,registered address,,,,Panama Papers
+12000075,10000348,officer_of,shareholder of,,22-APR-2003,,Panama Papers
+12000326,10000348,officer_of,director of,,24-DEC-2015,,Panama Papers
+12000483,10000348,officer_of,nominee director of,,07-AUG-2013,,Panama Papers
+11000010,10000348,intermediary_of,intermediary of,,,,Panama Papers
+10000348,14000052,registered_address,registered address,,,,Panama Papers
+12000189,10000349,officer_of,shareholder of,,26-FEB-2012,,Panama Papers
+12000342,10000349,officer_of,secretary of,,27-JUL-2002,,Panama Papers
+12000487,10000349,officer_of,nominee director of,,01-MAY-2012,,Panama Papers
+11000004,10000349,intermediary_of,intermediary of,,,,Panama Papers
+10000349,14000006,registered_address,registered address,,,,Panama Papers
+12000018,10000350,officer_of,shareholder of,,20-AUG-1999,,Panama Papers
+12000331,10000350,officer_of,beneficiary of,,05-AUG-2012,,Panama Papers
+11000009,10000350,intermediary_of,intermediary of,,,,Panama Papers
+10000350,14000082,registered_address,registered address,,,,Panama Papers
+12000257,10000351,officer_of,shareholder of,,12-DEC-2014,,Panama Papers
+12000439,10000351,officer_of,secretary of,,17-FEB-2003,,Panama Papers
+11000021,10000351,intermediary_of,intermediary of,,,,Panama Papers
+10000351,14000174,registered_address,registered address,,,,Panama Papers
+12000367,10000352,officer_of,beneficiary of,,26-NOV-2007,,Panama Papers
+12000440,10000352,officer_of,secretary of,,03-NOV-2013,,Panama Papers
+11000013,10000352,intermediary_of,intermediary of,,,,Panama Papers
+12000295,10000353,officer_of,director of,,25-NOV-2014,,Panama Papers
+11000009,10000353,intermediary_of,intermediary of,,,,Panama Papers
+10000353,14000166,registered_address,registered address,,,,Panama Papers
+12000300,10000354,officer_of,director of,,02-JAN-2003,,Panama Papers
+12000317,10000354,officer_of,shareholder of,,04-NOV-2001,,Panama Papers
+11000016,10000354,intermediary_of,intermediary of,,,,Panama Papers
+12000166,10000355,officer_of,director of,,06-DEC-2010,,Panama Papers
+12000390,10000355,officer_of,secretary of,,03-JAN-2006,,Panama Papers
+12000484,10000355,officer_of,nominee director of,,04-JAN-2000,,Panama Papers
+11000015,10000355,intermediary_of,intermediary of,,,,Panama Papers
+10000355,14000016,registered_address,registered address,,,,Panama Papers
+12000165,10000356,officer_of,secretary of,,05-NOV-2015,,Panama Papers
+12000488,10000356,officer_of,nominee director of,,07-APR-2006,,Panama Papers
+11000016,10000356,intermediary_of,intermediary of,,,,Panama Papers
+10000356,14000147,registered_address,registered address,,,,Panama Papers
+12000104,10000357,officer_of,secretary of,,27-SEP-2004,,Panama Papers
+11000003,10000357,intermediary_of,intermediary of,,,,Panama Papers
+10000357,14000050,registered_address,registered address,,,,Panama Papers
+12000018,10000358,officer_of,director of,,12-JUL-2015,,Panama Papers
+11000028,10000358,intermediary_of,intermediary of,,,,Panama Papers
+10000358,14000095,registered_address,registered address,,,,Panama Papers
+12000098,10000359,officer_of,director of,,12-JUN-2015,,Panama Papers
+12000427,10000359,officer_of,shareholder of,,26-FEB-2012,,Panama Papers
+12000488,10000359,officer_of,nominee director of,,14-NOV-2010,,Panama Papers
+11000028,10000359,intermediary_of,intermediary of,,,,Panama Papers
+10000359,14000041,registered_address,registered address,,,,Panama Papers
+12000401,10000360,officer_of,director of,,04-AUG-2005,,Panama Papers
+11000002,10000360,intermediary_of,intermediary of,,,,Panama Papers
+10000360,14000170,registered_address,registered address,,,,Panama Papers
+12000115,10000361,officer_of,beneficiary of,,27-MAY-2010,,Panama Papers
+11000023,10000361,intermediary_of,intermediary of,,,,Panama Papers
+10000361,14000081,registered_address,registered address,,,,Panama Papers
+12000039,10000362,officer_of,director of,,20-SEP-2007,,Panama Papers
+12000274,10000362,officer_of,secretary of,,20-JAN-2015,,Panama Papers
+11000023,10000362,intermediary_of,intermediary of,,,,Panama Papers
+12000480,10000363,officer_of,shareholder of,,01-JAN-2008,,Panama Papers
+12000470,10000363,officer_of,secretary of,,09-APR-2008,,Panama Papers
+11000029,10000363,intermediary_of,intermediary of,,,,Panama Papers
+10000363,14000072,registered_address,registered address,,,,Panama Papers
+12000281,10000364,officer_of,beneficiary of,,25-NOV-1999,,Panama Papers
+11000008,10000364,intermediary_of,intermediary of,,,,Panama Papers
+10000364,14000019,registered_address,registered address,,,,Panama Papers
+12000037,10000365,officer_of,shareholder of,,20-FEB-2015,,Panama Papers
+12000487,10000365,officer_of,nominee director of,,16-MAR-2006,,Panama Papers
+11000024,10000365,intermediary_of,intermediary of,,,,Panama Papers
+10000365,14000019,registered_address,registered address,,,,Panama Papers
+12000260,10000366,officer_of,secretary of,,16-MAY-2005,,Panama Papers
+12000116,10000366,officer_of,director of,,02-JAN-2004,,Panama Papers
+11000018,10000366,intermediary_of,intermediary of,,,,Panama Papers
+10000366,14000195,registered_address,registered address,,,,Panama Papers
+12000283,10000367,officer_of,secretary of,,25-JUL-2002,,Panama Papers
+11000014,10000367,intermediary_of,intermediary of,,,,Panama Papers
+10000367,14000071,registered_address,registered address,,,,Panama Papers
+12000225,10000368,officer_of,beneficiary of,,07-JUN-2011,,Panama Papers
+12000486,10000368,officer_of,nominee director of,,02-APR-2005,,Panama Papers
+11000003,10000368,intermediary_of,intermediary of,,,,Panama Papers
+10000368,14000117,registered_address,registered address,,,,Panama Papers
+12000383,10000369,officer_of,director of,,19-JAN-1998,,Panama Papers
+12000386,10000369,officer_of,shareholder of,,08-JAN-2000,,Panama Papers
+11000002,10000369,intermediary_of,intermediary of,,,,Panama Papers
+10000369,14000093,registered_address,registered address,,,,Panama Papers
+12000023,10000370,officer_of,shareholder of,,08-MAY-2002,,Panama Papers
+12000161,10000370,officer_of,director of,,13-AUG-2001,,Panama Papers
+11000022,10000370,intermediary_of,intermediary of,,,,Panama Papers
+10000370,14000129,registered_address,registered address,,,,Panama Papers
+12000254,10000371,officer_of,beneficiary of,,28-APR-2012,,Panama Papers
+11000023,10000371,intermediary_of,intermediary of,,,,Panama Papers
+10000371,14000188,registered_address,registered address,,,,Panama Papers
+12000445,10000372,officer_of,beneficiary of,,23-SEP-2014,,Panama Papers
+12000335,10000372,officer_of,director of,,02-JUN-2011,,Panama Papers
+12000485,10000372,officer_of,nominee director of,,23-OCT-2013,,Panama Papers
+11000009,10000372,intermediary_of,intermediary of,,,,Panama Papers
+10000372,14000071,registered_address,registered address,,,,Panama Papers
+12000157,10000373,officer_of,shareholder of,,04-JUN-2002,,Panama Papers
+11000002,10000373,intermediary_of,intermediary of,,,,Panama Papers
+12000333,10000374,officer_of,director of,,01-AUG-1999,,Panama Papers
+12000392,10000374,officer_of,beneficiary of,,09-OCT-2010,,Panama Papers
+11000010,10000374,intermediary_of,intermediary of,,,,Panama Papers
+12000031,10000375,officer_of,secretary of,,01-JUL-2010,,Panama Papers
+12000487,10000375,officer_of,nominee director of,,15-JAN-2005,,Panama Papers
+11000007,10000375,intermediary_of,intermediary of,,,,Panama Papers
+10000375,14000221,registered_address,registered address,,,,Panama Papers
+12000339,10000376,officer_of,director of,,25-JUN-1998,,Panama Papers
+11000030,10000376,intermediary_of,intermediary of,,,,Panama Papers
+10000376,14000173,registered_address,registered address,,,,Panama Papers
+12000415,10000377,officer_of,director of,,11-DEC-2011,,Panama Papers
+12000386,10000377,officer_of,secretary of,,26-DEC-1999,,Panama Papers
+11000026,10000377,intermediary_of,intermediary of,,,,Panama Papers
+10000377,14000199,registered_address,registered address,,,,Panama Papers
+12000440,10000378,officer_of,secretary of,,19-DEC-2014,,Panama Papers
+12000481,10000378,officer_of,nominee director of,,09-MAR-2010,,Panama Papers
+11000015,10000378,intermediary_of,intermediary of,,,,Panama Papers
+10000378,14000122,registered_address,registered address,,,,Panama Papers
+12000465,10000379,officer_of,director of,,08-SEP-2007,,Panama Papers
+12000485,10000379,officer_of,nominee director of,,11-OCT-2010,,Panama Papers
+11000002,10000379,intermediary_of,intermediary of,,,,Panama Papers
+10000379,14000186,registered_address,registered address,,,,Panama Papers
+12000338,10000380,officer_of,director of,,01-FEB-2007,,Panama Papers
+12000129,10000380,officer_of,director of,,22-JUN-2006,,Panama Papers
+11000028,10000380,intermediary_of,intermediary of,,,,Panama Papers
+10000380,14000237,registered_address,registered address,,,,Panama Papers
+12000226,10000381,officer_of,beneficiary of,,16-NOV-2015,,Panama Papers
+12000481,10000381,officer_of,nominee director of,,07-JUL-1999,,Panama Papers
+11000019,10000381,intermediary_of,intermediary of,,,,Panama Papers
+12000460,10000382,officer_of,director of,,15-MAR-2006,,Panama Papers
+12000313,10000382,officer_of,beneficiary of,,09-AUG-2002,,Panama Papers
+11000008,10000382,intermediary_of,intermediary of,,,,Panama Papers
+10000382,14000076,registered_address,registered address,,,,Panama Papers
+12000120,10000383,officer_of,shareholder of,,22-SEP-2012,,Panama Papers
+12000481,10000383,officer_of,nominee director of,,19-JUN-1999,,Panama Papers
+11000018,10000383,intermediary_of,intermediary of,,,,Panama Papers
+10000383,14000032,registered_address,registered address,,,,Panama Papers
+12000132,10000384,officer_of,beneficiary of,,18-DEC-1999,,Panama Papers
+12000009,10000384,officer_of,director of,,08-JUN-2001,,Panama Papers
+11000003,10000384,intermediary_of,intermediary of,,,,Panama Papers
+10000384,14000058,registered_address,registered address,,,,Panama Papers
+12000122,10000385,officer_of,shareholder of,,14-FEB-2011,,Panama Papers
+12000486,10000385,officer_of,nominee director of,,10-MAR-1998,,Panama Papers
+11000011,10000385,intermediary_of,intermediary of,,,,Panama Papers
+10000385,14000185,registered_address,registered address,,,,Panama Papers
+12000209,10000386,officer_of,secretary of,,10-OCT-1998,,Panama Papers
+12000460,10000386,officer_of,shareholder of,,12-JAN-2007,,Panama Papers
+11000030,10000386,intermediary_of,intermediary of,,,,Panama Papers
+10000386,14000014,registered_address,registered address,,,,Panama Papers
+12000312,10000387,officer_of,director of,,23-DEC-2014,,Panama Papers
+12000486,10000387,officer_of,nominee director of,,26-OCT-2009,,Panama Papers
+11000007,10000387,intermediary_of,intermediary of,,,,Panama Papers
+10000387,14000017,registered_address,registered address,,,,Panama Papers
+12000196,10000388,officer_of,shareholder of,,03-FEB-2005,,Panama Papers
+11000019,10000388,intermediary_of,intermediary of,,,,Panama Papers
+10000388,14000215,registered_address,registered address,,,,Panama Papers
+12000434,10000389,officer_of,director of,,20-AUG-2014,,Panama Papers
+11000017,10000389,intermediary_of,intermediary of,,,,Panama Papers
+10000389,14000138,registered_address,registered address,,,,Panama Papers
+12000429,10000390,officer_of,shareholder of,,11-APR-2009,,Panama Papers
+11000008,10000390,intermediary_of,intermediary of,,,,Panama Papers
+10000390,14000060,registered_address,registered address,,,,Panama Papers
+12000228,10000391,officer_of,secretary of,,12-FEB-2009,,Panama Papers
+11000018,10000391,intermediary_of,intermediary of,,,,Panama Papers
+10000391,14000186,registered_address,registered address,,,,Panama Papers
+12000310,10000392,officer_of,secretary of,,08-OCT-2002,,Panama Papers
+12000118,10000392,officer_of,director of,,08-JUL-2002,,Panama Papers
+11000020,10000392,intermediary_of,intermediary of,,,,Panama Papers
+10000392,14000147,registered_address,registered address,,,,Panama Papers
+12000161,10000393,officer_of,director of,,05-OCT-2013,,Panama Papers
+12000061,10000393,officer_of,shareholder of,,25-APR-2003,,Panama Papers
+12000487,10000393,officer_of,nominee director of,,15-JAN-2003,,Panama Papers
+11000004,10000393,intermediary_of,intermediary of,,,,Panama Papers
+10000393,14000241,registered_address,registered address,,,,Panama Papers
+12000065,10000394,officer_of,secretary of,,01-DEC-2003,,Panama Papers
+11000003,10000394,intermediary_of,intermediary of,,,,Panama Papers
+10000394,14000272,registered_address,registered address,,,,Panama Papers
+12000463,10000395,officer_of,secretary of,,23-SEP-2005,,Panama Papers
+12000217,10000395,officer_of,shareholder of,,10-FEB-2008,,Panama Papers
+11000029,10000395,intermediary_of,intermediary of,,,,Panama Papers
+12000303,10000396,officer_of,shareholder of,,02-FEB-2009,,Panama Papers
+12000312,10000396,officer_of,secretary of,,14-NOV-2012,,Panama Papers
+11000024,10000396,intermediary_of,intermediary of,,,,Panama Papers
+12000388,10000397,officer_of,shareholder of,,06-DEC-2014,,Panama Papers
+12000245,10000397,officer_of,director of,,05-JAN-2009,,Panama Papers
+11000022,10000397,intermediary_of,intermediary of,,,,Panama Papers
+10000397,14000195,registered_address,registered address,,,,Panama Papers
+12000225,10000398,officer_of,director of,,09-FEB-2005,,Panama Papers
+12000091,10000398,officer_of,beneficiary of,,16-JUN-1999,,Panama Papers
+11000019,10000398,intermediary_of,intermediary of,,,,Panama Papers
+10000398,14000269,registered_address,registered address,,,,Panama Papers
+12000147,10000399,officer_of,shareholder of,,05-JAN-2004,,Panama Papers
+12000166,10000399,officer_of,secretary of,,17-MAY-2008,,Panama Papers
+11000004,10000399,intermediary_of,intermediary of,,,,Panama Papers
+10000399,14000085,registered_address,registered address,,,,Panama Papers
+12000148,10000400,officer_of,shareholder of,,06-MAY-2006,,Panama Papers
+12000488,10000400,officer_of,nominee director of,,20-FEB-2005,,Panama Papers
+11000022,10000400,intermediary_of,intermediary of,,,,Panama Papers
+10000400,14000050,registered_address,registered address,,,,Panama Papers
+12000283,10000401,officer_of,shareholder of,,01-OCT-1999,,Panama Papers
+11000029,10000401,intermediary_of,intermediary of,,,,Panama Papers
+10000401,14000100,registered_address,registered address,,,,Panama Papers
+12000251,10000402,officer_of,director of,,12-APR-2007,,Panama Papers
+11000019,10000402,intermediary_of,intermediary of,,,,Panama Papers
+10000402,14000228,registered_address,registered address,,,,Panama Papers
+12000426,10000403,officer_of,director of,,23-DEC-2001,,Panama Papers
+11000015,10000403,intermediary_of,intermediary of,,,,Panama Papers
+12000135,10000404,officer_of,beneficiary of,,24-NOV-2001,,Panama Papers
+12000045,10000404,officer_of,beneficiary of,,26-FEB-2005,,Panama Papers
+11000024,10000404,intermediary_of,intermediary of,,,,Panama Papers
+10000404,14000081,registered_address,registered address,,,,Panama Papers
+12000142,10000405,officer_of,director of,,22-FEB-2008,,Panama Papers
+12000233,10000405,officer_of,director of,,14-FEB-2014,,Panama Papers
+11000011,10000405,intermediary_of,intermediary of,,,,Panama Papers
+10000405,14000019,registered_address,registered address,,,,Panama Papers
+12000126,10000406,officer_of,shareholder of,,22-APR-2006,,Panama Papers
+12000487,10000406,officer_of,nominee director of,,16-MAR-2013,,Panama Papers
+11000027,10000406,intermediary_of,intermediary of,,,,Panama Papers
+10000406,14000255,registered_address,registered address,,,,Panama Papers
+12000068,10000407,officer_of,director of,,17-DEC-2004,,Panama Papers
+12000102,10000407,officer_of,director of,,14-FEB-2013,,Panama Papers
+11000018,10000407,intermediary_of,intermediary of,,,,Panama Papers
+10000407,14000092,registered_address,registered address,,,,Panama Papers
+12000215,10000408,officer_of,director of,,13-NOV-2005,,Panama Papers
+11000021,10000408,intermediary_of,intermediary of,,,,Panama Papers
+10000408,14000272,registered_address,registered address,,,,Panama Papers
+12000450,10000409,officer_of,shareholder of,,10-NOV-2013,,Panama Papers
+11000016,10000409,intermediary_of,intermediary of,,,,Panama Papers
+10000409,14000201,registered_address,registered address,,,,Panama Papers
+12000279,10000410,officer_of,director of,,25-MAY-2011,,Panama Papers
+12000247,10000410,officer_of,secretary of,,11-APR-2011,,Panama Papers
+12000484,10000410,officer_of,nominee director of,,04-MAR-2012,,Panama Papers
+11000011,10000410,intermediary_of,intermediary of,,,,Panama Papers
+10000410,14000178,registered_address,registered address,,,,Panama Papers
+12000361,10000411,officer_of,secretary of,,27-AUG-2011,,Panama Papers
+12000066,10000411,officer_of,shareholder of,,08-JAN-2007,,Panama Papers
+11000009,10000411,intermediary_of,intermediary of,,,,Panama Papers
+10000411,14000210,registered_address,registered address,,,,Panama Papers
+12000288,10000412,officer_of,beneficiary of,,22-JUN-2011,,Panama Papers
+11000013,10000412,intermediary_of,intermediary of,,,,Panama Papers
+12000205,10000413,officer_of,beneficiary of,,16-DEC-2005,,Panama Papers
+12000134,10000413,officer_of,beneficiary of,,21-JAN-2007,,Panama Papers
+11000015,10000413,intermediary_of,intermediary of,,,,Panama Papers
+10000413,14000086,registered_address,registered address,,,,Panama Papers
+12000400,10000414,officer_of,director of,,20-JUN-2002,,Panama Papers
+11000020,10000414,intermediary_of,intermediary of,,,,Panama Papers
+10000414,14000011,registered_address,registered address,,,,Panama Papers
+12000047,10000415,officer_of,beneficiary of,,25-SEP-2000,,Panama Papers
+12000400,10000415,officer_of,shareholder of,,02-SEP-2004,,Panama Papers
+11000012,10000415,intermediary_of,intermediary of,,,,Panama Papers
+10000415,14000081,registered_address,registered address,,,,Panama Papers
+12000441,10000416,officer_of,beneficiary of,,11-JUL-2004,,Panama Papers
+12000368,10000416,officer_of,director of,,24-APR-1998,,Panama Papers
+12000483,10000416,officer_of,nominee director of,,02-JAN-2014,,Panama Papers
+11000004,10000416,intermediary_of,intermediary of,,,,Panama Papers
+10000416,14000249,registered_address,registered address,,,,Panama Papers
+12000081,10000417,officer_of,shareholder of,,21-DEC-2005,,Panama Papers
+12000481,10000417,officer_of,nominee director of,,02-MAY-2001,,Panama Papers
+11000027,10000417,intermediary_of,intermediary of,,,,Panama Papers
+10000417,14000206,registered_address,registered address,,,,Panama Papers
+12000419,10000418,officer_of,beneficiary of,,28-FEB-2000,,Panama Papers
+11000003,10000418,intermediary_of,intermediary of,,,,Panama Papers
+10000418,14000213,registered_address,registered address,,,,Panama Papers
+12000008,10000419,officer_of,director of,,20-MAR-2001,,Panama Papers
+11000024,10000419,intermediary_of,intermediary of,,,,Panama Papers
+10000419,14000201,registered_address,registered address,,,,Panama Papers
+12000426,10000420,officer_of,beneficiary of,,26-JUN-2011,,Panama Papers
+11000017,10000420,intermediary_of,intermediary of,,,,Panama Papers
+10000420,14000155,registered_address,registered address,,,,Panama Papers
+12000235,10000421,officer_of,secretary of,,10-JUL-2000,,Panama Papers
+12000104,10000421,officer_of,shareholder of,,14-SEP-2006,,Panama Papers
+12000488,10000421,officer_of,nominee director of,,16-MAY-2015,,Panama Papers
+11000017,10000421,intermediary_of,intermediary of,,,,Panama Papers
+10000421,14000009,registered_address,registered address,,,,Panama Papers
+12000373,10000422,officer_of,director of,,23-FEB-2012,,Panama Papers
+12000202,10000422,officer_of,shareholder of,,19-JAN-2010,,Panama Papers
+11000025,10000422,intermediary_of,intermediary of,,,,Panama Papers
+10000422,14000190,registered_address,registered address,,,,Panama Papers
+12000289,10000423,officer_of,beneficiary of,,05-NOV-2000,,Panama Papers
+12000056,10000423,officer_of,director of,,18-MAR-2004,,Panama Papers
+11000028,10000423,intermediary_of,intermediary of,,,,Panama Papers
+12000043,10000424,officer_of,director of,,24-OCT-2005,,Panama Papers
+12000488,10000424,officer_of,nominee director of,,02-AUG-2006,,Panama Papers
+11000014,10000424,intermediary_of,intermediary of,,,,Panama Papers
+10000424,14000173,registered_address,registered address,,,,Panama Papers
+12000019,10000425,officer_of,director of,,20-JUL-1998,,Panama Papers
+11000009,10000425,intermediary_of,intermediary of,,,,Panama Papers
+10000425,14000251,registered_address,registered address,,,,Panama Papers
+12000161,10000426,officer_of,shareholder of,,16-SEP-2015,,Panama Papers
+12000334,10000426,officer_of,shareholder of,,24-FEB-2001,,Panama Papers
+12000488,10000426,officer_of,nominee director of,,14-DEC-2000,,Panama Papers
+11000013,10000426,intermediary_of,intermediary of,,,,Panama Papers
+10000426,14000007,registered_address,registered address,,,,Panama Papers
+12000267,10000427,officer_of,shareholder of,,07-AUG-2001,,Panama Papers
+11000002,10000427,intermediary_of,intermediary of,,,,Panama Papers
+12000088,10000428,officer_of,secretary of,,05-DEC-2015,,Panama Papers
+12000321,10000428,officer_of,secretary of,,13-JAN-2007,,Panama Papers
+11000004,10000428,intermediary_of,intermediary of,,,,Panama Papers
+10000428,14000151,registered_address,registered address,,,,Panama Papers
+12000268,10000429,officer_of,beneficiary of,,19-NOV-2003,,Panama Papers
+12000166,10000429,officer_of,shareholder of,,10-SEP-2004,,Panama Papers
+11000026,10000429,intermediary_of,intermediary of,,,,Panama Papers
+10000429,14000191,registered_address,registered address,,,,Panama Papers
+12000242,10000430,officer_of,shareholder of,,24-MAR-2003,,Panama Papers
+12000237,10000430,officer_of,director of,,23-AUG-1998,,Panama Papers
+12000486,10000430,officer_of,nominee director of,,11-JUL-2003,,Panama Papers
+11000005,10000430,intermediary_of,intermediary of,,,,Panama Papers
+10000430,14000003,registered_address,registered address,,,,Panama Papers
+12000360,10000431,officer_of,director of,,15-JUN-2001,,Panama Papers
+12000097,10000431,officer_of,director of,,20-AUG-2003,,Panama Papers
+12000482,10000431,officer_of,nominee director of,,03-JUN-2015,,Panama Papers
+11000029,10000431,intermediary_of,intermediary of,,,,Panama Papers
+10000431,14000008,registered_address,registered address,,,,Panama Papers
+12000141,10000432,officer_of,director of,,24-MAY-2009,,Panama Papers
+12000487,10000432,officer_of,nominee director of,,20-JUL-2006,,Panama Papers
+11000018,10000432,intermediary_of,intermediary of,,,,Panama Papers
+10000432,14000104,registered_address,registered address,,,,Panama Papers
+12000304,10000433,officer_of,beneficiary of,,06-MAY-2001,,Panama Papers
+12000484,10000433,officer_of,nominee director of,,05-SEP-2010,,Panama Papers
+11000011,10000433,intermediary_of,intermediary of,,,,Panama Papers
+10000433,14000142,registered_address,registered address,,,,Panama Papers
+12000108,10000434,officer_of,shareholder of,,03-OCT-2002,,Panama Papers
+12000087,10000434,officer_of,shareholder of,,06-AUG-1998,,Panama Papers
+12000484,10000434,officer_of,nominee director of,,11-FEB-1999,,Panama Papers
+11000005,10000434,intermediary_of,intermediary of,,,,Panama Papers
+10000434,14000226,registered_address,registered address,,,,Panama Papers
+12000341,10000435,officer_of,director of,,25-FEB-2005,,Panama Papers
+12000242,10000435,officer_of,director of,,13-JUL-2010,,Panama Papers
+11000023,10000435,intermediary_of,intermediary of,,,,Panama Papers
+10000435,14000160,registered_address,registered address,,,,Panama Papers
+12000272,10000436,officer_of,shareholder of,,06-NOV-2006,,Panama Papers
+12000041,10000436,officer_of,shareholder of,,05-JUL-2015,,Panama Papers
+11000015,10000436,intermediary_of,intermediary of,,,,Panama Papers
+10000436,14000129,registered_address,registered address,,,,Panama Papers
+12000286,10000437,officer_of,shareholder of,,12-MAR-1998,,Panama Papers
+11000028,10000437,intermediary_of,intermediary of,,,,Panama Papers
+10000437,14000239,registered_address,registered address,,,,Panama Papers
+12000373,10000438,officer_of,secretary of,,12-MAR-1998,,Panama Papers
+12000218,10000438,officer_of,shareholder of,,15-JUN-2014,,Panama Papers
+12000484,10000438,officer_of,nominee director of,,07-JAN-2007,,Panama Papers
+11000011,10000438,intermediary_of,intermediary of,,,,Panama Papers
+10000438,14000189,registered_address,registered address,,,,Panama Papers
+12000258,10000439,officer_of,director of,,21-MAY-2013,,Panama Papers
+12000472,10000439,officer_of,secretary of,,02-DEC-2006,,Panama Papers
+12000485,10000439,officer_of,nominee director of,,09-NOV-1999,,Panama Papers
+11000019,10000439,intermediary_of,intermediary of,,,,Panama Papers
+12000312,10000440,officer_of,shareholder of,,16-DEC-2015,,Panama Papers
+12000324,10000440,officer_of,director of,,02-JUN-1998,,Panama Papers
+11000020,10000440,intermediary_of,intermediary of,,,,Panama Papers
+12000362,10000441,officer_of,shareholder of,,03-JUL-2001,,Panama Papers
+11000002,10000441,intermediary_of,intermediary of,,,,Panama Papers
+10000441,14000032,registered_address,registered address,,,,Panama Papers
+12000050,10000442,officer_of,shareholder of,,21-OCT-1998,,Panama Papers
+12000440,10000442,officer_of,beneficiary of,,27-NOV-2008,,Panama Papers
+11000029,10000442,intermediary_of,intermediary of,,,,Panama Papers
+10000442,14000188,registered_address,registered address,,,,Panama Papers
+12000482,10000443,officer_of,nominee director of,,14-NOV-1999,,Panama Papers
+11000003,10000443,intermediary_of,intermediary of,,,,Panama Papers
+10000443,14000257,registered_address,registered address,,,,Panama Papers
+12000374,10000444,officer_of,secretary of,,02-MAY-2004,,Panama Papers
+12000483,10000444,officer_of,nominee director of,,23-SEP-2011,,Panama Papers
+11000006,10000444,intermediary_of,intermediary of,,,,Panama Papers
+10000444,14000002,registered_address,registered address,,,,Panama Papers
+12000141,10000445,officer_of,beneficiary of,,15-OCT-2000,,Panama Papers
+12000288,10000445,officer_of,director of,,15-FEB-2001,,Panama Papers
+11000030,10000445,intermediary_of,intermediary of,,,,Panama Papers
+10000445,14000045,registered_address,registered address,,,,Panama Papers
+12000163,10000446,officer_of,director of,,25-MAR-1998,,Panama Papers
+11000007,10000446,intermediary_of,intermediary of,,,,Panama Papers
+10000446,14000236,registered_address,registered address,,,,Panama Papers
+12000450,10000447,officer_of,shareholder of,,10-NOV-2004,,Panama Papers
+11000024,10000447,intermediary_of,intermediary of,,,,Panama Papers
+10000447,14000068,registered_address,registered address,,,,Panama Papers
+12000028,10000448,officer_of,shareholder of,,09-MAR-2008,,Panama Papers
+12000195,10000448,officer_of,secretary of,,08-APR-2006,,Panama Papers
+11000029,10000448,intermediary_of,intermediary of,,,,Panama Papers
+10000448,14000152,registered_address,registered address,,,,Panama Papers
+12000358,10000449,officer_of,beneficiary of,,19-JUN-2009,,Panama Papers
+12000226,10000449,officer_of,shareholder of,,17-AUG-2003,,Panama Papers
+12000488,10000449,officer_of,nominee director of,,02-OCT-2010,,Panama Papers
+11000005,10000449,intermediary_of,intermediary of,,,,Panama Papers
+10000449,14000108,registered_address,registered address,,,,Panama Papers
+12000178,10000450,officer_of,beneficiary of,,07-JUN-2014,,Panama Papers
+12000331,10000450,officer_of,director of,,27-DEC-2006,,Panama Papers
+11000003,10000450,intermediary_of,intermediary of,,,,Panama Papers
+10000450,14000108,registered_address,registered address,,,,Panama Papers
+12000112,10000451,officer_of,director of,,22-NOV-2003,,Panama Papers
+12000240,10000451,officer_of,secretary of,,05-AUG-2008,,Panama Papers
+12000482,10000451,officer_of,nominee director of,,12-OCT-2010,,Panama Papers
+11000022,10000451,intermediary_of,intermediary of,,,,Panama Papers
+10000451,14000018,registered_address,registered address,,,,Panama Papers
+12000360,10000452,officer_of,director of,,06-JUL-2013,,Panama Papers
+12000054,10000452,officer_of,beneficiary of,,11-NOV-2001,,Panama Papers
+11000006,10000452,intermediary_of,intermediary of,,,,Panama Papers
+12000084,10000453,officer_of,director of,,15-OCT-2012,,Panama Papers
+12000240,10000453,officer_of,director of,,19-DEC-2011,,Panama Papers
+11000024,10000453,intermediary_of,intermediary of,,,,Panama Papers
+10000453,14000125,registered_address,registered address,,,,Panama Papers
+12000371,10000454,officer_of,secretary of,,22-JUL-2007,,Panama Papers
+12000192,10000454,officer_of,director of,,08-SEP-2001,,Panama Papers
+11000014,10000454,intermediary_of,intermediary of,,,,Panama Papers
+10000454,14000138,registered_address,registered address,,,,Panama Papers
+12000304,10000455,officer_of,beneficiary of,,20-DEC-2014,,Panama Papers
+12000015,10000455,officer_of,shareholder of,,19-MAR-2002,,Panama Papers
+12000483,10000455,officer_of,nominee director of,,22-JUN-1999,,Panama Papers
+11000003,10000455,intermediary_of,intermediary of,,,,Panama Papers
+10000455,14000073,registered_address,registered address,,,,Panama Papers
+12000235,10000456,officer_of,shareholder of,,05-APR-2003,,Panama Papers
+12000203,10000456,officer_of,beneficiary of,,10-FEB-2003,,Panama Papers
+12000481,10000456,officer_of,nominee director of,,08-APR-2011,,Panama Papers
+11000003,10000456,intermediary_of,intermediary of,,,,Panama Papers
+10000456,14000079,registered_address,registered address,,,,Panama Papers
+12000003,10000457,officer_of,secretary of,,18-NOV-2010,,Panama Papers
+12000245,10000457,officer_of,shareholder of,,07-AUG-2010,,Panama Papers
+12000482,10000457,officer_of,nominee director of,,27-AUG-2005,,Panama Papers
+11000025,10000457,intermediary_of,intermediary of,,,,Panama Papers
+12000066,10000458,officer_of,shareholder of,,13-JUN-2007,,Panama Papers
+12000163,10000458,officer_of,shareholder of,,24-JUL-2010,,Panama Papers
+11000018,10000458,intermediary_of,intermediary of,,,,Panama Papers
+10000458,14000251,registered_address,registered address,,,,Panama Papers
+12000114,10000459,officer_of,shareholder of,,25-APR-2009,,Panama Papers
+11000012,10000459,intermediary_of,intermediary of,,,,Panama Papers
+10000459,14000001,registered_address,registered address,,,,Panama Papers
+12000469,10000460,officer_of,shareholder of,,16-APR-1999,,Panama Papers
+12000040,10000460,officer_of,shareholder of,,10-JUL-2000,,Panama Papers
+11000011,10000460,intermediary_of,intermediary of,,,,Panama Papers
+10000460,14000093,registered_address,registered address,,,,Panama Papers
+12000078,10000461,officer_of,shareholder of,,27-AUG-1999,,Panama Papers
+12000146,10000461,officer_of,beneficiary of,,14-MAR-2003,,Panama Papers
+11000013,10000461,intermediary_of,intermediary of,,,,Panama Papers
+10000461,14000055,registered_address,registered address,,,,Panama Papers
+12000413,10000462,officer_of,shareholder of,,04-NOV-2010,,Panama Papers
+12000043,10000462,officer_of,director of,,06-JUN-2002,,Panama Papers
+11000019,10000462,intermediary_of,intermediary of,,,,Panama Papers
+10000462,14000233,registered_address,registered address,,,,Panama Papers
+12000249,10000463,officer_of,shareholder of,,13-JUL-1999,,Panama Papers
+11000010,10000463,intermediary_of,intermediary of,,,,Panama Papers
+10000463,14000060,registered_address,registered address,,,,Panama Papers
+12000258,10000464,officer_of,shareholder of,,11-SEP-2009,,Panama Papers
+12000191,10000464,officer_of,director of,,26-MAR-2011,,Panama Papers
+11000018,10000464,intermediary_of,intermediary of,,,,Panama Papers
+10000464,14000041,registered_address,registered address,,,,Panama Papers
+12000004,10000465,officer_of,shareholder of,,19-MAY-2004,,Panama Papers
+11000017,10000465,intermediary_of,intermediary of,,,,Panama Papers
+12000223,10000466,officer_of,director of,,04-AUG-2012,,Panama Papers
+12000025,10000466,officer_of,beneficiary of,,02-OCT-2009,,Panama Papers
+11000009,10000466,intermediary_of,intermediary of,,,,Panama Papers
+10000466,14000152,registered_address,registered address,,,,Panama Papers
+12000278,10000467,officer_of,beneficiary of,,14-JAN-2012,,Panama Papers
+12000485,10000467,officer_of,nominee director of,,11-MAY-1999,,Panama Papers
+11000020,10000467,intermediary_of,intermediary of,,,,Panama Papers
+10000467,14000019,registered_address,registered address,,,,Panama Papers
+12000128,10000468,officer_of,shareholder of,,24-MAR-2013,,Panama Papers
+12000090,10000468,officer_of,secretary of,,09-JUN-2012,,Panama Papers
+12000482,10000468,officer_of,nominee director of,,23-OCT-2005,,Panama Papers
+11000030,10000468,intermediary_of,intermediary of,,,,Panama Papers
+12000021,10000469,officer_of,director of,,05-OCT-2001,,Panama Papers
+12000040,10000469,officer_of,secretary of,,17-DEC-2000,,Panama Papers
+11000011,10000469,intermediary_of,intermediary of,,,,Panama Papers
+12000217,10000470,officer_of,shareholder of,,21-DEC-2000,,Panama Papers
+12000206,10000470,officer_of,secretary of,,04-APR-2006,,Panama Papers
+12000485,10000470,officer_of,nominee director of,,10-OCT-2014,,Panama Papers
+11000018,10000470,intermediary_of,intermediary of,,,,Panama Papers
+12000356,10000471,officer_of,beneficiary of,,19-AUG-2004,,Panama Papers
+11000025,10000471,intermediary_of,intermediary of,,,,Panama Papers
+12000383,10000472,officer_of,beneficiary of,,17-NOV-1999,,Panama Papers
+12000353,10000472,officer_of,director of,,13-MAR-2007,,Panama Papers
+11000009,10000472,intermediary_of,intermediary of,,,,Panama Papers
+10000472,14000107,registered_address,registered address,,,,Panama Papers
+12000401,10000473,officer_of,shareholder of,,09-MAY-2012,,Panama Papers
+11000020,10000473,intermediary_of,intermediary of,,,,Panama Papers
+10000473,14000163,registered_address,registered address,,,,Panama Papers
+12000114,10000474,officer_of,shareholder of,,03-OCT-2007,,Panama Papers
+12000486,10000474,officer_of,nominee director of,,24-DEC-2012,,Panama Papers
+11000019,10000474,intermediary_of,intermediary of,,,,Panama Papers
+10000474,14000169,registered_address,registered address,,,,Panama Papers
+12000244,10000475,officer_of,beneficiary of,,11-JUN-2009,,Panama Papers
+12000477,10000475,officer_of,secretary of,,05-AUG-2013,,Panama Papers
+11000007,10000475,intermediary_of,intermediary of,,,,Panama Papers
+10000475,14000088,registered_address,registered address,,,,Panama Papers
+12000131,10000476,officer_of,shareholder of,,16-SEP-2009,,Panama Papers
+12000207,10000476,officer_of,director of,,07-DEC-2014,,Panama Papers
+12000482,10000476,officer_of,nominee director of,,12-MAY-2007,,Panama Papers
+11000025,10000476,intermediary_of,intermediary of,,,,Panama Papers
+10000476,14000240,registered_address,registered address,,,,Panama Papers
+12000080,10000477,officer_of,shareholder of,,20-JUN-2011,,Panama Papers
+11000014,10000477,intermediary_of,intermediary of,,,,Panama Papers
+12000385,10000478,officer_of,director of,,24-AUG-2005,,Panama Papers
+11000013,10000478,intermediary_of,intermediary of,,,,Panama Papers
+12000194,10000479,officer_of,director of,,04-JUL-2004,,Panama Papers
+11000007,10000479,intermediary_of,intermediary of,,,,Panama Papers
+12000092,10000480,officer_of,director of,,14-JUN-2004,,Panama Papers
+12000443,10000480,officer_of,secretary of,,20-MAY-2008,,Panama Papers
+12000487,10000480,officer_of,nominee director of,,25-JUN-2001,,Panama Papers
+11000022,10000480,intermediary_of,intermediary of,,,,Panama Papers
+12000258,10000481,officer_of,shareholder of,,28-JUL-2013,,Panama Papers
+12000275,10000481,officer_of,secretary of,,10-AUG-2003,,Panama Papers
+11000030,10000481,intermediary_of,intermediary of,,,,Panama Papers
+12000148,10000482,officer_of,beneficiary of,,25-AUG-2003,,Panama Papers
+12000002,10000482,officer_of,shareholder of,,04-JUL-2011,,Panama Papers
+11000014,10000482,intermediary_of,intermediary of,,,,Panama Papers
+10000482,14000015,registered_address,registered address,,,,Panama Papers
+12000071,10000483,officer_of,director of,,03-OCT-2011,,Panama Papers
+11000001,10000483,intermediary_of,intermediary of,,,,Panama Papers
+10000483,14000128,registered_address,registered address,,,,Panama Papers
+12000292,10000484,officer_of,shareholder of,,03-JUN-1998,,Panama Papers
+11000024,10000484,intermediary_of,intermediary of,,,,Panama Papers
+10000484,14000200,registered_address,registered address,,,,Panama Papers
+12000436,10000485,officer_of,secretary of,,12-DEC-2005,,Panama Papers
+11000006,10000485,intermediary_of,intermediary of,,,,Panama Papers
+10000485,14000103,registered_address,registered address,,,,Panama Papers
+12000068,10000486,officer_of,shareholder of,,19-AUG-2012,,Panama Papers
+12000151,10000486,officer_of,shareholder of,,22-OCT-2012,,Panama Papers
+12000481,10000486,officer_of,nominee director of,,08-MAR-2012,,Panama Papers
+11000017,10000486,intermediary_of,intermediary of,,,,Panama Papers
+10000486,14000170,registered_address,registered address,,,,Panama Papers
+12000126,10000487,officer_of,director of,,01-DEC-1999,,Panama Papers
+11000022,10000487,intermediary_of,intermediary of,,,,Panama Papers
+10000487,14000267,registered_address,registered address,,,,Panama Papers
+12000442,10000488,officer_of,beneficiary of,,23-SEP-2001,,Panama Papers
+12000198,10000488,officer_of,shareholder of,,25-OCT-2015,,Panama Papers
+12000487,10000488,officer_of,nominee director of,,23-JAN-2012,,Panama Papers
+11000016,10000488,intermediary_of,intermediary of,,,,Panama Papers
+12000150,10000489,officer_of,shareholder of,,25-JAN-2009,,Panama Papers
+11000013,10000489,intermediary_of,intermediary of,,,,Panama Papers
+10000489,14000262,registered_address,registered address,,,,Panama Papers
+12000220,10000490,officer_of,beneficiary of,,25-OCT-2001,,Panama Papers
+12000404,10000490,officer_of,shareholder of,,06-JUN-2011,,Panama Papers
+12000483,10000490,officer_of,nominee director of,,22-JUN-2002,,Panama Papers
+11000030,10000490,intermediary_of,intermediary of,,,,Panama Papers
+10000490,14000248,registered_address,registered address,,,,Panama Papers
+12000136,10000491,officer_of,secretary of,,23-AUG-2005,,Panama Papers
+12000482,10000491,officer_of,nominee director of,,25-MAY-2008,,Panama Papers
+11000010,10000491,intermediary_of,intermediary of,,,,Panama Papers
+10000491,14000170,registered_address,registered address,,,,Panama Papers
+12000359,10000492,officer_of,director of,,02-MAR-2002,,Panama Papers
+12000133,10000492,officer_of,director of,,10-JAN-2005,,Panama Papers
+11000029,10000492,intermediary_of,intermediary of,,,,Panama Papers
+10000492,14000186,registered_address,registered address,,,,Panama Papers
+12000158,10000493,officer_of,director of,,21-MAY-2013,,Panama Papers
+12000484,10000493,officer_of,nominee director of,,23-AUG-2007,,Panama Papers
+11000005,10000493,intermediary_of,intermediary of,,,,Panama Papers
+10000493,14000066,registered_address,registered address,,,,Panama Papers
+12000312,10000494,officer_of,beneficiary of,,21-APR-1998,,Panama Papers
+12000487,10000494,officer_of,nominee director of,,28-APR-2007,,Panama Papers
+11000005,10000494,intermediary_of,intermediary of,,,,Panama Papers
+10000494,14000133,registered_address,registered address,,,,Panama Papers
+12000370,10000495,officer_of,director of,,13-AUG-2003,,Panama Papers
+12000261,10000495,officer_of,beneficiary of,,21-MAR-2014,,Panama Papers
+11000011,10000495,intermediary_of,intermediary of,,,,Panama Papers
+10000495,14000194,registered_address,registered address,,,,Panama Papers
+12000332,10000496,officer_of,secretary of,,06-AUG-2010,,Panama Papers
+12000087,10000496,officer_of,director of,,22-FEB-2008,,Panama Papers
+11000008,10000496,intermediary_of,intermediary of,,,,Panama Papers
+10000496,14000115,registered_address,registered address,,,,Panama Papers
+12000143,10000497,officer_of,shareholder of,,26-FEB-2004,,Panama Papers
+11000012,10000497,intermediary_of,intermediary of,,,,Panama Papers
+10000497,14000007,registered_address,registered address,,,,Panama Papers
+12000380,10000498,officer_of,secretary of,,21-FEB-2008,,Panama Papers
+12000481,10000498,officer_of,nominee director of,,17-FEB-2006,,Panama Papers
+11000018,10000498,intermediary_of,intermediary of,,,,Panama Papers
+12000409,10000499,officer_of,shareholder of,,09-DEC-2003,,Panama Papers
+12000484,10000499,officer_of,nominee director of,,23-NOV-2005,,Panama Papers
+11000008,10000499,intermediary_of,intermediary of,,,,Panama Papers
+10000499,14000234,registered_address,registered address,,,,Panama Papers
+12000021,10000500,officer_of,beneficiary of,,18-MAY-2000,,Panama Papers
+11000024,10000500,intermediary_of,intermediary of,,,,Panama Papers
+10000500,14000033,registered_address,registered address,,,,Panama Papers
+12000268,10000501,officer_of,shareholder of,,08-APR-2013,,Panama Papers
+11000015,10000501,intermediary_of,intermediary of,,,,Panama Papers
+10000501,14000027,registered_address,registered address,,,,Panama Papers
+12000405,10000502,officer_of,director of,,15-FEB-2013,,Panama Papers
+12000325,10000502,officer_of,shareholder of,,04-SEP-2004,,Panama Papers
+12000488,10000502,officer_of,nominee director of,,20-AUG-2007,,Panama Papers
+11000019,10000502,intermediary_of,intermediary of,,,,Panama Papers
+10000502,14000221,registered_address,registered address,,,,Panama Papers
+12000369,10000503,officer_of,shareholder of,,07-OCT-2012,,Panama Papers
+11000001,10000503,intermediary_of,intermediary of,,,,Panama Papers
+10000503,14000209,registered_address,registered address,,,,Panama Papers
+12000253,10000504,officer_of,director of,,10-NOV-2007,,Panama Papers
+12000324,10000504,officer_of,beneficiary of,,28-SEP-2005,,Panama Papers
+12000488,10000504,officer_of,nominee director of,,11-MAY-2015,,Panama Papers
+11000017,10000504,intermediary_of,intermediary of,,,,Panama Papers
+10000504,14000226,registered_address,registered address,,,,Panama Papers
+12000388,10000505,officer_of,secretary of,,01-JUN-2014,,Panama Papers
+11000016,10000505,intermediary_of,intermediary of,,,,Panama Papers
+10000505,14000092,registered_address,registered address,,,,Panama Papers
+12000390,10000506,officer_of,beneficiary of,,04-AUG-2008,,Panama Papers
+11000021,10000506,intermediary_of,intermediary of,,,,Panama Papers
+10000506,14000094,registered_address,registered address,,,,Panama Papers
+12000399,10000507,officer_of,shareholder of,,10-SEP-2007,,Panama Papers
+12000484,10000507,officer_of,nominee director of,,11-SEP-2013,,Panama Papers
+11000004,10000507,intermediary_of,intermediary of,,,,Panama Papers
+10000507,14000108,registered_address,registered address,,,,Panama Papers
+12000166,10000508,officer_of,shareholder of,,28-MAR-2003,,Panama Papers
+12000487,10000508,officer_of,nominee director of,,11-SEP-2013,,Panama Papers
+11000021,10000508,intermediary_of,intermediary of,,,,Panama Papers
+10000508,14000214,registered_address,registered address,,,,Panama Papers
+12000118,10000509,officer_of,beneficiary of,,05-MAY-2008,,Panama Papers
+12000478,10000509,officer_of,shareholder of,,12-DEC-2008,,Panama Papers
+12000485,10000509,officer_of,nominee director of,,15-MAY-2011,,Panama Papers
+11000019,10000509,intermediary_of,intermediary of,,,,Panama Papers
+10000509,14000214,registered_address,registered address,,,,Panama Papers
+12000391,10000510,officer_of,director of,,14-JUN-2002,,Panama Papers
+11000015,10000510,intermediary_of,intermediary of,,,,Panama Papers
+10000510,14000010,registered_address,registered address,,,,Panama Papers
+12000107,10000511,officer_of,beneficiary of,,10-JUN-1998,,Panama Papers
+11000011,10000511,intermediary_of,intermediary of,,,,Panama Papers
+10000511,14000196,registered_address,registered address,,,,Panama Papers
+12000286,10000512,officer_of,shareholder of,,20-SEP-2012,,Panama Papers
+12000287,10000512,officer_of,beneficiary of,,04-FEB-2005,,Panama Papers
+11000006,10000512,intermediary_of,intermediary of,,,,Panama Papers
+10000512,14000246,registered_address,registered address,,,,Panama Papers
+12000488,10000513,officer_of,nominee director of,,23-DEC-2013,,Panama Papers
+12000485,10000513,officer_of,nominee director of,,08-MAY-2010,,Panama Papers
+12000487,10000513,officer_of,nominee director of,,02-FEB-1999,,Panama Papers
+11000021,10000513,intermediary_of,intermediary of,,,,Panama Papers
+10000513,14000276,registered_address,registered address,,,,Panama Papers
+12000225,10000514,officer_of,shareholder of,,24-FEB-2008,,Panama Papers
+12000473,10000514,officer_of,shareholder of,,14-MAR-2002,,Panama Papers
+12000488,10000514,officer_of,nominee director of,,19-MAY-2004,,Panama Papers
+11000018,10000514,intermediary_of,intermediary of,,,,Panama Papers
+10000514,14000126,registered_address,registered address,,,,Panama Papers
+12000294,10000515,officer_of,beneficiary of,,18-SEP-2007,,Panama Papers
+12000280,10000515,officer_of,shareholder of,,01-MAR-2000,,Panama Papers
+11000028,10000515,intermediary_of,intermediary of,,,,Panama Papers
+10000515,14000161,registered_address,registered address,,,,Panama Papers
+12000464,10000516,officer_of,shareholder of,,06-JUN-2012,,Panama Papers
+12000396,10000516,officer_of,shareholder of,,15-JUN-2008,,Panama Papers
+11000007,10000516,intermediary_of,intermediary of,,,,Panama Papers
+10000516,14000133,registered_address,registered address,,,,Panama Papers
+12000310,10000517,officer_of,shareholder of,,04-NOV-2011,,Panama Papers
+12000383,10000517,officer_of,secretary of,,13-AUG-1999,,Panama Papers
+11000027,10000517,intermediary_of,intermediary of,,,,Panama Papers
+10000517,14000263,registered_address,registered address,,,,Panama Papers
+12000009,10000518,officer_of,director of,,17-JUN-2015,,Panama Papers
+12000290,10000518,officer_of,secretary of,,10-OCT-2008,,Panama Papers
+11000021,10000518,intermediary_of,intermediary of,,,,Panama Papers
+10000518,14000039,registered_address,registered address,,,,Panama Papers
+12000286,10000519,officer_of,director of,,06-SEP-2000,,Panama Papers
+11000019,10000519,intermediary_of,intermediary of,,,,Panama Papers
+12000385,10000520,officer_of,beneficiary of,,15-AUG-2002,,Panama Papers
+12000487,10000520,officer_of,nominee director of,,21-JUN-2000,,Panama Papers
+11000006,10000520,intermediary_of,intermediary of,,,,Panama Papers
+10000520,14000174,registered_address,registered address,,,,Panama Papers
+12000271,10000521,officer_of,secretary of,,01-JUL-2007,,Panama Papers
+12000400,10000521,officer_of,director of,,20-JUL-1998,,Panama Papers
+11000001,10000521,intermediary_of,intermediary of,,,,Panama Papers
+10000521,14000219,registered_address,registered address,,,,Panama Papers
+12000133,10000522,officer_of,director of,,22-JUN-2015,,Panama Papers
+11000015,10000522,intermediary_of,intermediary of,,,,Panama Papers
+10000522,14000103,registered_address,registered address,,,,Panama Papers
+12000458,10000523,officer_of,director of,,05-APR-2002,,Panama Papers
+12000451,10000523,officer_of,shareholder of,,10-MAR-2001,,Panama Papers
+11000001,10000523,intermediary_of,intermediary of,,,,Panama Papers
+10000523,14000021,registered_address,registered address,,,,Panama Papers
+12000277,10000524,officer_of,director of,,11-JUN-2005,,Panama Papers
+11000022,10000524,intermediary_of,intermediary of,,,,Panama Papers
+10000524,14000156,registered_address,registered address,,,,Panama Papers
+12000218,10000525,officer_of,shareholder of,,07-JUN-1998,,Panama Papers
+11000005,10000525,intermediary_of,intermediary of,,,,Panama Papers
+12000064,10000526,officer_of,director of,,15-DEC-2004,,Panama Papers
+12000428,10000526,officer_of,secretary of,,02-AUG-2012,,Panama Papers
+11000013,10000526,intermediary_of,intermediary of,,,,Panama Papers
+10000526,14000195,registered_address,registered address,,,,Panama Papers
+12000048,10000527,officer_of,director of,,19-DEC-2014,,Panama Papers
+11000004,10000527,intermediary_of,intermediary of,,,,Panama Papers
+10000527,14000108,registered_address,registered address,,,,Panama Papers
+12000482,10000528,officer_of,nominee director of,,20-JUN-2008,,Panama Papers
+11000014,10000528,intermediary_of,intermediary of,,,,Panama Papers
+10000528,14000047,registered_address,registered address,,,,Panama Papers
+12000245,10000529,officer_of,secretary of,,01-JAN-2010,,Panama Papers
+12000131,10000529,officer_of,secretary of,,13-FEB-2009,,Panama Papers
+11000012,10000529,intermediary_of,intermediary of,,,,Panama Papers
+12000223,10000530,officer_of,shareholder of,,10-APR-2000,,Panama Papers
+11000021,10000530,intermediary_of,intermediary of,,,,Panama Papers
+10000530,14000200,registered_address,registered address,,,,Panama Papers
+12000009,10000531,officer_of,shareholder of,,21-JUN-1999,,Panama Papers
+12000488,10000531,officer_of,nominee director of,,05-APR-2003,,Panama Papers
+11000019,10000531,intermediary_of,intermediary of,,,,Panama Papers
+10000531,14000266,registered_address,registered address,,,,Panama Papers
+12000072,10000532,officer_of,director of,,02-OCT-2004,,Panama Papers
+11000028,10000532,intermediary_of,intermediary of,,,,Panama Papers
+10000532,14000151,registered_address,registered address,,,,Panama Papers
+12000317,10000533,officer_of,secretary of,,06-MAR-2014,,Panama Papers
+12000213,10000533,officer_of,shareholder of,,24-NOV-2003,,Panama Papers
+11000012,10000533,intermediary_of,intermediary of,,,,Panama Papers
+12000403,10000534,officer_of,shareholder of,,10-JUL-2009,,Panama Papers
+12000488,10000534,officer_of,nominee director of,,27-MAY-2008,,Panama Papers
+11000001,10000534,intermediary_of,intermediary of,,,,Panama Papers
+10000534,14000170,registered_address,registered address,,,,Panama Papers
+12000456,10000535,officer_of,shareholder of,,28-MAR-2011,,Panama Papers
+11000002,10000535,intermediary_of,intermediary of,,,,Panama Papers
+10000535,14000269,registered_address,registered address,,,,Panama Papers
+12000081,10000536,officer_of,shareholder of,,03-JUL-2000,,Panama Papers
+12000486,10000536,officer_of,nominee director of,,04-AUG-2012,,Panama Papers
+11000014,10000536,intermediary_of,intermediary of,,,,Panama Papers
+12000069,10000537,officer_of,shareholder of,,01-MAY-2013,,Panama Papers
+12000439,10000537,officer_of,secretary of,,09-MAR-2008,,Panama Papers
+11000022,10000537,intermediary_of,intermediary of,,,,Panama Papers
+10000537,14000050,registered_address,registered address,,,,Panama Papers
+12000253,10000538,officer_of,director of,,07-MAR-2005,,Panama Papers
+12000384,10000538,officer_of,director of,,05-MAR-2005,,Panama Papers
+11000022,10000538,intermediary_of,intermediary of,,,,Panama Papers
+10000538,14000049,registered_address,registered address,,,,Panama Papers
+12000145,10000539,officer_of,shareholder of,,08-MAY-2003,,Panama Papers
+12000455,10000539,officer_of,shareholder of,,22-MAY-2008,,Panama Papers
+11000023,10000539,intermediary_of,intermediary of,,,,Panama Papers
+12000390,10000540,officer_of,beneficiary of,,22-MAR-1999,,Panama Papers
+12000461,10000540,officer_of,shareholder of,,26-JUL-1999,,Panama Papers
+12000487,10000540,officer_of,nominee director of,,26-APR-2003,,Panama Papers
+11000001,10000540,intermediary_of,intermediary of,,,,Panama Papers
+10000540,14000018,registered_address,registered address,,,,Panama Papers
+12000083,10000541,officer_of,director of,,19-AUG-2013,,Panama Papers
+11000028,10000541,intermediary_of,intermediary of,,,,Panama Papers
+10000541,14000208,registered_address,registered address,,,,Panama Papers
+12000110,10000542,officer_of,director of,,15-FEB-2006,,Panama Papers
+12000233,10000542,officer_of,shareholder of,,25-SEP-2008,,Panama Papers
+11000011,10000542,intermediary_of,intermediary of,,,,Panama Papers
+12000131,10000543,officer_of,secretary of,,25-SEP-2012,,Panama Papers
+11000022,10000543,intermediary_of,intermediary of,,,,Panama Papers
+10000543,14000176,registered_address,registered address,,,,Panama Papers
+12000033,10000544,officer_of,shareholder of,,01-SEP-2002,,Panama Papers
+12000401,10000544,officer_of,director of,,08-AUG-2001,,Panama Papers
+11000004,10000544,intermediary_of,intermediary of,,,,Panama Papers
+10000544,14000152,registered_address,registered address,,,,Panama Papers
+12000448,10000545,officer_of,secretary of,,14-SEP-2000,,Panama Papers
+11000028,10000545,intermediary_of,intermediary of,,,,Panama Papers
+12000204,10000546,officer_of,director of,,07-MAR-2005,,Panama Papers
+11000025,10000546,intermediary_of,intermediary of,,,,Panama Papers
+10000546,14000182,registered_address,registered address,,,,Panama Papers
+12000289,10000547,officer_of,director of,,02-SEP-2009,,Panama Papers
+11000018,10000547,intermediary_of,intermediary of,,,,Panama Papers
+10000547,14000272,registered_address,registered address,,,,Panama Papers
+12000192,10000548,officer_of,shareholder of,,21-OCT-2005,,Panama Papers
+12000483,10000548,officer_of,nominee director of,,27-DEC-2002,,Panama Papers
+11000018,10000548,intermediary_of,intermediary of,,,,Panama Papers
+12000440,10000549,officer_of,beneficiary of,,13-SEP-2011,,Panama Papers
+12000104,10000549,officer_of,secretary of,,15-JUN-2002,,Panama Papers
+12000487,10000549,officer_of,nominee director of,,24-MAY-1998,,Panama Papers
+11000003,10000549,intermediary_of,intermediary of,,,,Panama Papers
+10000549,14000160,registered_address,registered address,,,,Panama Papers
+12000473,10000550,officer_of,director of,,03-JAN-2011,,Panama Papers
+11000005,10000550,intermediary_of,intermediary of,,,,Panama Papers
+10000550,14000083,registered_address,registered address,,,,Panama Papers
+12000201,10000551,officer_of,shareholder of,,14-JUL-2004,,Panama Papers
+11000008,10000551,intermediary_of,intermediary of,,,,Panama Papers
+12000116,10000552,officer_of,beneficiary of,,05-JUL-2001,,Panama Papers
+11000024,10000552,intermediary_of,intermediary of,,,,Panama Papers
+10000552,14000078,registered_address,registered address,,,,Panama Papers
+12000228,10000553,officer_of,beneficiary of,,01-NOV-2001,,Panama Papers
+12000485,10000553,officer_of,nominee director of,,17-MAY-2014,,Panama Papers
+11000004,10000553,intermediary_of,intermediary of,,,,Panama Papers
+10000553,14000242,registered_address,registered address,,,,Panama Papers
+12000339,10000554,officer_of,director of,,18-DEC-2012,,Panama Papers
+11000005,10000554,intermediary_of,intermediary of,,,,Panama Papers
+10000554,14000175,registered_address,registered address,,,,Panama Papers
+12000487,10000555,officer_of,nominee director of,,09-FEB-2012,,Panama Papers
+12000021,10000555,officer_of,secretary of,,19-MAR-2013,,Panama Papers
+11000025,10000555,intermediary_of,intermediary of,,,,Panama Papers
+10000555,14000268,registered_address,registered address,,,,Panama Papers
+12000046,10000556,officer_of,director of,,20-JUN-2005,,Panama Papers
+11000028,10000556,intermediary_of,intermediary of,,,,Panama Papers
+12000429,10000557,officer_of,secretary of,,02-NOV-2001,,Panama Papers
+12000360,10000557,officer_of,beneficiary of,,27-DEC-2006,,Panama Papers
+11000029,10000557,intermediary_of,intermediary of,,,,Panama Papers
+10000557,14000261,registered_address,registered address,,,,Panama Papers
+12000215,10000558,officer_of,beneficiary of,,03-JAN-2001,,Panama Papers
+12000342,10000558,officer_of,shareholder of,,26-AUG-2005,,Panama Papers
+11000019,10000558,intermediary_of,intermediary of,,,,Panama Papers
+10000558,14000223,registered_address,registered address,,,,Panama Papers
+12000054,10000559,officer_of,secretary of,,18-OCT-2010,,Panama Papers
+12000400,10000559,officer_of,director of,,17-NOV-2010,,Panama Papers
+11000002,10000559,intermediary_of,intermediary of,,,,Panama Papers
+10000559,14000051,registered_address,registered address,,,,Panama Papers
+12000061,10000560,officer_of,shareholder of,,12-OCT-2011,,Panama Papers
+11000027,10000560,intermediary_of,intermediary of,,,,Panama Papers
+10000560,14000021,registered_address,registered address,,,,Panama Papers
+12000332,10000561,officer_of,secretary of,,19-SEP-1999,,Panama Papers
+12000404,10000561,officer_of,secretary of,,27-NOV-2011,,Panama Papers
+11000022,10000561,intermediary_of,intermediary of,,,,Panama Papers
+12000291,10000562,officer_of,director of,,10-JUL-1998,,Panama Papers
+12000486,10000562,officer_of,nominee director of,,24-AUG-2006,,Panama Papers
+11000012,10000562,intermediary_of,intermediary of,,,,Panama Papers
+12000181,10000563,officer_of,beneficiary of,,15-DEC-2006,,Panama Papers
+12000128,10000563,officer_of,shareholder of,,07-SEP-2015,,Panama Papers
+12000481,10000563,officer_of,nominee director of,,21-JUN-2010,,Panama Papers
+11000025,10000563,intermediary_of,intermediary of,,,,Panama Papers
+10000563,14000089,registered_address,registered address,,,,Panama Papers
+12000439,10000564,officer_of,director of,,18-DEC-2005,,Panama Papers
+12000046,10000564,officer_of,beneficiary of,,27-MAY-2001,,Panama Papers
+11000030,10000564,intermediary_of,intermediary of,,,,Panama Papers
+10000564,14000208,registered_address,registered address,,,,Panama Papers
+12000319,10000565,officer_of,secretary of,,07-MAY-2013,,Panama Papers
+12000255,10000565,officer_of,beneficiary of,,11-AUG-2009,,Panama Papers
+11000025,10000565,intermediary_of,intermediary of,,,,Panama Papers
+10000565,14000087,registered_address,registered address,,,,Panama Papers
+12000009,10000566,officer_of,director of,,23-NOV-2015,,Panama Papers
+12000058,10000566,officer_of,beneficiary of,,25-SEP-2015,,Panama Papers
+12000485,10000566,officer_of,nominee director of,,06-JUL-2000,,Panama Papers
+11000007,10000566,intermediary_of,intermediary of,,,,Panama Papers
+10000566,14000208,registered_address,registered address,,,,Panama Papers
+12000075,10000567,officer_of,beneficiary of,,13-MAR-2010,,Panama Papers
+12000367,10000567,officer_of,director of,,28-DEC-2007,,Panama Papers
+11000020,10000567,intermediary_of,intermediary of,,,,Panama Papers
+10000567,14000043,registered_address,registered address,,,,Panama Papers
+12000116,10000568,officer_of,shareholder of,,18-MAR-2006,,Panama Papers
+12000227,10000568,officer_of,director of,,16-APR-2005,,Panama Papers
+11000008,10000568,intermediary_of,intermediary of,,,,Panama Papers
+12000332,10000569,officer_of,beneficiary of,,08-JAN-2013,,Panama Papers
+12000416,10000569,officer_of,secretary of,,14-SEP-2015,,Panama Papers
+12000481,10000569,officer_of,nominee director of,,19-APR-2011,,Panama Papers
+11000006,10000569,intermediary_of,intermediary of,,,,Panama Papers
+12000322,10000570,officer_of,secretary of,,24-MAY-2009,,Panama Papers
+12000295,10000570,officer_of,beneficiary of,,14-JUN-2009,,Panama Papers
+11000029,10000570,intermediary_of,intermediary of,,,,Panama Papers
+12000164,10000571,officer_of,director of,,23-MAR-2008,,Panama Papers
+11000028,10000571,intermediary_of,intermediary of,,,,Panama Papers
+12000408,10000572,officer_of,shareholder of,,04-SEP-2013,,Panama Papers
+11000018,10000572,intermediary_of,intermediary of,,,,Panama Papers
+10000572,14000117,registered_address,registered address,,,,Panama Papers
+12000368,10000573,officer_of,director of,,27-APR-2012,,Panama Papers
+12000360,10000573,officer_of,beneficiary of,,19-JAN-2012,,Panama Papers
+11000020,10000573,intermediary_of,intermediary of,,,,Panama Papers
+10000573,14000224,registered_address,registered address,,,,Panama Papers
+12000088,10000574,officer_of,director of,,21-JAN-2009,,Panama Papers
+12000488,10000574,officer_of,nominee director of,,16-DEC-2002,,Panama Papers
+11000003,10000574,intermediary_of,intermediary of,,,,Panama Papers
+10000574,14000034,registered_address,registered address,,,,Panama Papers
+12000292,10000575,officer_of,shareholder of,,01-DEC-2013,,Panama Papers
+12000130,10000575,officer_of,secretary of,,23-MAR-2010,,Panama Papers
+11000007,10000575,intermediary_of,intermediary of,,,,Panama Papers
+10000575,14000159,registered_address,registered address,,,,Panama Papers
+12000170,10000576,officer_of,director of,,14-MAR-2015,,Panama Papers
+12000120,10000576,officer_of,shareholder of,,19-JUN-1998,,Panama Papers
+11000020,10000576,intermediary_of,intermediary of,,,,Panama Papers
+10000576,14000184,registered_address,registered address,,,,Panama Papers
+12000397,10000577,officer_of,director of,,03-SEP-2011,,Panama Papers
+11000024,10000577,intermediary_of,intermediary of,,,,Panama Papers
+10000577,14000100,registered_address,registered address,,,,Panama Papers
+12000308,10000578,officer_of,shareholder of,,27-MAR-1998,,Panama Papers
+11000021,10000578,intermediary_of,intermediary of,,,,Panama Papers
+12000170,10000579,officer_of,director of,,23-NOV-2010,,Panama Papers
+12000487,10000579,officer_of,nominee director of,,26-JUL-2010,,Panama Papers
+11000023,10000579,intermediary_of,intermediary of,,,,Panama Papers
+10000579,14000176,registered_address,registered address,,,,Panama Papers
+12000050,10000580,officer_of,shareholder of,,23-JUL-2006,,Panama Papers
+11000016,10000580,intermediary_of,intermediary of,,,,Panama Papers
+10000580,14000134,registered_address,registered address,,,,Panama Papers
+12000103,10000581,officer_of,shareholder of,,21-FEB-2008,,Panama Papers
+12000117,10000581,officer_of,secretary of,,25-FEB-2014,,Panama Papers
+11000009,10000581,intermediary_of,intermediary of,,,,Panama Papers
+10000581,14000032,registered_address,registered address,,,,Panama Papers
+12000350,10000582,officer_of,shareholder of,,01-SEP-1998,,Panama Papers
+11000001,10000582,intermediary_of,intermediary of,,,,Panama Papers
+10000582,14000157,registered_address,registered address,,,,Panama Papers
+12000410,10000583,officer_of,director of,,12-FEB-2003,,Panama Papers
+11000007,10000583,intermediary_of,intermediary of,,,,Panama Papers
+10000583,14000256,registered_address,registered address,,,,Panama Papers
+12000275,10000584,officer_of,director of,,28-NOV-2002,,Panama Papers
+12000486,10000584,officer_of,nominee director of,,20-JUN-2003,,Panama Papers
+11000029,10000584,intermediary_of,intermediary of,,,,Panama Papers
+10000584,14000091,registered_address,registered address,,,,Panama Papers
+12000417,10000585,officer_of,director of,,20-JAN-2015,,Panama Papers
+11000029,10000585,intermediary_of,intermediary of,,,,Panama Papers
+12000414,10000586,officer_of,beneficiary of,,04-JUN-2003,,Panama Papers
+11000019,10000586,intermediary_of,intermediary of,,,,Panama Papers
+10000586,14000052,registered_address,registered address,,,,Panama Papers
+12000099,10000587,officer_of,secretary of,,22-SEP-2010,,Panama Papers
+12000309,10000587,officer_of,secretary of,,04-NOV-2015,,Panama Papers
+12000486,10000587,officer_of,nominee director of,,03-JUN-2005,,Panama Papers
+11000012,10000587,intermediary_of,intermediary of,,,,Panama Papers
+10000587,14000252,registered_address,registered address,,,,Panama Papers
+12000407,10000588,officer_of,beneficiary of,,02-AUG-2001,,Panama Papers
+11000028,10000588,intermediary_of,intermediary of,,,,Panama Papers
+10000588,14000165,registered_address,registered address,,,,Panama Papers
+12000388,10000589,officer_of,beneficiary of,,11-MAR-2012,,Panama Papers
+12000280,10000589,officer_of,shareholder of,,10-NOV-2011,,Panama Papers
+11000013,10000589,intermediary_of,intermediary of,,,,Panama Papers
+10000589,14000043,registered_address,registered address,,,,Panama Papers
+12000013,10000590,officer_of,director of,,13-MAY-2013,,Panama Papers
+12000252,10000590,officer_of,beneficiary of,,25-NOV-1999,,Panama Papers
+12000488,10000590,officer_of,nominee director of,,17-JAN-2004,,Panama Papers
+11000003,10000590,intermediary_of,intermediary of,,,,Panama Papers
+10000590,14000278,registered_address,registered address,,,,Panama Papers
+12000329,10000591,officer_of,director of,,18-JAN-1999,,Panama Papers
+11000010,10000591,intermediary_of,intermediary of,,,,Panama Papers
+10000591,14000181,registered_address,registered address,,,,Panama Papers
+12000422,10000592,officer_of,secretary of,,24-SEP-2014,,Panama Papers
+11000028,10000592,intermediary_of,intermediary of,,,,Panama Papers
+10000592,14000190,registered_address,registered address,,,,Panama Papers
+12000467,10000593,officer_of,shareholder of,,08-DEC-2008,,Panama Papers
+12000488,10000593,officer_of,nominee director of,,03-DEC-2004,,Panama Papers
+11000016,10000593,intermediary_of,intermediary of,,,,Panama Papers
+10000593,14000008,registered_address,registered address,,,,Panama Papers
+12000473,10000594,officer_of,shareholder of,,04-MAY-1998,,Panama Papers
+11000029,10000594,intermediary_of,intermediary of,,,,Panama Papers
+10000594,14000170,registered_address,registered address,,,,Panama Papers
+12000200,10000595,officer_of,beneficiary of,,27-JUL-1999,,Panama Papers
+11000005,10000595,intermediary_of,intermediary of,,,,Panama Papers
+10000595,14000127,registered_address,registered address,,,,Panama Papers
+12000452,10000596,officer_of,director of,,23-NOV-2007,,Panama Papers
+12000473,10000596,officer_of,shareholder of,,21-DEC-2006,,Panama Papers
+11000014,10000596,intermediary_of,intermediary of,,,,Panama Papers
+10000596,14000213,registered_address,registered address,,,,Panama Papers
+12000194,10000597,officer_of,shareholder of,,27-AUG-2006,,Panama Papers
+12000143,10000597,officer_of,director of,,01-NOV-2010,,Panama Papers
+11000002,10000597,intermediary_of,intermediary of,,,,Panama Papers
+10000597,14000230,registered_address,registered address,,,,Panama Papers
+12000340,10000598,officer_of,director of,,21-FEB-2001,,Panama Papers
+11000006,10000598,intermediary_of,intermediary of,,,,Panama Papers
+12000035,10000599,officer_of,shareholder of,,24-MAY-2010,,Panama Papers
+12000094,10000599,officer_of,beneficiary of,,18-MAY-2007,,Panama Papers
+11000028,10000599,intermediary_of,intermediary of,,,,Panama Papers
+10000599,14000056,registered_address,registered address,,,,Panama Papers
+12000203,10000600,officer_of,shareholder of,,03-SEP-2013,,Panama Papers
+11000007,10000600,intermediary_of,intermediary of,,,,Panama Papers
+10000600,14000019,registered_address,registered address,,,,Panama Papers
+12000241,14000129,registered_address,registered address,,,,Panama Papers
+12000246,14000177,registered_address,registered address,,,,Panama Papers
+12000056,14000233,registered_address,registered address,,,,Panama Papers
+12000058,14000246,registered_address,registered address,,,,Panama Papers
+12000118,14000079,registered_address,registered address,,,,Panama Papers
+12000020,14000233,registered_address,registered address,,,,Panama Papers
+12000427,14000275,registered_address,registered address,,,,Panama Papers
+12000199,14000185,registered_address,registered address,,,,Panama Papers
+12000095,14000115,registered_address,registered address,,,,Panama Papers
+12000043,14000074,registered_address,registered address,,,,Panama Papers
+12000391,14000147,registered_address,registered address,,,,Panama Papers
+12000356,14000090,registered_address,registered address,,,,Panama Papers
+12000413,14000199,registered_address,registered address,,,,Panama Papers
+12000035,14000132,registered_address,registered address,,,,Panama Papers
+12000124,14000083,registered_address,registered address,,,,Panama Papers
+12000224,14000189,registered_address,registered address,,,,Panama Papers
+12000316,14000011,registered_address,registered address,,,,Panama Papers
+12000190,14000222,registered_address,registered address,,,,Panama Papers
+12000225,14000154,registered_address,registered address,,,,Panama Papers
+12000379,14000074,registered_address,registered address,,,,Panama Papers
+12000074,14000022,registered_address,registered address,,,,Panama Papers
+12000227,14000236,registered_address,registered address,,,,Panama Papers
+12000306,14000211,registered_address,registered address,,,,Panama Papers
+12000394,14000278,registered_address,registered address,,,,Panama Papers
+12000022,14000117,registered_address,registered address,,,,Panama Papers
+12000340,14000206,registered_address,registered address,,,,Panama Papers
+12000258,14000065,registered_address,registered address,,,,Panama Papers
+12000393,14000181,registered_address,registered address,,,,Panama Papers
+12000097,14000107,registered_address,registered address,,,,Panama Papers
+12000465,14000208,registered_address,registered address,,,,Panama Papers
+12000108,14000216,registered_address,registered address,,,,Panama Papers
+12000372,14000214,registered_address,registered address,,,,Panama Papers
+12000163,14000236,registered_address,registered address,,,,Panama Papers
+12000023,14000232,registered_address,registered address,,,,Panama Papers
+12000292,14000228,registered_address,registered address,,,,Panama Papers
+12000008,14000199,registered_address,registered address,,,,Panama Papers
+12000079,14000238,registered_address,registered address,,,,Panama Papers
+12000175,14000187,registered_address,registered address,,,,Panama Papers
+12000441,14000173,registered_address,registered address,,,,Panama Papers
+12000129,14000167,registered_address,registered address,,,,Panama Papers
+12000090,14000205,registered_address,registered address,,,,Panama Papers
+12000180,14000069,registered_address,registered address,,,,Panama Papers
+12000237,14000272,registered_address,registered address,,,,Panama Papers
+12000103,14000106,registered_address,registered address,,,,Panama Papers
+12000330,14000126,registered_address,registered address,,,,Panama Papers
+12000029,14000112,registered_address,registered address,,,,Panama Papers
+12000201,14000098,registered_address,registered address,,,,Panama Papers
+12000195,14000100,registered_address,registered address,,,,Panama Papers
+12000452,14000187,registered_address,registered address,,,,Panama Papers
+12000150,14000238,registered_address,registered address,,,,Panama Papers
+12000259,14000210,registered_address,registered address,,,,Panama Papers
+12000033,14000192,registered_address,registered address,,,,Panama Papers
+12000116,14000158,registered_address,registered address,,,,Panama Papers
+12000480,14000110,registered_address,registered address,,,,Panama Papers
+12000322,14000202,registered_address,registered address,,,,Panama Papers
+12000100,14000073,registered_address,registered address,,,,Panama Papers
+12000172,14000241,registered_address,registered address,,,,Panama Papers
+12000337,14000056,registered_address,registered address,,,,Panama Papers
+12000370,14000278,registered_address,registered address,,,,Panama Papers
+12000470,14000232,registered_address,registered address,,,,Panama Papers
+12000013,14000154,registered_address,registered address,,,,Panama Papers
+12000226,14000212,registered_address,registered address,,,,Panama Papers
+12000036,14000027,registered_address,registered address,,,,Panama Papers
+12000126,14000103,registered_address,registered address,,,,Panama Papers
+12000309,14000112,registered_address,registered address,,,,Panama Papers
+12000271,14000173,registered_address,registered address,,,,Panama Papers
+12000148,14000081,registered_address,registered address,,,,Panama Papers
+12000286,14000197,registered_address,registered address,,,,Panama Papers
+12000083,14000265,registered_address,registered address,,,,Panama Papers
+12000468,14000222,registered_address,registered address,,,,Panama Papers
+12000281,14000093,registered_address,registered address,,,,Panama Papers
+12000456,14000227,registered_address,registered address,,,,Panama Papers
+12000030,14000013,registered_address,registered address,,,,Panama Papers
+12000485,14000106,registered_address,registered address,,,,Panama Papers
+12000351,14000198,registered_address,registered address,,,,Panama Papers
+12000034,14000089,registered_address,registered address,,,,Panama Papers
+12000210,14000140,registered_address,registered address,,,,Panama Papers
+12000266,14000080,registered_address,registered address,,,,Panama Papers
+12000274,14000206,registered_address,registered address,,,,Panama Papers
+12000009,14000102,registered_address,registered address,,,,Panama Papers
+12000317,14000078,registered_address,registered address,,,,Panama Papers
+12000369,14000211,registered_address,registered address,,,,Panama Papers
+12000087,14000163,registered_address,registered address,,,,Panama Papers
+12000371,14000240,registered_address,registered address,,,,Panama Papers
+12000165,14000126,registered_address,registered address,,,,Panama Papers
+12000471,14000067,registered_address,registered address,,,,Panama Papers
+12000483,14000250,registered_address,registered address,,,,Panama Papers
+12000419,14000162,registered_address,registered address,,,,Panama Papers
+12000054,14000272,registered_address,registered address,,,,Panama Papers
+12000414,14000019,registered_address,registered address,,,,Panama Papers
+12000120,14000050,registered_address,registered address,,,,Panama Papers
+12000004,14000034,registered_address,registered address,,,,Panama Papers
+12000196,14000044,registered_address,registered address,,,,Panama Papers
+12000002,14000011,registered_address,registered address,,,,Panama Papers
+12000289,14000005,registered_address,registered address,,,,Panama Papers
+12000416,14000028,registered_address,registered address,,,,Panama Papers
+12000481,14000170,registered_address,registered address,,,,Panama Papers
+12000291,14000047,registered_address,registered address,,,,Panama Papers
+12000062,14000161,registered_address,registered address,,,,Panama Papers
+12000115,14000183,registered_address,registered address,,,,Panama Papers
+12000434,14000104,registered_address,registered address,,,,Panama Papers
+12000019,14000078,registered_address,registered address,,,,Panama Papers
+12000459,14000110,registered_address,registered address,,,,Panama Papers
+12000280,14000158,registered_address,registered address,,,,Panama Papers
+12000038,14000034,registered_address,registered address,,,,Panama Papers
+12000011,14000186,registered_address,registered address,,,,Panama Papers
+12000333,14000162,registered_address,registered address,,,,Panama Papers
+12000244,14000229,registered_address,registered address,,,,Panama Papers
+12000293,14000244,registered_address,registered address,,,,Panama Papers
+12000331,14000174,registered_address,registered address,,,,Panama Papers
+12000198,14000090,registered_address,registered address,,,,Panama Papers
+12000145,14000149,registered_address,registered address,,,,Panama Papers
+12000352,14000156,registered_address,registered address,,,,Panama Papers
+12000472,14000052,registered_address,registered address,,,,Panama Papers
+12000392,14000082,registered_address,registered address,,,,Panama Papers
+12000231,14000078,registered_address,registered address,,,,Panama Papers
+12000122,14000084,registered_address,registered address,,,,Panama Papers
+12000350,14000213,registered_address,registered address,,,,Panama Papers
+12000252,14000061,registered_address,registered address,,,,Panama Papers
+12000314,14000273,registered_address,registered address,,,,Panama Papers
+85000001,10000420,connected_to,connected to,,,,Panama Papers
+85000002,10000576,underlying,connected to,,,,Panama Papers
+85000003,10000288,connected_to,connected to,,,,Panama Papers
+85000004,10000117,connected_to,connected to,,,,Panama Papers
+85000005,10000456,connected_to,connected to,,,,Panama Papers
+85000006,10000041,connected_to,connected to,,,,Panama Papers
+85000007,10000391,underlying,connected to,,,,Panama Papers
+85000008,10000389,underlying,connected to,,,,Panama Papers
+85000009,10000175,connected_to,connected to,,,,Panama Papers
+85000010,10000372,underlying,connected to,,,,Panama Papers
+85000011,10000599,connected_to,connected to,,,,Panama Papers
+85000012,10000459,connected_to,connected to,,,,Panama Papers
+85000013,10000504,underlying,connected to,,,,Panama Papers
+85000014,10000348,connected_to,connected to,,,,Panama Papers
+85000015,10000379,connected_to,connected to,,,,Panama Papers
+85000016,10000182,connected_to,connected to,,,,Panama Papers
+85000017,10000308,underlying,connected to,,,,Panama Papers
+85000018,10000154,connected_to,connected to,,,,Panama Papers
+85000019,10000202,underlying,connected to,,,,Panama Papers
+85000020,10000300,connected_to,connected to,,,,Panama Papers
+85000021,10000364,underlying,connected to,,,,Panama Papers
+85000022,10000017,underlying,connected to,,,,Panama Papers
+85000023,10000174,underlying,connected to,,,,Panama Papers
+85000024,10000259,connected_to,connected to,,,,Panama Papers
+85000025,10000526,underlying,connected to,,,,Panama Papers
+85000026,10000533,connected_to,connected to,,,,Panama Papers
+85000027,10000502,underlying,connected to,,,,Panama Papers
+85000028,10000171,connected_to,connected to,,,,Panama Papers
+85000029,10000245,underlying,connected to,,,,Panama Papers
+85000030,10000270,underlying,connected to,,,,Panama Papers
+85000031,10000444,underlying,connected to,,,,Panama Papers
+85000032,10000042,underlying,connected to,,,,Panama Papers
+85000033,10000470,connected_to,connected to,,,,Panama Papers
+85000034,10000341,connected_to,connected to,,,,Panama Papers
+85000035,10000134,connected_to,connected to,,,,Panama Papers
+85000036,10000588,connected_to,connected to,,,,Panama Papers
+85000037,10000310,underlying,connected to,,,,Panama Papers
+85000038,10000205,underlying,connected to,,,,Panama Papers
+85000039,10000390,underlying,connected to,,,,Panama Papers
+85000040,10000037,underlying,connected to,,,,Panama Papers
+12000357,12000193,probably_same_officer_as,similar name and address as,,,,Panama Papers
+12000188,12000412,same_as,similar name and address as,,,,Panama Papers
+12000209,12000363,probably_same_officer_as,similar name and address as,,,,Panama Papers
+12000068,12000483,probably_same_officer_as,similar name and address as,,,,Panama Papers
+12000369,12000134,same_name_as,similar name and address as,,,,Panama Papers
+12000251,12000145,probably_same_officer_as,similar name and address as,,,,Panama Papers
+12000043,12000468,same_as,similar name and address as,,,,Panama Papers
+12000471,12000344,similar,similar name and address as,,,,Panama Papers
+12000413,12000342,probably_same_officer_as,similar name and address as,,,,Panama Papers
+12000442,12000261,similar,similar name and address as,,,,Panama Papers
+12000012,12000416,same_name_as,similar name and address as,,,,Panama Papers
+12000413,12000391,similar,similar name and address as,,,,Panama Papers
+12000489,10000601,officer_of,nominee director of,,28-APR-2004,,Panama Papers
+12000389,10000601,officer_of,shareholder of,,19-DEC-2007,,Panama Papers
+11000001,10000601,intermediary_of,intermediary of,,,,Panama Papers
+10000601,14000282,registered_address,registered address,,,,Panama Papers
+12000489,10000602,officer_of,nominee director of,,22-APR-2007,,Panama Papers
+12000489,10000370,officer_of,nominee director of,,21-NOV-2005,,Panama Papers
+12000489,10000475,officer_of,nominee director of,,19-MAY-2004,,Panama Papers
+12000489,10000056,officer_of,nominee director of,,17-JAN-2007,,Panama Papers
+10000602,14000281,registered_address,registered address,,,,Panama Papers
+10000603,14000281,registered_address,registered address,,,,Panama Papers
+12000490,10000603,officer_of,beneficial owner of,,01-APR-2003,,Panama Papers
+12000491,10000603,officer_of,secretary of,,07-AUG-2010,,Panama Papers
+11000031,10000602,intermediary_of,intermediary of,,,,Panama Papers
+11000031,10000604,intermediary_of,intermediary of,,,,Panama Papers
+12000491,10000604,officer_of,director of,,16-SEP-2007,,Panama Papers
+12000492,10000605,officer_of,director of,,28-JAN-1999,,Panama Papers
+12000492,12000493,similar,similar name and address as,,,,Panama Papers
+12000493,10000606,officer_of,director of,,10-AUG-2010,,Panama Papers
+10000605,14000283,registered_address,registered address,,,,Panama Papers
+11000032,10000607,intermediary_of,intermediary of,,,,Panama Papers
+12000494,10000607,officer_of,director of,,14-DEC-2009,,Panama Papers
+12000495,10000607,officer_of,director of,,09-JUL-1998,,Panama Papers
+10000607,14000284,registered_address,registered address,,,,Panama Papers
+11000032,10000608,intermediary_of,intermediary of,,,,Panama Papers
+12000496,10000608,officer_of,director of,,04-NOV-1998,,Panama Papers
+10000608,14000285,registered_address,registered address,,,,Panama Papers
+11000032,10000609,intermediary_of,intermediary of,,,,Panama Papers
+12000497,10000609,officer_of,director of,,28-OCT-2015,,Panama Papers
+10000609,14000286,registered_address,registered address,,,,Panama Papers
+10000610,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000610,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000610,officer_of,nominee director of,,28-OCT-2002,,Panama Papers
+10000611,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000611,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000611,officer_of,nominee director of,,17-SEP-1999,,Panama Papers
+10000612,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000612,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000612,officer_of,nominee director of,,24-APR-2008,,Panama Papers
+10000613,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000613,intermediary_of,intermediary of,,,,Panama Papers
+12000487,10000613,officer_of,nominee director of,,17-NOV-2010,,Panama Papers
+10000614,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000614,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000614,officer_of,nominee director of,,08-NOV-2012,,Panama Papers
+10000615,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000615,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000615,officer_of,nominee director of,,16-MAR-2000,,Panama Papers
+10000616,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000616,intermediary_of,intermediary of,,,,Panama Papers
+12000485,10000616,officer_of,nominee director of,,27-APR-2015,,Panama Papers
+10000617,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000617,intermediary_of,intermediary of,,,,Panama Papers
+12000481,10000617,officer_of,nominee director of,,10-FEB-2004,,Panama Papers
+10000618,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000618,intermediary_of,intermediary of,,,,Panama Papers
+12000488,10000618,officer_of,nominee director of,,04-JUL-2009,,Panama Papers
+10000619,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000619,intermediary_of,intermediary of,,,,Panama Papers
+12000485,10000619,officer_of,nominee director of,,11-JUL-2009,,Panama Papers
+10000620,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000620,intermediary_of,intermediary of,,,,Panama Papers
+12000488,10000620,officer_of,nominee director of,,21-OCT-1999,,Panama Papers
+10000621,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000621,intermediary_of,intermediary of,,,,Panama Papers
+12000486,10000621,officer_of,nominee director of,,01-MAY-2013,,Panama Papers
+10000622,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000622,intermediary_of,intermediary of,,,,Panama Papers
+12000487,10000622,officer_of,nominee director of,,23-OCT-2009,,Panama Papers
+10000623,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000623,intermediary_of,intermediary of,,,,Panama Papers
+12000488,10000623,officer_of,nominee director of,,25-FEB-2013,,Panama Papers
+10000624,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000624,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000624,officer_of,nominee director of,,15-JUL-2008,,Panama Papers
+10000625,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000625,intermediary_of,intermediary of,,,,Panama Papers
+12000485,10000625,officer_of,nominee director of,,18-DEC-2012,,Panama Papers
+10000626,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000626,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000626,officer_of,nominee director of,,19-NOV-1998,,Panama Papers
+10000627,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000627,intermediary_of,intermediary of,,,,Panama Papers
+12000488,10000627,officer_of,nominee director of,,09-DEC-2010,,Panama Papers
+10000628,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000628,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000628,officer_of,nominee director of,,23-SEP-2013,,Panama Papers
+10000629,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000629,intermediary_of,intermediary of,,,,Panama Papers
+12000481,10000629,officer_of,nominee director of,,10-OCT-2008,,Panama Papers
+10000630,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000630,intermediary_of,intermediary of,,,,Panama Papers
+12000484,10000630,officer_of,nominee director of,,16-AUG-2005,,Panama Papers
+10000631,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000631,intermediary_of,intermediary of,,,,Panama Papers
+12000481,10000631,officer_of,nominee director of,,10-MAR-2005,,Panama Papers
+10000632,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000632,intermediary_of,intermediary of,,,,Panama Papers
+12000488,10000632,officer_of,nominee director of,,26-DEC-2001,,Panama Papers
+10000633,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000633,intermediary_of,intermediary of,,,,Panama Papers
+12000481,10000633,officer_of,nominee director of,,15-AUG-2009,,Panama Papers
+10000634,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000634,intermediary_of,intermediary of,,,,Panama Papers
+12000486,10000634,officer_of,nominee director of,,21-SEP-2001,,Panama Papers
+10000635,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000635,intermediary_of,intermediary of,,,,Panama Papers
+12000487,10000635,officer_of,nominee director of,,03-FEB-2000,,Panama Papers
+10000636,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000636,intermediary_of,intermediary of,,,,Panama Papers
+12000484,10000636,officer_of,nominee director of,,05-FEB-1998,,Panama Papers
+10000637,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000637,intermediary_of,intermediary of,,,,Panama Papers
+12000488,10000637,officer_of,nominee director of,,22-SEP-2009,,Panama Papers
+10000638,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000638,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000638,officer_of,nominee director of,,19-JUL-2001,,Panama Papers
+10000639,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000639,intermediary_of,intermediary of,,,,Panama Papers
+12000485,10000639,officer_of,nominee director of,,05-DEC-2010,,Panama Papers
+10000640,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000640,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000640,officer_of,nominee director of,,17-NOV-2006,,Panama Papers
+10000641,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000641,intermediary_of,intermediary of,,,,Panama Papers
+12000486,10000641,officer_of,nominee director of,,08-AUG-2004,,Panama Papers
+10000642,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000642,intermediary_of,intermediary of,,,,Panama Papers
+12000484,10000642,officer_of,nominee director of,,04-MAR-2010,,Panama Papers
+10000643,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000643,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000643,officer_of,nominee director of,,22-MAR-2014,,Panama Papers
+10000644,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000644,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000644,officer_of,nominee director of,,08-NOV-2011,,Panama Papers
+10000645,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000645,intermediary_of,intermediary of,,,,Panama Papers
+12000485,10000645,officer_of,nominee director of,,14-JAN-2011,,Panama Papers
+10000646,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000646,intermediary_of,intermediary of,,,,Panama Papers
+12000486,10000646,officer_of,nominee director of,,13-AUG-2005,,Panama Papers
+10000647,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000647,intermediary_of,intermediary of,,,,Panama Papers
+12000487,10000647,officer_of,nominee director of,,21-NOV-2003,,Panama Papers
+10000648,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000648,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000648,officer_of,nominee director of,,14-OCT-1998,,Panama Papers
+10000649,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000649,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000649,officer_of,nominee director of,,25-NOV-1999,,Panama Papers
+10000650,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000650,intermediary_of,intermediary of,,,,Panama Papers
+12000486,10000650,officer_of,nominee director of,,10-SEP-2008,,Panama Papers
+10000651,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000651,intermediary_of,intermediary of,,,,Panama Papers
+12000483,10000651,officer_of,nominee director of,,16-JUN-2000,,Panama Papers
+10000652,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000652,intermediary_of,intermediary of,,,,Panama Papers
+12000482,10000652,officer_of,nominee director of,,09-NOV-2006,,Panama Papers
+10000653,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000653,intermediary_of,intermediary of,,,,Panama Papers
+12000486,10000653,officer_of,nominee director of,,08-OCT-2004,,Panama Papers
+10000654,14000287,registered_address,registered address,,,,Panama Papers
+11000033,10000654,intermediary_of,intermediary of,,,,Panama Papers
+12000487,10000654,officer_of,nominee director of,,09-MAY-2011,,Panama Papers
