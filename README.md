@@ -8,7 +8,7 @@ and return a verdict with the graph path as proof: **APPROVE**, **EDD** (enhance
 Built for **Graph Hacks: Context for AI Agents** (WeMakeDevs × FalkorDB).
 Tracks: **01 Agents That Act on Connected Data** (primary) · **02 Agent Memory and Coordination**.
 
-- Live app: _Vercel URL_ · API: _Hugging Face Space URL_
+- **Live app:** https://shellgame-khaki.vercel.app · **API:** https://shellgame-production-9c95.up.railway.app/api/health
 - Demo video: _link_ · Blog post: _link_
 
 > Possible links, not findings of wrongdoing. Data: ICIJ Offshore Leaks Database and OpenSanctions (both public).
@@ -148,7 +148,7 @@ FALKORDB_LITE_PATH=.data/real.db python -m shellgame.ingest --icij full-oldb.LAT
 Optional LLM: set `ANTHROPIC_API_KEY` or `OPENAI_API_KEY` and the Investigator picks its own tools.
 
 **Deploy:**
-- API: [`deploy/hf-space`](deploy/hf-space) runs on a Hugging Face Docker Space, or use `backend/Dockerfile`.
+- API: Railway builds `backend/Dockerfile` (see `railway.json`). `deploy/hf-space` works on a paid Hugging Face Docker Space.
 - Frontend: Vercel with root directory `frontend` and `NEXT_PUBLIC_API_URL` set.
 
 ## Stack
