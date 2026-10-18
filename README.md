@@ -9,7 +9,7 @@ Built for **Graph Hacks: Context for AI Agents** (WeMakeDevs × FalkorDB).
 Tracks: **01 Agents That Act on Connected Data** (primary) · **02 Agent Memory and Coordination**.
 
 - **Live app:** https://shellgame-khaki.vercel.app · **API:** https://shellgame-production-9c95.up.railway.app/api/health
-- **Demo video:** https://youtu.be/bca5HMEDGkI · Blog post: _link_
+- **Demo video:** https://youtu.be/bca5HMEDGkI · **Blog post:** https://dev.to/mightyasjed/shell-game-three-agents-one-graph-and-a-3-hop-path-to-a-sanctions-list-2llg
 
 > Possible links, not findings of wrongdoing. Data: ICIJ Offshore Leaks Database and OpenSanctions (both public).
 
