@@ -27,6 +27,12 @@ def _g():
     return main_graph()
 
 
+@app.on_event("startup")
+async def warm_up():
+    """Load the graph and cache PageRank before the first visitor (keeps the first investigation fast)."""
+    asyncio.create_task(_call(tools.chokepoints, _g(), [{"nodes": ["", "", ""]}]))
+
+
 @app.get("/api/health")
 async def health():
     try:

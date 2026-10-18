@@ -5,7 +5,9 @@ All reads go through `ro_query`.
 """
 from __future__ import annotations
 
+import bisect
 import re
+import threading
 
 from .schema import KINDS, SANCTION_PREFIX
 
@@ -180,11 +182,23 @@ def neighborhood(g, node_id: str, hops: int = 1, limit: int = 150) -> dict:
 
 # ------------------------------------------------------------------ 4. chokepoints
 NODES_BY_ID = "UNWIND $ids AS i MATCH (n:Node {id: i}) RETURN n"
-# FalkorDB's built-in PageRank over the whole leak graph (~0.6 s on 242k nodes): how central a candidate is in the
-# wider offshore network, not just on our paths. Reported as "top X%" and used to rank ties.
-PAGERANK = ("CALL algo.pageRank('Node', NULL) YIELD node, score WITH collect({id: node.id, s: score}) AS all "
-            "UNWIND [x IN all WHERE x.id IN $ids] AS c "
-            "RETURN c.id, size([y IN all WHERE y.s > c.s]) * 100.0 / size(all)")
+# FalkorDB's built-in PageRank over the whole leak graph: how central a candidate is in the wider offshore
+# network, not just on our paths. Reported as "top X%". The graph is read-only, so scores are computed once
+# per process (~1 s) and cached; repeated whole-graph runs under load would only waste database memory.
+PAGERANK = "CALL algo.pageRank('Node', NULL) YIELD node, score RETURN node.id, score"
+_PR: dict | None = None
+_PR_SORTED: list | None = None
+_PR_LOCK = threading.Lock()
+
+
+def _pagerank_top_pct(g, ids: list) -> dict:
+    global _PR, _PR_SORTED
+    with _PR_LOCK:
+        if _PR is None:
+            _PR = dict(g.ro_query(PAGERANK).result_set)
+            _PR_SORTED = sorted(_PR.values())
+    n = len(_PR_SORTED)
+    return {i: round(100.0 * (n - bisect.bisect_right(_PR_SORTED, _PR[i])) / n, 1) for i in ids if i in _PR}
 
 
 def chokepoints(g, paths: list) -> dict:
@@ -199,7 +213,7 @@ def chokepoints(g, paths: list) -> dict:
     cypher = [NODES_BY_ID, PAGERANK]
     if not count:
         return {"cypher": cypher, "params": params, "chokepoints": []}
-    top = dict(g.ro_query(PAGERANK, params).result_set)
+    top = _pagerank_top_pct(g, params["ids"])
     out = [{"id": (i := n.properties["id"]), "name": n.properties.get("name"), "kind": _kind(n),
             "paths_through": count[i], "betweenness": round(count[i] / len(paths), 3),
             "pagerank_top_pct": round(top.get(i, 100.0), 1)}
