@@ -76,7 +76,7 @@ export function SearchBox({ onPick, autoFocus = false }: { onPick: (c: Candidate
         </ul>
       )}
       {err && <p className="mt-3 text-[13px] text-oxblood">{err}</p>}
-      {empty && <p className="mt-3 text-[13px] text-ink-2">No match for “{q.trim()}”. Try a shorter name or drop the suffix (Ltd, Inc).</p>}
+      {empty && <p className="mt-3 text-[13px] text-ink-2">No match for “{q.trim()}” in the offshore leak records. Shell Game searches companies, officers and intermediaries that appear in the ICIJ Offshore Leaks data, so most ordinary onshore companies won’t be listed. Try a shorter name, drop the suffix (Ltd, Inc), or pick an example below.</p>}
     </div>
   );
 }
