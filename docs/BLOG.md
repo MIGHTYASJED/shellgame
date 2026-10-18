@@ -1,9 +1,13 @@
 ---
 title: "Shell Game: three agents, one graph, and a 3-hop path to a sanctions list"
 tags: falkordb, ai, graphs, hackathon
+cover_image: https://raw.githubusercontent.com/MIGHTYASJED/shellgame/main/frontend/shots/real-02-creatum.png
+published: true
 ---
 
-*Built for Graph Hacks (WeMakeDevs × FalkorDB). Code: github.com/MIGHTYASJED/shellgame · Live: https://shellgame-khaki.vercel.app · Demo video: https://youtu.be/bca5HMEDGkI*
+*Built for Graph Hacks (WeMakeDevs × FalkorDB). Code: https://github.com/MIGHTYASJED/shellgame · Live: https://shellgame-khaki.vercel.app · Demo video: https://youtu.be/bca5HMEDGkI*
+
+{% embed https://youtu.be/bca5HMEDGkI %}
 
 ## The question nobody can answer with a table
 
