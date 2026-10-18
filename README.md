@@ -147,6 +147,8 @@ FALKORDB_LITE_PATH=.data/real.db python -m shellgame.ingest --icij full-oldb.LAT
 
 Optional LLM: set `ANTHROPIC_API_KEY` or `OPENAI_API_KEY` and the Investigator picks its own tools.
 
+**Offline fallback:** if the live API can't be reached, the frontend replays real investigation streams recorded from the live system for the four example companies (`frontend/public/replays`, made by `frontend/scripts/record_replays.py`), clearly labelled as a recording.
+
 **Deploy:**
 - API: Railway builds `backend/Dockerfile` (see `railway.json`). `deploy/hf-space` works on a paid Hugging Face Docker Space.
 - Frontend: Vercel with root directory `frontend` and `NEXT_PUBLIC_API_URL` set.
